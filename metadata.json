@@ -8,9 +8,9 @@
         "supported_versions": "1.0.4",
         "title": "Global Proxy",
         "description": "Global Proxy Localization & Tweaks",
-        "hash": "20330896203308962033089620330896",
+        "hash": "5dbd2dae5dbd2dae5dbd2dae5dbd2dae",
         "created_at": "2026-08-26T18:31:53.212Z",
-        "updated_at": "2026-08-26T18:31:53.212Z"
+        "updated_at": "2026-10-27T14:00:57.211Z"
     },
     {
         "id": "UoVt_o_MFNuWyGyakO2gSb9fxj7cd8Pg",
@@ -21,9 +21,9 @@
         "supported_versions": "1.8.12",
         "title": "Importer",
         "description": "Importer Localization & Tweaks",
-        "hash": "053c707f053c707f053c707f053c707f",
+        "hash": "01fdd0dd01fdd0dd01fdd0dd01fdd0dd",
         "created_at": "2026-08-26T18:31:53.214Z",
-        "updated_at": "2026-08-26T18:31:53.214Z"
+        "updated_at": "2026-10-27T14:00:57.214Z"
     },
     {
         "id": "eJWU_8kForA3wZ3x4DguX1DG4Ptppjj4",
@@ -34,9 +34,9 @@
         "supported_versions": "2.0.8",
         "title": "BRAT",
         "description": "BRAT Localization & Tweaks",
-        "hash": "7dadc88c7dadc88c7dadc88c7dadc88c",
+        "hash": "0de6f6040de6f6040de6f6040de6f604",
         "created_at": "2026-08-26T18:31:53.216Z",
-        "updated_at": "2026-08-26T18:31:53.216Z"
+        "updated_at": "2026-10-27T14:00:57.220Z"
     },
     {
         "id": "5NHLWz5X2kjq1k_Z7LeWSkmIL7lfjcO-",
@@ -47,9 +47,9 @@
         "supported_versions": "1.5.10",
         "title": "Calendar",
         "description": "Calendar view of your daily notes",
-        "hash": "3cb1ecd23cb1ecd23cb1ecd23cb1ecd2",
+        "hash": "63dfa25c63dfa25c63dfa25c63dfa25c",
         "created_at": "2026-08-26T18:31:53.213Z",
-        "updated_at": "2026-08-26T18:31:53.213Z"
+        "updated_at": "2026-10-27T14:00:57.210Z"
     },
     {
         "id": "I1e7ookdrb20Sho-vPk8UmtmGyFw37dC",
@@ -60,9 +60,9 @@
         "supported_versions": "0.5.5",
         "title": "Commander",
         "description": "Commander Localization & Tweaks",
-        "hash": "3ef919523ef919523ef919523ef91952",
+        "hash": "320eca74320eca74320eca74320eca74",
         "created_at": "2026-08-26T18:31:53.217Z",
-        "updated_at": "2026-08-26T18:31:53.217Z"
+        "updated_at": "2026-10-27T14:00:57.208Z"
     },
     {
         "id": "dQ3RyKJCuS7S4zDxRUEMkv0i8bCwP6Fj",
@@ -73,9 +73,9 @@
         "supported_versions": "3.1.13",
         "title": "Editing Toolbar",
         "description": "The Obsidian Editing Toolbar is modified from cmenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience.",
-        "hash": "6e8ac1b26e8ac1b26e8ac1b26e8ac1b2",
+        "hash": "4f6caaba4f6caaba4f6caaba4f6caaba",
         "created_at": "2026-08-26T18:31:53.217Z",
-        "updated_at": "2026-08-26T18:31:53.217Z"
+        "updated_at": "2026-10-27T14:00:57.211Z"
     },
     {
         "id": "NiaPVfHBaBFzn6w63njcsVQUXbb8Xqoa",
@@ -86,9 +86,9 @@
         "supported_versions": "3.2.1",
         "title": "Zotero Integration",
         "description": "Insert and import citations, bibliographies, notes, and PDF annotations from Zotero.",
-        "hash": "427f2dc8427f2dc8427f2dc8427f2dc8",
+        "hash": "53d4351a53d4351a53d4351a53d4351a",
         "created_at": "2026-08-26T18:31:53.218Z",
-        "updated_at": "2026-08-26T18:31:53.218Z"
+        "updated_at": "2026-10-27T14:00:57.218Z"
     },
     {
         "id": "Q0beh5U4ItNPlMlwHtivUtxfzR_Wjtc-",
@@ -112,9 +112,9 @@
         "supported_versions": "2.21.0",
         "title": "Templater",
         "description": "Templater Localization & Tweaks",
-        "hash": "329d3bfc329d3bfc329d3bfc329d3bfc",
+        "hash": "456dec54456dec54456dec54456dec54",
         "created_at": "2026-08-26T18:31:53.221Z",
-        "updated_at": "2026-08-26T18:31:53.221Z"
+        "updated_at": "2026-10-27T14:00:57.222Z"
     },
     {
         "id": "tSEyJcjGezX5JE4BetoGy_hFu74kJL9-",
@@ -125,9 +125,9 @@
         "supported_versions": "1.11.0",
         "title": "Better Export PDF",
         "description": "Better Export PDF Localization & Tweaks",
-        "hash": "29278dcc29278dcc29278dcc29278dcc",
+        "hash": "15d8921e15d8921e15d8921e15d8921e",
         "created_at": "2026-08-26T18:31:53.221Z",
-        "updated_at": "2026-08-26T18:31:53.221Z"
+        "updated_at": "2026-10-27T14:00:57.208Z"
     },
     {
         "id": "NHdUnyMA9T4ioyGdVdAstPlWKGPsNkBp",
@@ -138,9 +138,9 @@
         "supported_versions": "3.1.6",
         "title": "Custom File Explorer sorting",
         "description": "Custom File Explorer sorting Localization & Tweaks",
-        "hash": "7e4e39fc7e4e39fc7e4e39fc7e4e39fc",
+        "hash": "49e7918049e7918049e7918049e79180",
         "created_at": "2026-08-26T18:31:53.218Z",
-        "updated_at": "2026-08-26T18:31:53.218Z"
+        "updated_at": "2026-10-27T14:00:57.210Z"
     },
     {
         "id": "sPybAayrlHg33_hiIigQ6YHe9jbKW-xU",
@@ -151,9 +151,9 @@
         "supported_versions": "0.5.68",
         "title": "Dataview",
         "description": "Dataview Localization & Tweaks",
-        "hash": "2517f8c32517f8c32517f8c32517f8c3",
+        "hash": "0c1658170c1658170c1658170c165817",
         "created_at": "2026-08-26T18:31:53.221Z",
-        "updated_at": "2026-08-26T18:31:53.221Z"
+        "updated_at": "2026-10-27T14:00:57.210Z"
     },
     {
         "id": "iWSpA9TSuPctOQ7FBmgNEHY-6fqMqkF3",
@@ -164,9 +164,9 @@
         "supported_versions": "1.2.4",
         "title": "File Explorer Note Count",
         "description": "File Explorer Note Count Localization & Tweaks",
-        "hash": "40f3fb7d40f3fb7d40f3fb7d40f3fb7d",
+        "hash": "61637e5561637e5561637e5561637e55",
         "created_at": "2026-08-26T18:31:53.222Z",
-        "updated_at": "2026-08-26T18:31:53.222Z"
+        "updated_at": "2026-10-27T14:00:57.211Z"
     },
     {
         "id": "Qa239rBcaR94teaELBCC7JCYJ-aaU-Yi",
@@ -177,9 +177,9 @@
         "supported_versions": "0.7.3",
         "title": "Folder Note",
         "description": "Folder Note Localization & Tweaks",
-        "hash": "50eaed4b50eaed4b50eaed4b50eaed4b",
+        "hash": "2a7e50f52a7e50f52a7e50f52a7e50f5",
         "created_at": "2026-08-26T18:31:53.221Z",
-        "updated_at": "2026-08-26T18:31:53.221Z"
+        "updated_at": "2026-10-27T14:00:57.211Z"
     },
     {
         "id": "qA98620g_ZhptIFXPGTKWGtZTtPBsxAe",
@@ -190,9 +190,9 @@
         "supported_versions": "1.8.24",
         "title": "Folder notes",
         "description": "Folder notes Localization & Tweaks",
-        "hash": "67feeb1767feeb1767feeb1767feeb17",
+        "hash": "29d8739329d8739329d8739329d87393",
         "created_at": "2026-08-26T18:31:53.223Z",
-        "updated_at": "2026-08-26T18:31:53.223Z"
+        "updated_at": "2026-10-27T14:00:57.212Z"
     },
     {
         "id": "5MdJOKFtiYggSr6Z4r75HEGsf4B-bp_-",
@@ -216,9 +216,9 @@
         "supported_versions": "0.1.10",
         "title": "Lapel",
         "description": "Lapel Localization & Tweaks",
-        "hash": "53f78bdd53f78bdd53f78bdd53f78bdd",
+        "hash": "3b46c7b73b46c7b73b46c7b73b46c7b7",
         "created_at": "2026-08-26T18:31:53.232Z",
-        "updated_at": "2026-08-26T18:31:53.232Z"
+        "updated_at": "2026-10-27T14:00:57.213Z"
     },
     {
         "id": "-faUTWYj9QfyIAkfLdo7CW3QoGlzLcuw",
@@ -229,9 +229,9 @@
         "supported_versions": "1.3.0",
         "title": "File Creation and Last Modified Timestamps in Status Bar",
         "description": "File Creation and Last Modified Timestamps in Status Bar Localization & Tweaks",
-        "hash": "5c3d882d5c3d882d5c3d882d5c3d882d",
+        "hash": "614f4db7614f4db7614f4db7614f4db7",
         "created_at": "2026-08-26T18:31:53.223Z",
-        "updated_at": "2026-08-26T18:31:53.223Z"
+        "updated_at": "2026-10-27T14:00:57.213Z"
     },
     {
         "id": "cdXOc6Z5-U2EVNMXCzpaBCUjktQLVUrs",
@@ -242,9 +242,9 @@
         "supported_versions": "1.15",
         "title": "Note Toolbar",
         "description": "Add customizable toolbars to your notes.",
-        "hash": "6eae475a6eae475a6eae475a6eae475a",
+        "hash": "57b8223857b8223857b8223857b82238",
         "created_at": "2026-08-26T18:31:53.224Z",
-        "updated_at": "2026-08-26T18:31:53.224Z"
+        "updated_at": "2026-10-27T14:00:57.214Z"
     },
     {
         "id": "WZGFRNKFO-JHBJxyo0dd5pTZmgJOSCT0",
@@ -255,9 +255,9 @@
         "supported_versions": "4.6.1",
         "title": "Novel word count",
         "description": "Novel word count Localization & Tweaks",
-        "hash": "59dbb65759dbb65759dbb65759dbb657",
+        "hash": "738cae2b738cae2b738cae2b738cae2b",
         "created_at": "2026-08-26T18:31:53.225Z",
-        "updated_at": "2026-08-26T18:31:53.225Z"
+        "updated_at": "2026-10-27T14:00:57.213Z"
     },
     {
         "id": "U6j-ImlZOLeZlFvM9Tz41Od15w2f306R",
@@ -268,9 +268,9 @@
         "supported_versions": "14.6.0",
         "title": "Another Quick Switcher",
         "description": "Another Quick Switcher Localization & Tweaks",
-        "hash": "64c4b5d764c4b5d764c4b5d764c4b5d7",
+        "hash": "47371d0547371d0547371d0547371d05",
         "created_at": "2026-08-26T18:31:53.225Z",
-        "updated_at": "2026-08-26T18:31:53.225Z"
+        "updated_at": "2026-10-27T14:00:57.213Z"
     },
     {
         "id": "R-pVr9ELirxW7szHJg1RlnpRWgt7SQrb",
@@ -281,9 +281,9 @@
         "supported_versions": "1.46.1",
         "title": "Advanced URI",
         "description": "Advanced URI Localization & Tweaks",
-        "hash": "03e0244003e0244003e0244003e02440",
+        "hash": "270fdb68270fdb68270fdb68270fdb68",
         "created_at": "2026-08-26T18:31:53.224Z",
-        "updated_at": "2026-08-26T18:31:53.224Z"
+        "updated_at": "2026-10-27T14:00:57.213Z"
     },
     {
         "id": "b50hOBzIEPAoOJS42lRsfMbUEd5AtQmT",
@@ -294,9 +294,9 @@
         "supported_versions": "1.0.0",
         "title": "Emoji Toolbar",
         "description": "Emoji Toolbar Localization & Tweaks",
-        "hash": "17755e2817755e2817755e2817755e28",
+        "hash": "7fdda0287fdda0287fdda0287fdda028",
         "created_at": "2026-08-26T18:31:53.228Z",
-        "updated_at": "2026-08-26T18:31:53.228Z"
+        "updated_at": "2026-10-27T14:00:57.216Z"
     },
     {
         "id": "3_PWeHRlIZnbMg8rJ5pwiINBadqpwU-9",
@@ -307,9 +307,9 @@
         "supported_versions": "0.11.29",
         "title": "Hover Editor",
         "description": "Hover Editor Localization & Tweaks",
-        "hash": "7c5912197c5912197c5912197c591219",
+        "hash": "047cb20b047cb20b047cb20b047cb20b",
         "created_at": "2026-08-26T18:31:53.225Z",
-        "updated_at": "2026-08-26T18:31:53.225Z"
+        "updated_at": "2026-10-27T14:00:57.215Z"
     },
     {
         "id": "87gMzrkC1wolVOoVzJam4rQ_oWSqg22H",
@@ -320,9 +320,9 @@
         "supported_versions": "2.23.8",
         "title": "Excalidraw",
         "description": "Excalidraw Localization & Tweaks",
-        "hash": "300bba91300bba91300bba91300bba91",
+        "hash": "05cd97af05cd97af05cd97af05cd97af",
         "created_at": "2026-08-26T18:31:53.231Z",
-        "updated_at": "2026-08-26T18:31:53.231Z"
+        "updated_at": "2026-10-27T14:00:57.214Z"
     },
     {
         "id": "cbO-ftKV7h9jK3MJpz9LQirHVtXRJost",
@@ -346,9 +346,9 @@
         "supported_versions": "4.10.1",
         "title": "Outliner",
         "description": "Outliner Localization & Tweaks",
-        "hash": "3438e7993438e7993438e7993438e799",
+        "hash": "38927681389276813892768138927681",
         "created_at": "2026-08-26T18:31:53.232Z",
-        "updated_at": "2026-08-26T18:31:53.232Z"
+        "updated_at": "2026-10-27T14:00:57.215Z"
     },
     {
         "id": "VOPMBA5JQxlFtFs5lAVeTZQ2Rfg0gcoY",
@@ -359,9 +359,9 @@
         "supported_versions": "4.1.3",
         "title": "Local REST API with MCP",
         "description": "Local REST API with MCP Localization & Tweaks",
-        "hash": "39d73dc139d73dc139d73dc139d73dc1",
+        "hash": "0c8adee30c8adee30c8adee30c8adee3",
         "created_at": "2026-08-26T18:31:53.232Z",
-        "updated_at": "2026-08-26T18:31:53.232Z"
+        "updated_at": "2026-10-27T14:00:57.218Z"
     },
     {
         "id": "nG8a4ZwC1Bz_zSWdBm4UOpz9xFxpkYIU",
@@ -372,9 +372,9 @@
         "supported_versions": "1.7.0",
         "title": "Plugin Update Tracker",
         "description": "Plugin Update Tracker Localization & Tweaks",
-        "hash": "52da5a8152da5a8152da5a8152da5a81",
+        "hash": "424bc437424bc437424bc437424bc437",
         "created_at": "2026-08-26T18:31:53.233Z",
-        "updated_at": "2026-08-26T18:31:53.233Z"
+        "updated_at": "2026-10-27T14:00:57.218Z"
     },
     {
         "id": "soluuDjd5Tsr7B_T5HOJqz1QspSGrfJG",
@@ -385,9 +385,9 @@
         "supported_versions": "0.4.1",
         "title": "Pandoc Plugin",
         "description": "Pandoc Plugin Localization & Tweaks",
-        "hash": "2452b5ea2452b5ea2452b5ea2452b5ea",
+        "hash": "6a733df86a733df86a733df86a733df8",
         "created_at": "2026-08-26T18:31:53.232Z",
-        "updated_at": "2026-08-26T18:31:53.232Z"
+        "updated_at": "2026-10-27T14:00:57.218Z"
     },
     {
         "id": "YHyjypNyEXQW5140-HX0kHLCZ7eh0zjy",
@@ -398,9 +398,9 @@
         "supported_versions": "0.5.14",
         "title": "Quiet Outline",
         "description": "Quiet Outline Localization & Tweaks",
-        "hash": "5976b9965976b9965976b9965976b996",
+        "hash": "40f1491640f1491640f1491640f14916",
         "created_at": "2026-08-26T18:31:53.233Z",
-        "updated_at": "2026-08-26T18:31:53.233Z"
+        "updated_at": "2026-10-27T14:00:57.218Z"
     },
     {
         "id": "SZxqbF9Hja4SgrEz2SXJPh6stQ9c_WNU",
@@ -437,9 +437,9 @@
         "supported_versions": "4.5.3",
         "title": "Smart Connections",
         "description": "Smart Connections Localization & Tweaks",
-        "hash": "13747915137479151374791513747915",
+        "hash": "485593b3485593b3485593b3485593b3",
         "created_at": "2026-08-26T18:31:53.236Z",
-        "updated_at": "2026-08-26T18:31:53.236Z"
+        "updated_at": "2026-10-27T14:00:57.219Z"
     },
     {
         "id": "vSP7QYe1ox-HGE0Au1f1CGk5J6D8DpLe",
@@ -450,9 +450,9 @@
         "supported_versions": "0.23.2",
         "title": "Advanced Tables",
         "description": "Advanced Tables Localization & Tweaks",
-        "hash": "118efbd8118efbd8118efbd8118efbd8",
+        "hash": "7ceccaaa7ceccaaa7ceccaaa7ceccaaa",
         "created_at": "2026-08-26T18:31:53.234Z",
-        "updated_at": "2026-08-26T18:31:53.234Z"
+        "updated_at": "2026-10-27T14:00:57.220Z"
     },
     {
         "id": "9Ye43losZpUWnJQwGjVNbwIq2AUzFiNg",
@@ -463,9 +463,9 @@
         "supported_versions": "2.1.4",
         "title": "Update Relative Links",
         "description": "Update Relative Links Localization & Tweaks",
-        "hash": "0a0b51e20a0b51e20a0b51e20a0b51e2",
+        "hash": "357e4c9e357e4c9e357e4c9e357e4c9e",
         "created_at": "2026-08-26T18:31:53.234Z",
-        "updated_at": "2026-08-26T18:31:53.234Z"
+        "updated_at": "2026-10-27T14:00:57.213Z"
     },
     {
         "id": "cuBUNt_gtCkQWuAZ_InbYh9v2FraYfXf",
@@ -489,9 +489,9 @@
         "supported_versions": "1.13.7",
         "title": "Border",
         "description": "Border Localization & Tweaks",
-        "hash": "2bdd34de2bdd34de2bdd34de2bdd34de",
+        "hash": "4805aabd4805aabd4805aabd4805aabd",
         "created_at": "2026-08-26T18:31:53.238Z",
-        "updated_at": "2026-08-26T18:31:53.238Z"
+        "updated_at": "2026-10-27T14:00:57.225Z"
     },
     {
         "id": "u78_0UoRer-96jCF9MPlb6ZLkbwohuP5",
@@ -502,9 +502,9 @@
         "supported_versions": "0.10.6",
         "title": "Agent Client",
         "description": "Agent Client Localization & Tweaks",
-        "hash": "767b37b7767b37b7767b37b7767b37b7",
+        "hash": "44c22eab44c22eab44c22eab44c22eab",
         "created_at": "2026-08-26T18:31:53.240Z",
-        "updated_at": "2026-08-26T18:31:53.240Z"
+        "updated_at": "2026-10-27T14:00:57.210Z"
     },
     {
         "id": "F0YDKhQxyqiPrWmKBn1cpuA4sdbWX-tD",
@@ -515,9 +515,9 @@
         "supported_versions": "1.0.7",
         "title": "GitHub Sync",
         "description": "GitHub Sync Localization & Tweaks",
-        "hash": "35675ed035675ed035675ed035675ed0",
+        "hash": "01f1f99a01f1f99a01f1f99a01f1f99a",
         "created_at": "2026-08-26T18:31:53.241Z",
-        "updated_at": "2026-08-26T18:31:53.241Z"
+        "updated_at": "2026-10-27T14:00:57.211Z"
     },
     {
         "id": "dGaJKg4H8NmRTjzQzUer8cN3OVgK85Hu",
@@ -528,9 +528,9 @@
         "supported_versions": "2.38.3",
         "title": "Git",
         "description": "Git Localization & Tweaks",
-        "hash": "33213652332136523321365233213652",
+        "hash": "0207dd6e0207dd6e0207dd6e0207dd6e",
         "created_at": "2026-08-26T18:31:53.241Z",
-        "updated_at": "2026-08-26T18:31:53.241Z"
+        "updated_at": "2026-10-27T14:00:57.215Z"
     },
     {
         "id": "F2YK2s2_i1kSSS1H59zc45fxmQBFeYB9",
@@ -554,9 +554,9 @@
         "supported_versions": "3.26.0",
         "title": "Terminal",
         "description": "Terminal Localization & Tweaks",
-        "hash": "2431839c2431839c2431839c2431839c",
+        "hash": "7a2ae9207a2ae9207a2ae9207a2ae920",
         "created_at": "2026-08-26T18:31:53.242Z",
-        "updated_at": "2026-08-26T18:31:53.242Z"
+        "updated_at": "2026-10-27T14:00:57.213Z"
     },
     {
         "id": "dxIrjOCZUMKydtdmZSSgcc-aQwEwNSX7",
@@ -567,9 +567,9 @@
         "supported_versions": "1.4.15",
         "title": "Maple",
         "description": "Maple Localization & Tweaks",
-        "hash": "7c005e667c005e667c005e667c005e66",
+        "hash": "2a347f122a347f122a347f122a347f12",
         "created_at": "2026-08-26T18:31:53.242Z",
-        "updated_at": "2026-08-26T18:31:53.242Z"
+        "updated_at": "2026-10-27T14:00:57.222Z"
     },
     {
         "id": "TuMLrM9VDN_peOl48CJbtQ7XqWB-cyIU",
@@ -580,9 +580,9 @@
         "supported_versions": "1.3.5",
         "title": "Oreo",
         "description": "Oreo Localization & Tweaks",
-        "hash": "4d0722894d0722894d0722894d072289",
+        "hash": "3631a7653631a7653631a7653631a765",
         "created_at": "2026-08-26T18:31:53.243Z",
-        "updated_at": "2026-08-26T18:31:53.243Z"
+        "updated_at": "2026-10-27T14:00:57.221Z"
     },
     {
         "id": "MRjdgEksO9GLx6t2p6gLmGWH9Hnbl9WD",
@@ -593,9 +593,9 @@
         "supported_versions": "9.0.13",
         "title": "Zen",
         "description": "Zen Localization & Tweaks",
-        "hash": "4ffd40104ffd40104ffd40104ffd4010",
+        "hash": "611e93e5611e93e5611e93e5611e93e5",
         "created_at": "2026-08-26T18:31:53.242Z",
-        "updated_at": "2026-08-26T18:31:53.242Z"
+        "updated_at": "2026-10-27T14:00:57.222Z"
     },
     {
         "id": "8KygVA9dQEUO0dv7u4V8Kr87CcanvzsO",
@@ -606,9 +606,9 @@
         "supported_versions": "1.5.0",
         "title": "AnuPpuccin",
         "description": "AnuPpuccin Localization & Tweaks",
-        "hash": "006d8f0e006d8f0e006d8f0e006d8f0e",
+        "hash": "0cca65a00cca65a00cca65a00cca65a0",
         "created_at": "2026-08-26T18:31:53.243Z",
-        "updated_at": "2026-08-26T18:31:53.243Z"
+        "updated_at": "2026-10-27T14:00:57.221Z"
     },
     {
         "id": "xRFTgbJ31j_1cpiinkPqi3njGF8mJObz",
@@ -619,9 +619,9 @@
         "supported_versions": "3.8.0",
         "title": "Prism",
         "description": "Prism Localization & Tweaks",
-        "hash": "0db1c48e0db1c48e0db1c48e0db1c48e",
+        "hash": "11d1c8ce11d1c8ce11d1c8ce11d1c8ce",
         "created_at": "2026-08-26T18:31:53.245Z",
-        "updated_at": "2026-08-26T18:31:53.245Z"
+        "updated_at": "2026-10-27T14:00:57.221Z"
     },
     {
         "id": "yeo6sR7VyfDiARA9tTM0ogkFqB94OH-D",
@@ -632,9 +632,9 @@
         "supported_versions": "2.2.3",
         "title": "Things",
         "description": "Things Localization & Tweaks",
-        "hash": "6df6291d6df6291d6df6291d6df6291d",
+        "hash": "693b7efd693b7efd693b7efd693b7efd",
         "created_at": "2026-08-26T18:31:53.246Z",
-        "updated_at": "2026-08-26T18:31:53.246Z"
+        "updated_at": "2026-10-27T14:00:57.222Z"
     },
     {
         "id": "oMU0pkJ5HukYhXnsb7XP1zl4pqvst00R",
@@ -645,9 +645,9 @@
         "supported_versions": "5.79.0",
         "title": "Shimmering Focus",
         "description": "Shimmering Focus Localization & Tweaks",
-        "hash": "3ab71b463ab71b463ab71b463ab71b46",
+        "hash": "7baa2d047baa2d047baa2d047baa2d04",
         "created_at": "2026-08-26T18:31:53.246Z",
-        "updated_at": "2026-08-26T18:31:53.246Z"
+        "updated_at": "2026-10-27T14:00:57.222Z"
     },
     {
         "id": "GlG_60xXYRCrUo9SrvmlyihIxVnokWcl",
@@ -658,9 +658,9 @@
         "supported_versions": "0.7.7",
         "title": "Shiki Highlighter",
         "description": "Shiki Highlighter Localization & Tweaks",
-        "hash": "25eb754f25eb754f25eb754f25eb754f",
+        "hash": "4ced74d34ced74d34ced74d34ced74d3",
         "created_at": "2026-08-26T18:31:53.242Z",
-        "updated_at": "2026-08-26T18:31:53.242Z"
+        "updated_at": "2026-10-27T14:00:57.221Z"
     },
     {
         "id": "xcTMTsVeYCL_FdDOchFwijITIr40JmOj",
@@ -723,9 +723,9 @@
         "supported_versions": "1.4.4",
         "title": "Image Converter",
         "description": "Image Converter Localization & Tweaks",
-        "hash": "3d7b68793d7b68793d7b68793d7b6879",
+        "hash": "200359e5200359e5200359e5200359e5",
         "created_at": "2026-08-26T21:59:01.096Z",
-        "updated_at": "2026-08-26T21:59:01.096Z"
+        "updated_at": "2026-10-27T14:00:57.220Z"
     },
     {
         "id": "r7JQH_GNl-nH315EUXbm-OLGgj1wcehD",
@@ -882,5 +882,421 @@
         "created_at": "2026-10-27T14:00:09.066Z",
         "updated_at": "2026-10-27T14:00:09.066Z",
         "type": "theme"
+    },
+    {
+        "id": "kPNr-VXRRSQgH-dve5rJIUt8BhoDnHRr",
+        "plugin": "pkmer",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "0.8.5",
+        "title": "pkmer",
+        "description": "这是一个连接pkmer.cn的插件",
+        "hash": "6571050e6571050e6571050e6571050e",
+        "created_at": "2026-10-27T14:00:57.223Z",
+        "updated_at": "2026-10-27T14:00:57.223Z"
+    },
+    {
+        "id": "jRb8p2AT299k696NQPTeZyZHgl7Y1Mqe",
+        "plugin": "realclaudian",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.2.4",
+        "title": "Claudian",
+        "description": "Claudian Localization & Tweaks",
+        "hash": "20d8783820d8783820d8783820d87838",
+        "created_at": "2026-10-27T14:00:57.224Z",
+        "updated_at": "2026-10-27T14:00:57.224Z"
+    },
+    {
+        "id": "CJUZ3XKQMN_L2IcNJNg0MslJ6VU-sjiE",
+        "plugin": "highlightr-plugin",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "1.2.2",
+        "title": "Highlightr",
+        "description": "Highlightr Localization & Tweaks",
+        "hash": "6ac814a66ac814a66ac814a66ac814a6",
+        "created_at": "2026-10-27T14:00:57.223Z",
+        "updated_at": "2026-10-27T14:00:57.223Z"
+    },
+    {
+        "id": "N-jgdEAZ0NuwiaAUYawoWTLFbRzZ5Yok",
+        "plugin": "obsidian-regex-pipeline",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "1.4.0",
+        "title": "Regex Pipeline",
+        "description": "Regex Pipeline Localization & Tweaks",
+        "hash": "13cd48b413cd48b413cd48b413cd48b4",
+        "created_at": "2026-10-27T14:00:57.223Z",
+        "updated_at": "2026-10-27T14:00:57.223Z"
+    },
+    {
+        "id": "B4_GYIIeeKeBvf0kxninFrb434Oe0mSc",
+        "plugin": "various-complements",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "11.3.0",
+        "title": "Various Complements",
+        "description": "Various Complements Localization & Tweaks",
+        "hash": "02bafd2602bafd2602bafd2602bafd26",
+        "created_at": "2026-10-27T14:00:57.225Z",
+        "updated_at": "2026-10-27T14:00:57.225Z"
+    },
+    {
+        "id": "3kdBDcPPdOosKhTU4nMVp3Xtvogo45su",
+        "plugin": "antigravity-cli-sidebar",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "2.0.1",
+        "title": "Antigravity CLI Sidebar",
+        "description": "Antigravity CLI Sidebar Localization & Tweaks",
+        "hash": "236cb8c5236cb8c5236cb8c5236cb8c5",
+        "created_at": "2026-10-27T14:00:57.224Z",
+        "updated_at": "2026-10-27T14:00:57.224Z"
+    },
+    {
+        "id": "x00p3ywvtr54ogHLaE-_Gh9o43xGc44t",
+        "plugin": "multi-column-markdown",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "0.9.1",
+        "title": "Multi-Column Markdown",
+        "description": "Multi-Column Markdown Localization & Tweaks",
+        "hash": "3ec3499e3ec3499e3ec3499e3ec3499e",
+        "created_at": "2026-10-27T14:00:57.226Z",
+        "updated_at": "2026-10-27T14:00:57.226Z"
+    },
+    {
+        "id": "wk5Qtkyti20mRmKaCeZhUysx6AEdW5Gx",
+        "plugin": "better-export-pdf",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.11.0",
+        "title": "Better Export PDF",
+        "description": "Better Export PDF 汉化与微调",
+        "hash": "0406919c0406919c0406919c0406919c",
+        "created_at": "2026-10-27T14:00:57.228Z",
+        "updated_at": "2026-10-27T14:00:57.228Z"
+    },
+    {
+        "id": "Sustxa0aS5IyP03-lRWiwwJTzCh_kPGk",
+        "plugin": "calendar",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.5.10",
+        "title": "Calendar",
+        "description": "Calendar 本地化与微调",
+        "hash": "42aa48ff42aa48ff42aa48ff42aa48ff",
+        "created_at": "2026-10-27T14:00:57.225Z",
+        "updated_at": "2026-10-27T14:00:57.225Z"
+    },
+    {
+        "id": "e9dcM6yaOxYsa7bYOg8Bdpd8uyW1-RRT",
+        "plugin": "cmdr",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "0.5.5",
+        "title": "Commander",
+        "description": "Commander 汉化与微调",
+        "hash": "79a4273179a4273179a4273179a42731",
+        "created_at": "2026-10-27T14:00:57.225Z",
+        "updated_at": "2026-10-27T14:00:57.225Z"
+    },
+    {
+        "id": "w7HvzG6dC0vBiC6A8EiOtvaOgdvwSX3k",
+        "plugin": "editing-toolbar",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "3.2.7",
+        "title": "Editing Toolbar",
+        "description": "Editing Toolbar Localization & Tweaks",
+        "hash": "0b0605a30b0605a30b0605a30b0605a3",
+        "created_at": "2026-10-27T14:00:57.225Z",
+        "updated_at": "2026-10-27T14:00:57.225Z"
+    },
+    {
+        "id": "boACd1hQ3WZYO-gHQ1qCP-Jw5mdclt_z",
+        "plugin": "file-explorer-note-count",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.2.4",
+        "title": "file-explorer-note-count",
+        "description": "文件浏览器笔记计数本地化与调整",
+        "hash": "36db8fe836db8fe836db8fe836db8fe8",
+        "created_at": "2026-10-27T14:00:57.228Z",
+        "updated_at": "2026-10-27T14:00:57.228Z"
+    },
+    {
+        "id": "ZRKDNrFq1qdtWlTFfMzJWIk_tnXmfbPH",
+        "plugin": "note-toolbar",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.30.09",
+        "title": "Note Toolbar",
+        "description": "Note Toolbar Localization & Tweaks",
+        "hash": "2f89c9bc2f89c9bc2f89c9bc2f89c9bc",
+        "created_at": "2026-10-27T14:00:57.225Z",
+        "updated_at": "2026-10-27T14:00:57.225Z"
+    },
+    {
+        "id": "qRUeTo0OJDb9B2tY7YH1Jy3634bteTnw",
+        "plugin": "obsidian-excalidraw-plugin",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "2.22.0",
+        "title": "Excalidraw",
+        "description": "Excalidraw 汉化与微调",
+        "hash": "397d4221397d4221397d4221397d4221",
+        "created_at": "2026-10-27T14:00:57.226Z",
+        "updated_at": "2026-10-27T14:00:57.226Z"
+    },
+    {
+        "id": "M4-v9bS7eyyoE7zWV_DAE4WLcm7qaXLB",
+        "plugin": "obsidian-pandoc",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.4.1",
+        "title": "Pandoc Plugin",
+        "description": "Pandoc Plugin Localization & Tweaks",
+        "hash": "1ebfe86c1ebfe86c1ebfe86c1ebfe86c",
+        "created_at": "2026-10-27T14:00:57.225Z",
+        "updated_at": "2026-10-27T14:00:57.225Z"
+    },
+    {
+        "id": "n2nSSBF2NVgEaGjn4m9Zc83w4GlHyTTA",
+        "plugin": "obsidian-quiet-outline",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.5.12",
+        "title": "Quiet Outline",
+        "description": "Quiet Outline Localization & Tweaks",
+        "hash": "391c29b4391c29b4391c29b4391c29b4",
+        "created_at": "2026-10-27T14:00:57.228Z",
+        "updated_at": "2026-10-27T14:00:57.228Z"
+    },
+    {
+        "id": "gt5bbAQTn-fj4XLIf4RA9HwfYpac1-o1",
+        "plugin": "obsidian-style-settings",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.0.9",
+        "title": "Style Settings",
+        "description": "提供用于调整主题、插件和代码段CSS变量的控件。",
+        "hash": "0dbd31070dbd31070dbd31070dbd3107",
+        "created_at": "2026-10-27T14:00:57.229Z",
+        "updated_at": "2026-10-27T14:00:57.229Z"
+    },
+    {
+        "id": "1xU8cUQfdqR9D5XVH1PhGAhB28hCi_QB",
+        "plugin": "obsidian42-brat",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.1",
+        "supported_versions": "2.0.3",
+        "title": "BRAT",
+        "description": "BRAT Localization & Tweaks",
+        "hash": "1006755e1006755e1006755e1006755e",
+        "created_at": "2026-10-27T14:00:57.229Z",
+        "updated_at": "2026-10-27T14:00:57.229Z"
+    },
+    {
+        "id": "nQGBYTNrkSL4_7qscRuQSnnS3GeY2CI5",
+        "plugin": "smart-connections",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "4.3.0",
+        "title": "Smart Connections",
+        "description": "Smart Connections Localization & Tweaks",
+        "hash": "1160ecb21160ecb21160ecb21160ecb2",
+        "created_at": "2026-10-27T14:00:57.227Z",
+        "updated_at": "2026-10-27T14:00:57.227Z"
+    },
+    {
+        "id": "5EzYkluQaKGyOHspwZkDJKQyd4xPAIUG",
+        "plugin": "AnuPpuccin",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.5.0",
+        "title": "AnuPpuccin",
+        "description": "AnuPpuccin 汉化与微调",
+        "hash": "53867d0b53867d0b53867d0b53867d0b",
+        "created_at": "2026-10-27T14:00:57.227Z",
+        "updated_at": "2026-10-27T14:00:57.227Z"
+    },
+    {
+        "id": "Crmbg72U_eHjOjL-AgmTj98RxnFi8vXJ",
+        "plugin": "Border",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.13.5",
+        "title": "Border",
+        "description": "Border主题中文调整",
+        "hash": "10510ffb10510ffb10510ffb10510ffb",
+        "created_at": "2026-10-27T14:00:57.228Z",
+        "updated_at": "2026-10-27T14:00:57.228Z"
+    },
+    {
+        "id": "6zjbNbxOf0gxBB1Pi8okH-_zwIue500w",
+        "plugin": "Maple",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.4.11",
+        "title": "Maple",
+        "description": "Maple Localization & Tweaks",
+        "hash": "7f4997867f4997867f4997867f499786",
+        "created_at": "2026-10-27T14:00:57.228Z",
+        "updated_at": "2026-10-27T14:00:57.228Z"
+    },
+    {
+        "id": "1zIklGQuO8yR38aymw8kgK127Ysxu9oq",
+        "plugin": "Things",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "2.1.20",
+        "title": "Things",
+        "description": "Things Localization & Tweaks",
+        "hash": "1b6a1b251b6a1b251b6a1b251b6a1b25",
+        "created_at": "2026-10-27T14:00:57.230Z",
+        "updated_at": "2026-10-27T14:00:57.230Z"
+    },
+    {
+        "id": "8-02LUjUc2APh5zqrYW_1yIjENGhpL2B",
+        "plugin": "obsidian42-brat",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.0.2",
+        "title": "BRAT",
+        "description": "BRAT Localization & Tweaks",
+        "hash": "50c9ab9150c9ab9150c9ab9150c9ab91",
+        "created_at": "2026-10-27T14:00:57.229Z",
+        "updated_at": "2026-10-27T14:00:57.229Z"
+    },
+    {
+        "id": "PLFQxnsoysVRT7IbmMrDdI9tOOK_3tkl",
+        "plugin": "fit",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "1.5.0",
+        "title": "Fit",
+        "description": "Fit Localization & Tweaks",
+        "hash": "12cc307312cc307312cc307312cc3073",
+        "created_at": "2026-10-27T14:00:57.230Z",
+        "updated_at": "2026-10-27T14:00:57.230Z"
+    },
+    {
+        "id": "ulm_S5NxgPFAFfEkcGujxOT5jui9OFxV",
+        "plugin": "remotely-save",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "0.5.25",
+        "title": "Remotely Save",
+        "description": "Remotely Save Localization & Tweaks",
+        "hash": "4676f6134676f6134676f6134676f613",
+        "created_at": "2026-10-27T14:00:57.240Z",
+        "updated_at": "2026-10-27T14:00:57.240Z"
+    },
+    {
+        "id": "FnPTqi0DzLjxpusvZrliAqmNax-WdK7-",
+        "plugin": "latex-render",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "0.1.2",
+        "title": "Latex Render",
+        "description": "Latex Render Localization & Tweaks",
+        "hash": "29c72f2d29c72f2d29c72f2d29c72f2d",
+        "created_at": "2026-10-27T14:00:57.231Z",
+        "updated_at": "2026-10-27T14:00:57.231Z"
+    },
+    {
+        "id": "R4AHccGy0dIfzI5yGj0PhYXVcOMv8vLX",
+        "plugin": "svg-viewer",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "0.1.0",
+        "title": "SVG Viewer",
+        "description": "SVG Viewer Localization & Tweaks",
+        "hash": "493f0540493f0540493f0540493f0540",
+        "created_at": "2026-10-27T14:00:57.229Z",
+        "updated_at": "2026-10-27T14:00:57.229Z"
+    },
+    {
+        "id": "-JY5yb0gSF2XCA70NHRg6TBTeMKqASNz",
+        "plugin": "obsidian-annotator",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "0.2.11",
+        "title": "Annotator",
+        "description": "Annotator Localization & Tweaks",
+        "hash": "485c4846485c4846485c4846485c4846",
+        "created_at": "2026-10-27T14:00:57.229Z",
+        "updated_at": "2026-10-27T14:00:57.229Z"
+    },
+    {
+        "id": "OlYt1No6ebiOkVxpDA9k3GNPP-2MRjc8",
+        "plugin": "smart-lookup",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "0.1.7",
+        "title": "Smart Lookup",
+        "description": "Smart Lookup Localization & Tweaks",
+        "hash": "06fcdbfd06fcdbfd06fcdbfd06fcdbfd",
+        "created_at": "2026-10-27T14:00:57.230Z",
+        "updated_at": "2026-10-27T14:00:57.230Z"
+    },
+    {
+        "id": "ZRbJ3p1An62UC7O153U_KBM1szlR2yFo",
+        "plugin": "obsidian-admonition",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "12.0.3",
+        "title": "Admonition",
+        "description": "Admonition Localization & Tweaks",
+        "hash": "0bbea9100bbea9100bbea9100bbea910",
+        "created_at": "2026-10-27T14:00:57.230Z",
+        "updated_at": "2026-10-27T14:00:57.230Z"
+    },
+    {
+        "id": "gCtbEpEknK3SQyt8CyboVk_1sRBGOVeu",
+        "plugin": "Minimal",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "8.2.1",
+        "title": "Minimal",
+        "description": "Minimal Localization & Tweaks",
+        "hash": "18ed054418ed054418ed054418ed0544",
+        "created_at": "2026-10-27T14:00:57.230Z",
+        "updated_at": "2026-10-27T14:00:57.230Z"
     }
 ]
