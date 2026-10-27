@@ -1,0 +1,4269 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "theme": "Blue Topaz",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supportedVersions": "2026081501",
+        "title": "Blue Topaz",
+        "description": "Blue Topaz Localization & Tweaks",
+        "author": "yyyr"
+    },
+    "dict": [
+        {
+            "type": "name",
+            "source": "🥑Blue Topaz Theme",
+            "target": "🥑蓝托帕斯主题"
+        },
+        {
+            "type": "title",
+            "source": "Attention！Due to obsidian's policy of not being able to use online or local vault images, However, the option to customise the settings and fill in the url is currently supported.",
+            "target": "注意！由于Obsidian的政策限制，无法使用在线或本地保险库中的图片。不过，目前支持自定义设置并填写URL。"
+        },
+        {
+            "type": "title",
+            "source": "1. General settings",
+            "target": "1. 常规设置"
+        },
+        {
+            "type": "title",
+            "source": "1.1 Color scheme",
+            "target": "1.1 配色方案"
+        },
+        {
+            "type": "title",
+            "source": "Color palette (from Topaz Community)",
+            "target": "颜色调色板（来自Topaz社区）"
+        },
+        {
+            "type": "label",
+            "source": "Default",
+            "target": "默认"
+        },
+        {
+            "type": "label",
+            "source": "Avocado",
+            "target": "牛油果"
+        },
+        {
+            "type": "label",
+            "source": "Monochrome",
+            "target": "单色"
+        },
+        {
+            "type": "label",
+            "source": "Pink",
+            "target": "粉色"
+        },
+        {
+            "type": "label",
+            "source": "Topaz-Nord",
+            "target": "Topaz-Nord"
+        },
+        {
+            "type": "label",
+            "source": "=↓😺 Created by Topaz Community 🐵↓=",
+            "target": "=↓😺 由 Topaz 社区创建 🐵↓="
+        },
+        {
+            "type": "label",
+            "source": "Flamingo (@Mouth on Cloud & @Rainbell)",
+            "target": "Flamingo (@Mouth on Cloud 和 @Rainbell)"
+        },
+        {
+            "type": "label",
+            "source": "Honey milk (@LillianWho)",
+            "target": "Honey milk (@LillianWho)"
+        },
+        {
+            "type": "label",
+            "source": "榛子巧克力 Hazelnut chocolate (@LillianWho)",
+            "target": "榛子巧克力 (@LillianWho)"
+        },
+        {
+            "type": "label",
+            "source": "Lilac (@awyugan)",
+            "target": "Lilac (@awyugan)"
+        },
+        {
+            "type": "label",
+            "source": "Autumn (@LillianWho)",
+            "target": "Autumn (@LillianWho)"
+        },
+        {
+            "type": "label",
+            "source": "魔方 Rubik's Cube (@LillianWho)",
+            "target": "魔方 (@LillianWho)"
+        },
+        {
+            "type": "label",
+            "source": "Simplicity (@Cuman)",
+            "target": "Simplicity (@Cuman)"
+        },
+        {
+            "type": "title",
+            "source": "Disable auto hide header",
+            "target": "禁用自动隐藏标题栏"
+        },
+        {
+            "type": "title",
+            "source": "Color of Rubik's cube palette",
+            "target": "魔方调色板颜色"
+        },
+        {
+            "type": "title",
+            "source": "Main color",
+            "target": "主色调"
+        },
+        {
+            "type": "title",
+            "source": "Low contrast color",
+            "target": "低对比度颜色"
+        },
+        {
+            "type": "title",
+            "source": "Deep color",
+            "target": "深色"
+        },
+        {
+            "type": "title",
+            "source": "1.2 Background images",
+            "target": "1.2 背景图片"
+        },
+        {
+            "type": "title",
+            "source": "1.2.1 Workplace background image",
+            "target": "1.2.1 工作区背景图片"
+        },
+        {
+            "type": "title",
+            "source": "Activate image background",
+            "target": "启用图片背景"
+        },
+        {
+            "type": "title",
+            "source": "Side split container background color",
+            "target": "侧边分栏容器背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Light mode",
+            "target": "浅色模式"
+        },
+        {
+            "type": "label",
+            "source": "Blue Mountain",
+            "target": "蓝色山脉"
+        },
+        {
+            "type": "label",
+            "source": "Note",
+            "target": "笔记"
+        },
+        {
+            "type": "label",
+            "source": "Waves",
+            "target": "波浪"
+        },
+        {
+            "type": "label",
+            "source": "Animating waves",
+            "target": "动画波浪"
+        },
+        {
+            "type": "label",
+            "source": "Custom",
+            "target": "自定义"
+        },
+        {
+            "type": "title",
+            "source": "Custom theme light (url)",
+            "target": "自定义主题浅色（URL）"
+        },
+        {
+            "type": "description",
+            "source": "Customise the background image. Use the format in the Default below for an Online image.",
+            "target": "自定义背景图片。使用下方默认格式指定在线图片。"
+        },
+        {
+            "type": "title",
+            "source": "Dark mode",
+            "target": "深色模式"
+        },
+        {
+            "type": "label",
+            "source": "Night sky",
+            "target": "夜空"
+        },
+        {
+            "type": "label",
+            "source": "Dark sky",
+            "target": "暗空"
+        },
+        {
+            "type": "label",
+            "source": "In the sky",
+            "target": "天空中"
+        },
+        {
+            "type": "title",
+            "source": "Custom theme dark (url)",
+            "target": "自定义主题深色（URL）"
+        },
+        {
+            "type": "title",
+            "source": "Blur radius",
+            "target": "模糊半径"
+        },
+        {
+            "type": "description",
+            "source": "To adjust the radius of blur",
+            "target": "调整模糊半径"
+        },
+        {
+            "type": "title",
+            "source": "Brightness of image",
+            "target": "图像亮度"
+        },
+        {
+            "type": "description",
+            "source": "To adjust the brightness",
+            "target": "调整亮度"
+        },
+        {
+            "type": "title",
+            "source": "Saturation of image",
+            "target": "图像饱和度"
+        },
+        {
+            "type": "description",
+            "source": "To adjust the saturation",
+            "target": "调整饱和度"
+        },
+        {
+            "type": "title",
+            "source": "Waves color",
+            "target": "波浪颜色"
+        },
+        {
+            "type": "title",
+            "source": "Random background",
+            "target": "随机背景"
+        },
+        {
+            "type": "description",
+            "source": "Images will be refreshed when Obsidian launches; Internet required",
+            "target": "Obsidian启动时将刷新图像；需要联网"
+        },
+        {
+            "type": "title",
+            "source": "1.2.2 Note page background image",
+            "target": "1.2.2 笔记页背景图像"
+        },
+        {
+            "type": "title",
+            "source": "Toggle note background image",
+            "target": "切换笔记背景图片"
+        },
+        {
+            "type": "title",
+            "source": "Activate non-overlapping note background when toggling workplace background",
+            "target": "切换工作区背景时启用非重叠笔记背景"
+        },
+        {
+            "type": "title",
+            "source": "Choose image set",
+            "target": "选择图片集"
+        },
+        {
+            "type": "label",
+            "source": "Transparent",
+            "target": "透明"
+        },
+        {
+            "type": "title",
+            "source": "Opacity",
+            "target": "不透明度"
+        },
+        {
+            "type": "title",
+            "source": "custom markdown page background color",
+            "target": "自定义 Markdown 页面背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Custom image (Light mode)",
+            "target": "自定义图片（浅色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Custom image (Dark mode)",
+            "target": "自定义图片（深色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle notebook-liked background",
+            "target": "切换笔记本风格背景"
+        },
+        {
+            "type": "title",
+            "source": "Notebook-liked background",
+            "target": "笔记本风格背景"
+        },
+        {
+            "type": "label",
+            "source": "Grid notebook 1 (@CZ-15/YZ-10)",
+            "target": "网格笔记本 1 (@CZ-15/YZ-10)"
+        },
+        {
+            "type": "label",
+            "source": "Grid notebook 2",
+            "target": "网格笔记本 2"
+        },
+        {
+            "type": "label",
+            "source": "Dotted notebook 1",
+            "target": "虚线笔记本 1"
+        },
+        {
+            "type": "label",
+            "source": "Dotted notebook 2",
+            "target": "虚线笔记本 2"
+        },
+        {
+            "type": "label",
+            "source": "Stripe notebook 1",
+            "target": "条纹笔记本 1"
+        },
+        {
+            "type": "label",
+            "source": "Stripe notebook 2",
+            "target": "条纹笔记本 2"
+        },
+        {
+            "type": "title",
+            "source": "Toggle fixed pattern",
+            "target": "切换固定图案"
+        },
+        {
+            "type": "title",
+            "source": "1.2.2.1 Notebook-liked background options",
+            "target": "1.2.2.1 笔记本风格背景选项"
+        },
+        {
+            "type": "title",
+            "source": "Toggle background of split pane",
+            "target": "切换分屏背景"
+        },
+        {
+            "type": "title",
+            "source": "Notebook background color",
+            "target": "笔记本背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Grid notebook line color",
+            "target": "网格笔记本线条颜色"
+        },
+        {
+            "type": "title",
+            "source": "Grid notebook line color for 'Grid 2'",
+            "target": "“网格 2”的网格笔记本线条颜色"
+        },
+        {
+            "type": "title",
+            "source": "Dotted notebook dot color",
+            "target": "虚线笔记本圆点颜色"
+        },
+        {
+            "type": "title",
+            "source": "Stripe notebook stripe color",
+            "target": "条纹笔记本条纹颜色"
+        },
+        {
+            "type": "title",
+            "source": "1.2.3 Images of command palette",
+            "target": "1.2.3 命令面板图像"
+        },
+        {
+            "type": "title",
+            "source": "Toggle images of command palette",
+            "target": "命令面板切换图像"
+        },
+        {
+            "type": "title",
+            "source": "Same background as workplace's",
+            "target": "与工作区相同的背景"
+        },
+        {
+            "type": "title",
+            "source": "Custom background image",
+            "target": "自定义背景图像"
+        },
+        {
+            "type": "title",
+            "source": "Custom theme (light, url)",
+            "target": "自定义主题（浅色，url）"
+        },
+        {
+            "type": "title",
+            "source": "Custom theme (dark, url)",
+            "target": "自定义主题（深色，url）"
+        },
+        {
+            "type": "title",
+            "source": "Brightness",
+            "target": "亮度"
+        },
+        {
+            "type": "title",
+            "source": "Saturation",
+            "target": "饱和度"
+        },
+        {
+            "type": "title",
+            "source": "1.2.4 File explorer background",
+            "target": "1.2.4 文件资源管理器背景"
+        },
+        {
+            "type": "title",
+            "source": "Toggle background image",
+            "target": "切换背景图像"
+        },
+        {
+            "type": "title",
+            "source": "Image picking (Light mode)",
+            "target": "图像选择（浅色模式）"
+        },
+        {
+            "type": "label",
+            "source": "Wall",
+            "target": "墙壁"
+        },
+        {
+            "type": "title",
+            "source": "Image picking (Dark mode)",
+            "target": "图像选择（深色模式）"
+        },
+        {
+            "type": "label",
+            "source": "Plant",
+            "target": "植物"
+        },
+        {
+            "type": "title",
+            "source": "1.3 Layout",
+            "target": "1.3 布局"
+        },
+        {
+            "type": "title",
+            "source": "Left ribbon styles",
+            "target": "左侧边栏样式"
+        },
+        {
+            "type": "label",
+            "source": "Fixed",
+            "target": "固定"
+        },
+        {
+            "type": "label",
+            "source": "Hide to left",
+            "target": "隐藏至左侧"
+        },
+        {
+            "type": "label",
+            "source": "Hide to the left retention drawer",
+            "target": "隐藏至左侧保留抽屉"
+        },
+        {
+            "type": "label",
+            "source": "Bubble",
+            "target": "气泡"
+        },
+        {
+            "type": "label",
+            "source": "Bubble, hide to left",
+            "target": "气泡，隐藏至左侧"
+        },
+        {
+            "type": "title",
+            "source": "Search bar style",
+            "target": "搜索栏样式"
+        },
+        {
+            "type": "label",
+            "source": "Bottom",
+            "target": "底部"
+        },
+        {
+            "type": "title",
+            "source": "Fullwidth status bar",
+            "target": "全宽状态栏"
+        },
+        {
+            "type": "title",
+            "source": "Scrollbar style",
+            "target": "滚动条样式"
+        },
+        {
+            "type": "label",
+            "source": "Hovering (adapted from @subframe7536's css snippet)",
+            "target": "悬停（改编自 @subframe7536 的 CSS 片段）"
+        },
+        {
+            "type": "label",
+            "source": "Remove Scrollbar",
+            "target": "移除滚动条"
+        },
+        {
+            "type": "label",
+            "source": "Obsidian default",
+            "target": "Obsidian 默认"
+        },
+        {
+            "type": "title",
+            "source": "Scrollbar thumb background",
+            "target": "滚动条滑块背景"
+        },
+        {
+            "type": "title",
+            "source": "Scrollbar thumb background (Active)",
+            "target": "滚动条滑块背景（激活）"
+        },
+        {
+            "type": "title",
+            "source": "The view status button is placed in front of the header",
+            "target": "视图状态按钮置于标题栏前方"
+        },
+        {
+            "type": "title",
+            "source": "The tab title bar positioned to the left",
+            "target": "标签页标题栏位于左侧"
+        },
+        {
+            "type": "title",
+            "source": "Toggle non-divided-line style",
+            "target": "切换无边框线样式"
+        },
+        {
+            "type": "title",
+            "source": "Toggle non-divided-line header box",
+            "target": "切换无边框线标题框"
+        },
+        {
+            "type": "title",
+            "source": "Layout styles",
+            "target": "布局样式"
+        },
+        {
+            "type": "label",
+            "source": "Rectangle",
+            "target": "矩形"
+        },
+        {
+            "type": "label",
+            "source": "Asymmetric Style of Split Panes",
+            "target": "分屏不对称风格"
+        },
+        {
+            "type": "title",
+            "source": "1.3.1 Bubble settings",
+            "target": "1.3.1 气泡设置"
+        },
+        {
+            "type": "title",
+            "source": "Enable card format for file browser",
+            "target": "为文件浏览器启用卡片格式"
+        },
+        {
+            "type": "title",
+            "source": "Remove borders of bubbles",
+            "target": "移除气泡边框"
+        },
+        {
+            "type": "title",
+            "source": "Toggle bubble buttons",
+            "target": "切换气泡按钮"
+        },
+        {
+            "type": "title",
+            "source": "Bubble padding",
+            "target": "气泡内边距"
+        },
+        {
+            "type": "title",
+            "source": "Bubble radius",
+            "target": "气泡半径"
+        },
+        {
+            "type": "title",
+            "source": "2. Detail settings",
+            "target": "2. 详情设置"
+        },
+        {
+            "type": "title",
+            "source": "2.1 Color settings",
+            "target": "2.1 颜色设置"
+        },
+        {
+            "type": "title",
+            "source": "Main text color",
+            "target": "主文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "2.1.1 Background colors",
+            "target": "2.1.1 背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Background primary",
+            "target": "主背景色"
+        },
+        {
+            "type": "description",
+            "source": "background-primary-bg-4-bt",
+            "target": "背景主色-4-bt"
+        },
+        {
+            "type": "title",
+            "source": "Background primary (alt)",
+            "target": "主背景色（备选）"
+        },
+        {
+            "type": "description",
+            "source": "background-primary-alt-bg-4-bt",
+            "target": "背景主色-替代-4-bt"
+        },
+        {
+            "type": "title",
+            "source": "Background secondary",
+            "target": "次背景色"
+        },
+        {
+            "type": "description",
+            "source": "background-secondary-bg-4-bt",
+            "target": "背景次色-4-bt"
+        },
+        {
+            "type": "title",
+            "source": "Background secondary (alt)",
+            "target": "次背景色（备选）"
+        },
+        {
+            "type": "description",
+            "source": "background-secondary-alt-bg-4-bt",
+            "target": "背景次色-替代-4-bt"
+        },
+        {
+            "type": "title",
+            "source": "Background modifier border",
+            "target": "背景修饰器边框"
+        },
+        {
+            "type": "title",
+            "source": "2.1.2 Theme colors",
+            "target": "2.1.2 主题颜色"
+        },
+        {
+            "type": "title",
+            "source": "Theme color",
+            "target": "主题颜色"
+        },
+        {
+            "type": "description",
+            "source": "interactive-accent",
+            "target": "交互强调色"
+        },
+        {
+            "type": "title",
+            "source": "2.1.3 Other colors",
+            "target": "2.1.3 其他颜色"
+        },
+        {
+            "type": "title",
+            "source": "Bold type color",
+            "target": "粗体文字颜色"
+        },
+        {
+            "type": "description",
+            "source": "--accent-strong",
+            "target": "--accent-strong"
+        },
+        {
+            "type": "title",
+            "source": "Italic type color",
+            "target": "斜体文字颜色"
+        },
+        {
+            "type": "description",
+            "source": "--accent-em",
+            "target": "--accent-em"
+        },
+        {
+            "type": "title",
+            "source": "Bold italic color 1",
+            "target": "粗斜体颜色 1"
+        },
+        {
+            "type": "description",
+            "source": "--strong-em-color-1",
+            "target": "--strong-em-color-1"
+        },
+        {
+            "type": "title",
+            "source": "Bold italic color 2",
+            "target": "粗体斜体颜色 2"
+        },
+        {
+            "type": "description",
+            "source": "--strong-em-color-2",
+            "target": "--strong-em-color-2"
+        },
+        {
+            "type": "title",
+            "source": "Color of mathematical expressions (inline $x=0$)",
+            "target": "数学表达式颜色（内联 $x=0$）"
+        },
+        {
+            "type": "description",
+            "source": "--mjx-inline-math-color",
+            "target": "--mjx-inline-math-color"
+        },
+        {
+            "type": "title",
+            "source": "Color of mathematical expressions ($$x=0$$)",
+            "target": "数学表达式颜色（$$x=0$$）"
+        },
+        {
+            "type": "description",
+            "source": "--mjx-math-color",
+            "target": "--mjx-math-color"
+        },
+        {
+            "type": "title",
+            "source": "Color of leaf resize handle",
+            "target": "叶子调整大小手柄颜色"
+        },
+        {
+            "type": "description",
+            "source": "--background-leaf-resize-handle",
+            "target": "--background-leaf-resize-handle"
+        },
+        {
+            "type": "title",
+            "source": "File search result highlight color",
+            "target": "文件搜索结果高亮颜色"
+        },
+        {
+            "type": "description",
+            "source": "--search-result-file-matched-bg",
+            "target": "--search-result-file-matched-bg"
+        },
+        {
+            "type": "title",
+            "source": "Text search result highlight color",
+            "target": "文本搜索结果高亮颜色"
+        },
+        {
+            "type": "description",
+            "source": "--text-search-highlight-bg",
+            "target": "--text-search-highlight-bg"
+        },
+        {
+            "type": "title",
+            "source": "Text selection background",
+            "target": "文本选中文本背景色"
+        },
+        {
+            "type": "description",
+            "source": "--text-selection",
+            "target": "--text-selection"
+        },
+        {
+            "type": "title",
+            "source": "Toggle selection background (Non-text part)",
+            "target": "切换选中文本背景（非文本部分）"
+        },
+        {
+            "type": "title",
+            "source": "Status bar background",
+            "target": "状态栏背景色"
+        },
+        {
+            "type": "description",
+            "source": "--status-bar-bg",
+            "target": "--status-bar-bg"
+        },
+        {
+            "type": "title",
+            "source": "Status bar text color",
+            "target": "状态栏文本颜色"
+        },
+        {
+            "type": "description",
+            "source": "--status-bar-text-color",
+            "target": "--状态栏文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Focused icon color",
+            "target": "聚焦图标颜色"
+        },
+        {
+            "type": "description",
+            "source": "--icon-color-focused",
+            "target": "--icon-color-focused 描述"
+        },
+        {
+            "type": "title",
+            "source": "Divider color",
+            "target": "分隔线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Tab outline color",
+            "target": "标签页轮廓颜色"
+        },
+        {
+            "type": "title",
+            "source": "2.1.4 Graph-view colors",
+            "target": "2.1.4 图视图颜色"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view canvas background",
+            "target": "图视图画布背景色"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view text color",
+            "target": "图视图文字颜色"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view line color",
+            "target": "图视图线条颜色"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view line highlight color (Hovering)",
+            "target": "图视图线条高亮颜色（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view arrow color",
+            "target": "图视图箭头颜色"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle outline color",
+            "target": "图视图圆形轮廓颜色"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view normal circle color",
+            "target": "图视正常圆圈颜色"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle color (Tag)",
+            "target": "图视圆圈颜色（标签）"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle color (Unresolved)",
+            "target": "图视圆圈颜色（未解决）"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle color (Attachment)",
+            "target": "图视圆圈颜色（附件）"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view settings background color",
+            "target": "图视设置背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Graph-view circle highlight color (Hovering)",
+            "target": "图视圆圈高亮颜色（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "2.2 Typography",
+            "target": "2.2 排版"
+        },
+        {
+            "type": "title",
+            "source": "2.2.1 Font family",
+            "target": "2.2.1 字体家族"
+        },
+        {
+            "type": "title",
+            "source": "Use Obsidian default font family",
+            "target": "使用 Obsidian 默认字体家族"
+        },
+        {
+            "type": "title",
+            "source": "Main font",
+            "target": "主字体"
+        },
+        {
+            "type": "description",
+            "source": "Fonts except from the code texts",
+            "target": "除代码文本外的字体"
+        },
+        {
+            "type": "title",
+            "source": "Folder & file title",
+            "target": "文件夹和文件标题"
+        },
+        {
+            "type": "title",
+            "source": "Codebox",
+            "target": "代码块"
+        },
+        {
+            "type": "title",
+            "source": "Inline code",
+            "target": "内联代码"
+        },
+        {
+            "type": "title",
+            "source": "Tag",
+            "target": "标签"
+        },
+        {
+            "type": "title",
+            "source": "Bold text",
+            "target": "粗体文本"
+        },
+        {
+            "type": "title",
+            "source": "Bold text font weight",
+            "target": "粗体文本的字体权重"
+        },
+        {
+            "type": "description",
+            "source": "type 'light, normal, bold, bolder; or 100-900'",
+            "target": "类型：'light, normal, bold, bolder；或 100-900'"
+        },
+        {
+            "type": "title",
+            "source": "Italic text",
+            "target": "斜体文本"
+        },
+        {
+            "type": "title",
+            "source": "Italic text style",
+            "target": "斜体文本样式"
+        },
+        {
+            "type": "description",
+            "source": "typy normal or italic",
+            "target": "正常或斜体"
+        },
+        {
+            "type": "title",
+            "source": "Vault name",
+            "target": "保险库名称"
+        },
+        {
+            "type": "title",
+            "source": "2.2.2 Font size",
+            "target": "2.2.2 字体大小"
+        },
+        {
+            "type": "title",
+            "source": "File Header (NOT for Sliding Pane plugin)",
+            "target": "文件标题（非滑动面板插件使用）"
+        },
+        {
+            "type": "title",
+            "source": "Folder and file",
+            "target": "文件夹和文件"
+        },
+        {
+            "type": "title",
+            "source": "Outline font size",
+            "target": "大纲字体大小"
+        },
+        {
+            "type": "title",
+            "source": "Codeblock",
+            "target": "代码块"
+        },
+        {
+            "type": "title",
+            "source": "Mathematical expressions",
+            "target": "数学表达式"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3 Headers",
+            "target": "2.2.3 标题"
+        },
+        {
+            "type": "title",
+            "source": "Clutter free headings",
+            "target": "简洁标题"
+        },
+        {
+            "type": "description",
+            "source": "Adapted from https://github.com/deathau/obsidian-snippets/blob/main/clutter-free-headings.css",
+            "target": "改编自 https://github.com/deathau/obsidian-snippets/blob/main/clutter-free-headings.css"
+        },
+        {
+            "type": "title",
+            "source": "Funny header animation in live preview",
+            "target": "实时预览中的趣味标题动画"
+        },
+        {
+            "type": "description",
+            "source": "Adapted from https://cdn.discordapp.com/attachments/702656734631821413/1007258862606352424/FunnyHeaderAnimLP.css @sailKite",
+            "target": "改编自 https://cdn.discordapp.com/attachments/702656734631821413/1007258862606352424/FunnyHeaderAnimLP.css @sailKite"
+        },
+        {
+            "type": "title",
+            "source": "Remove H1-H6 Indicators before headings when hovering",
+            "target": "悬停时移除 H1-H6 标题前的标识符"
+        },
+        {
+            "type": "title",
+            "source": "Retain header color",
+            "target": "保留标题颜色"
+        },
+        {
+            "type": "description",
+            "source": "Retain original color of headers when using italic, bold or bold italic within headers",
+            "target": "在标题中使用斜体、粗体或粗斜体时保留标题原始颜色"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.1 Header 1",
+            "target": "2.2.3.1 标题 1"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 color",
+            "target": "标题 1 颜色"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 size",
+            "target": "标题 1 大小"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 font family",
+            "target": "标题 1 字体族"
+        },
+        {
+            "type": "description",
+            "source": "eg：var(--font-text-override),\"Microsoft YaHei\"",
+            "target": "例如：var(--font-text-override),\"Microsoft YaHei\""
+        },
+        {
+            "type": "title",
+            "source": "Toggle h1 underline",
+            "target": "切换 h1 下划线"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 underline width",
+            "target": "标题 1 下划线宽度"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 underline style",
+            "target": "标题 1 下划线样式"
+        },
+        {
+            "type": "description",
+            "source": "solid, double, dotted, dashed, groove, ridge",
+            "target": "实线、双实线、点线、虚线、沟槽、脊线"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 underline color",
+            "target": "标题 1 下划线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h1 underline (Shorter)",
+            "target": "切换 h1 下划线（较短）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h1 Background",
+            "target": "切换 h1 背景"
+        },
+        {
+            "type": "title",
+            "source": "h1 bg",
+            "target": "h1 背景色"
+        },
+        {
+            "type": "title",
+            "source": "h1 font weight",
+            "target": "h1 字体权重"
+        },
+        {
+            "type": "title",
+            "source": "Header 1 line height",
+            "target": "标题1行高"
+        },
+        {
+            "type": "title",
+            "source": "h1 Text-align",
+            "target": "h1 文本对齐方式"
+        },
+        {
+            "type": "label",
+            "source": "Default (Left/Start)",
+            "target": "默认（左/开始）"
+        },
+        {
+            "type": "label",
+            "source": "Center",
+            "target": "居中"
+        },
+        {
+            "type": "label",
+            "source": "Right/End",
+            "target": "右/结束"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.2 Header 2",
+            "target": "2.2.3.2 标题2"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 color",
+            "target": "标题2颜色"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 size",
+            "target": "标题2大小"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 font family",
+            "target": "标题2字体家族"
+        },
+        {
+            "type": "title",
+            "source": "toggle h2 underline",
+            "target": "切换 h2 下划线"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 underline width",
+            "target": "标题2下划线宽度"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 underline style",
+            "target": "标题2下划线样式"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 underline color",
+            "target": "标题2下划线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h2 underline (Shorter)",
+            "target": "切换h2下划线（更短）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h2 background",
+            "target": "切换h2背景"
+        },
+        {
+            "type": "title",
+            "source": "h2 background color",
+            "target": "h2背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "h2 font weight",
+            "target": "h2字体粗细"
+        },
+        {
+            "type": "title",
+            "source": "Header 2 line height",
+            "target": "标题2行高"
+        },
+        {
+            "type": "title",
+            "source": "h2 text-align",
+            "target": "h2文本对齐方式"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.3 Header 3",
+            "target": "2.2.3.3 标题3"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 color",
+            "target": "标题3颜色"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 size",
+            "target": "标题3大小"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 font family",
+            "target": "标题3字体家族"
+        },
+        {
+            "type": "title",
+            "source": "toggle h3 underline",
+            "target": "切换h3下划线"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 underline width",
+            "target": "标题6下划线宽度"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 underline style",
+            "target": "标题3下划线样式"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 underline color",
+            "target": "标题3下划线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h3 underline (Shorter)",
+            "target": "切换h3下划线（更短）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h3 Background",
+            "target": "切换h3背景"
+        },
+        {
+            "type": "title",
+            "source": "h3 background color",
+            "target": "h3背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "h3 font weight",
+            "target": "h3 字体权重"
+        },
+        {
+            "type": "title",
+            "source": "Header 3 line height",
+            "target": "标题 3 行高"
+        },
+        {
+            "type": "title",
+            "source": "h3 text-align",
+            "target": "h3 文本对齐方式"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.4 Header 4",
+            "target": "2.2.3.4 标题 4"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 color",
+            "target": "标题 4 颜色"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 size",
+            "target": "标题 4 大小"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 font family",
+            "target": "标题 4 字体家族"
+        },
+        {
+            "type": "title",
+            "source": "toggle h4 underline",
+            "target": "切换 h4 下划线"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 underline width",
+            "target": "标题 4 下划线宽度"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 underline style",
+            "target": "标题 4 下划线样式"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 underline color",
+            "target": "标题4下划线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h4 underline (Shorter)",
+            "target": "切换h4下划线（更短）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h4 Background",
+            "target": "切换h4背景"
+        },
+        {
+            "type": "title",
+            "source": "h4 background color",
+            "target": "h4背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "h4 font weight",
+            "target": "h4字体权重"
+        },
+        {
+            "type": "title",
+            "source": "Header 4 line height",
+            "target": "标题4行高"
+        },
+        {
+            "type": "title",
+            "source": "h4 text-align",
+            "target": "h4文本对齐方式"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.5 Header 5",
+            "target": "2.2.3.5 标题5"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 color",
+            "target": "标题5颜色"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 size",
+            "target": "标题5大小"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 font family",
+            "target": "标题5字体家族"
+        },
+        {
+            "type": "title",
+            "source": "toggle h5 underline",
+            "target": "切换h5下划线"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 underline width",
+            "target": "标题5下划线宽度"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 underline style",
+            "target": "标题5下划线样式"
+        },
+        {
+            "type": "title",
+            "source": "Header 5 underline color",
+            "target": "标题5下划线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h5 underline (Shorter)",
+            "target": "切换h5下划线（较短）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h5 Background",
+            "target": "切换h5背景"
+        },
+        {
+            "type": "title",
+            "source": "h5 background color",
+            "target": "h5背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "h5 font weight",
+            "target": "h5字体粗细"
+        },
+        {
+            "type": "title",
+            "source": "h5 text-align",
+            "target": "h5文本对齐方式"
+        },
+        {
+            "type": "title",
+            "source": "2.2.3.6 Header 6",
+            "target": "2.2.3.6 标题 6"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 color",
+            "target": "标题 6 颜色"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 size",
+            "target": "标题 6 大小"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 font family",
+            "target": "标题 6 字体家族"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h6 underline",
+            "target": "切换 h6 下划线"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 underline style",
+            "target": "标题 6 下划线样式"
+        },
+        {
+            "type": "title",
+            "source": "Header 6 underline color",
+            "target": "标题 6 下划线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h6 underline (Shorter)",
+            "target": "切换 h6 下划线（较短）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle h6 background",
+            "target": "切换 h6 背景"
+        },
+        {
+            "type": "title",
+            "source": "h6 background color",
+            "target": "h6 背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "h6 font weight",
+            "target": "h6 字体粗细"
+        },
+        {
+            "type": "title",
+            "source": "h6 text-align",
+            "target": "h6 文本对齐方式"
+        },
+        {
+            "type": "title",
+            "source": "2.2.4 Other typography settings",
+            "target": "2.2.4 其他排版设置"
+        },
+        {
+            "type": "title",
+            "source": "Line width (in the mode of 'readable line length')",
+            "target": "行宽（“可读行长度”模式下）"
+        },
+        {
+            "type": "description",
+            "source": "The maximum line width in rem units (1rem = Body font size)",
+            "target": "最大行宽（以 rem 为单位，1rem = 主体字体大小）"
+        },
+        {
+            "type": "title",
+            "source": "Line height",
+            "target": "行高"
+        },
+        {
+            "type": "title",
+            "source": "Toggle paragraph spacing in reading mode",
+            "target": "切换阅读模式下的段落间距"
+        },
+        {
+            "type": "title",
+            "source": "Paragraph spacing",
+            "target": "段落间距"
+        },
+        {
+            "type": "title",
+            "source": "Letter spacing",
+            "target": "字间距"
+        },
+        {
+            "type": "title",
+            "source": "Slight indentation of the first line",
+            "target": "首行缩进"
+        },
+        {
+            "type": "description",
+            "source": "Enable global effect, local effect only need to declare \"cssclass：indent\" in the YAML area. Contextual Typography plugin needs to be installed in Reading mode.",
+            "target": "启用全局效果，局部效果只需在YAML区域声明“cssclass：indent”。阅读模式需安装上下文排版插件。"
+        },
+        {
+            "type": "title",
+            "source": "Alignment of both ends",
+            "target": "两端对齐"
+        },
+        {
+            "type": "description",
+            "source": "Enable global effect, local effect only need to declare \"cssclass：text-justify\" in the YAML area.",
+            "target": "启用全局效果，局部效果只需在YAML区域声明“cssclass：text-justify”。“},{"
+        },
+        {
+            "type": "title",
+            "source": "Reduce padding bottom of pages",
+            "target": "减少页面底部内边距"
+        },
+        {
+            "type": "title",
+            "source": "Adjust padding bottom of pages",
+            "target": "调整页面底部内边距"
+        },
+        {
+            "type": "title",
+            "source": "Toggle Left-aligned note content",
+            "target": "切换左对齐笔记内容"
+        },
+        {
+            "type": "description",
+            "source": "Left-aligned content when turned on, instead of centered by default",
+            "target": "开启后内容左对齐，而非默认居中"
+        },
+        {
+            "type": "title",
+            "source": "2.2.5 *.md file in split pane",
+            "target": "2.2.5 分屏中的*.md文件"
+        },
+        {
+            "type": "title",
+            "source": "Font size",
+            "target": "字体大小"
+        },
+        {
+            "type": "title",
+            "source": "Toggle default style",
+            "target": "切换默认样式"
+        },
+        {
+            "type": "title",
+            "source": "2.2.6 Inline title",
+            "target": "2.2.6 内联标题"
+        },
+        {
+            "type": "title",
+            "source": "Inline title font",
+            "target": "内联标题字体"
+        },
+        {
+            "type": "title",
+            "source": "Inline title color",
+            "target": "内联标题颜色"
+        },
+        {
+            "type": "title",
+            "source": "Inline title size",
+            "target": "内联标题大小"
+        },
+        {
+            "type": "title",
+            "source": "Inline title line height",
+            "target": "内联标题行高"
+        },
+        {
+            "type": "title",
+            "source": "Inline title weight",
+            "target": "内联标题粗细"
+        },
+        {
+            "type": "title",
+            "source": "Toggle underline",
+            "target": "切换下划线"
+        },
+        {
+            "type": "title",
+            "source": "Inline title underline width",
+            "target": "内联标题下划线宽度"
+        },
+        {
+            "type": "title",
+            "source": "Inline title underline style",
+            "target": "内联标题下划线样式"
+        },
+        {
+            "type": "title",
+            "source": "Inline title underline color",
+            "target": "内联标题下划线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle underline (Shorter)",
+            "target": "切换下划线（更短）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle inline title background",
+            "target": "切换内联标题背景"
+        },
+        {
+            "type": "title",
+            "source": "Inline title background color",
+            "target": "内联标题背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Inline title background image (url)",
+            "target": "内联标题背景图片（url）"
+        },
+        {
+            "type": "title",
+            "source": "Inline title text-align",
+            "target": "内联标题文本对齐方式"
+        },
+        {
+            "type": "title",
+            "source": "2.3 Element styles",
+            "target": "2.3 元素样式"
+        },
+        {
+            "type": "title",
+            "source": "Active line background color",
+            "target": "激活行背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Mute active line",
+            "target": "静音激活行"
+        },
+        {
+            "type": "title",
+            "source": "Remove colorful background of active file title",
+            "target": "移除激活文件标题的彩色背景"
+        },
+        {
+            "type": "description",
+            "source": "Make it austere",
+            "target": "使其简洁"
+        },
+        {
+            "type": "title",
+            "source": "Toggle title navigation bar position to left",
+            "target": "切换标题导航栏位置至左侧"
+        },
+        {
+            "type": "title",
+            "source": "2.3.1 Dividing line (Horizontal ruler, hr, ---)",
+            "target": "2.3.1 分隔线（水平线，hr，---）"
+        },
+        {
+            "type": "title",
+            "source": "Fancy Dividing line (Horizontal ruler, hr, ---)",
+            "target": "花式分隔线（水平线，hr，---）"
+        },
+        {
+            "type": "label",
+            "source": "with icons",
+            "target": "带图标"
+        },
+        {
+            "type": "label",
+            "source": "without icons",
+            "target": "不带图标"
+        },
+        {
+            "type": "label",
+            "source": "with Numbers",
+            "target": "带编号"
+        },
+        {
+            "type": "title",
+            "source": "2.3.1.1 w/ icons",
+            "target": "2.3.1.1 带图标"
+        },
+        {
+            "type": "title",
+            "source": "Line color 1",
+            "target": "线条颜色 1"
+        },
+        {
+            "type": "title",
+            "source": "Line color 2",
+            "target": "线条颜色 2"
+        },
+        {
+            "type": "title",
+            "source": "Line color 3",
+            "target": "线条颜色 3"
+        },
+        {
+            "type": "title",
+            "source": "Line color 4",
+            "target": "线条颜色 4"
+        },
+        {
+            "type": "title",
+            "source": "Centre icon",
+            "target": "中心图标"
+        },
+        {
+            "type": "description",
+            "source": "Do not remove the quotes",
+            "target": "请勿移除引号"
+        },
+        {
+            "type": "title",
+            "source": "Degree of icon rotation",
+            "target": "图标旋转角度"
+        },
+        {
+            "type": "title",
+            "source": "2.3.1.2 w/o icons",
+            "target": "2.3.1.2 无图标版"
+        },
+        {
+            "type": "title",
+            "source": "hr-color-1",
+            "target": "hr-color-1"
+        },
+        {
+            "type": "title",
+            "source": "hr-color-2",
+            "target": "hr-color-2"
+        },
+        {
+            "type": "title",
+            "source": "hr-color-3",
+            "target": "hr-color-3"
+        },
+        {
+            "type": "title",
+            "source": "hr-color-4",
+            "target": "hr-color-4"
+        },
+        {
+            "type": "title",
+            "source": "2.3.1.3 w/ numbers",
+            "target": "2.3.1.3 带数字版"
+        },
+        {
+            "type": "title",
+            "source": "Number color",
+            "target": "数字颜色"
+        },
+        {
+            "type": "title",
+            "source": "Number background color",
+            "target": "数字背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle hollow numbers",
+            "target": "切换空心数字"
+        },
+        {
+            "type": "title",
+            "source": "Fill color",
+            "target": "填充颜色"
+        },
+        {
+            "type": "description",
+            "source": "Color inside the numbers",
+            "target": "数字内部颜色"
+        },
+        {
+            "type": "title",
+            "source": "Stroke color",
+            "target": "描边颜色"
+        },
+        {
+            "type": "description",
+            "source": "Color of lines drawn around numbers",
+            "target": "数字周围线条的颜色"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2 List",
+            "target": "2.3.2 列表"
+        },
+        {
+            "type": "title",
+            "source": "Line height of list（Read mode）",
+            "target": "列表行高（阅读模式）"
+        },
+        {
+            "type": "title",
+            "source": "List Spacing",
+            "target": "列表间距"
+        },
+        {
+            "type": "title",
+            "source": "List indent",
+            "target": "列表缩进"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.1 Unordered list",
+            "target": "2.3.2.1 无序列表"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful unordered list marker",
+            "target": "切换彩色无序列表标记"
+        },
+        {
+            "type": "title",
+            "source": "Unordered list marker style",
+            "target": "无序列表标记样式"
+        },
+        {
+            "type": "label",
+            "source": "Blue Topaz Default",
+            "target": "蓝托帕斯默认"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.1.1 Options for 'Blue Topaz Default'",
+            "target": "2.3.2.1.1 '蓝托帕斯默认'的选项"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size",
+            "target": "项目符号大小"
+        },
+        {
+            "type": "title",
+            "source": "Text color (1st level)",
+            "target": "文本颜色（第1级）"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.1.2 Options for 'Custom'",
+            "target": "2.3.2.1.2 '自定义'的选项"
+        },
+        {
+            "type": "title",
+            "source": "List symbol (1st level)",
+            "target": "列表符号（第1级）"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size (1st level)",
+            "target": "项目符号大小（第1级）"
+        },
+        {
+            "type": "title",
+            "source": "Bullet color (1st level)",
+            "target": "项目符号颜色（第1级）"
+        },
+        {
+            "type": "title",
+            "source": "List symbol (2nd level)",
+            "target": "列表符号（第2级）"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size (2nd level)",
+            "target": "项目符号大小（第2级）"
+        },
+        {
+            "type": "title",
+            "source": "Bullet color (2nd level)",
+            "target": "项目符号颜色（第2级）"
+        },
+        {
+            "type": "title",
+            "source": "List symbol (3rd level)",
+            "target": "列表符号（第3级）"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size (3rd level)",
+            "target": "项目符号大小（第3级）"
+        },
+        {
+            "type": "title",
+            "source": "Bullet color (3rd level)",
+            "target": "项目符号颜色（第3级）"
+        },
+        {
+            "type": "title",
+            "source": "List symbol (4th level)",
+            "target": "列表符号（第4级）"
+        },
+        {
+            "type": "title",
+            "source": "Bullet size (4th level)",
+            "target": "项目符号大小（第4级）"
+        },
+        {
+            "type": "title",
+            "source": "Bullet color (4th level)",
+            "target": "项目符号颜色（第4级）"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.2 Ordered list",
+            "target": "2.3.2.2 有序列表"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful ordered list marker",
+            "target": "切换彩色有序列表标记"
+        },
+        {
+            "type": "title",
+            "source": "Ordered List marker style",
+            "target": "有序列表标记样式"
+        },
+        {
+            "type": "label",
+            "source": "1.1.1",
+            "target": "1.1.1"
+        },
+        {
+            "type": "title",
+            "source": "Number color of ordered list",
+            "target": "有序列表编号颜色"
+        },
+        {
+            "type": "description",
+            "source": "数字：decimal，小写字母：lower-latin，小写罗马数字：lower-roman",
+            "target": "数字：decimal，小写字母：lower-latin，小写罗马数字：lower-roman"
+        },
+        {
+            "type": "title",
+            "source": "List style in reading view",
+            "target": "阅读视图中的列表样式"
+        },
+        {
+            "type": "label",
+            "source": "Bracket 1",
+            "target": "括号 1"
+        },
+        {
+            "type": "label",
+            "source": "Bracket 2 (1.1.1)",
+            "target": "括号 2 (1.1.1)"
+        },
+        {
+            "type": "label",
+            "source": "Bracket 3",
+            "target": "括号 3"
+        },
+        {
+            "type": "label",
+            "source": "Vertical line 1 (1.1.1)",
+            "target": "垂直线 1 (1.1.1)"
+        },
+        {
+            "type": "label",
+            "source": "Using Ob Settings",
+            "target": "使用 Ob 设置"
+        },
+        {
+            "type": "title",
+            "source": "2.3.2.3 Indentation lines",
+            "target": "2.3.2.3 缩进线"
+        },
+        {
+            "type": "title",
+            "source": "Toggle connected indent (Hovering)",
+            "target": "切换连接缩进（悬停）"
+        },
+        {
+            "type": "description",
+            "source": "Inspired from the CSS snippet by KillyMXI (https://gist.github.com/KillyMXI/cbef8edff6dd55d9e6ea4df66567e9b1)",
+            "target": "灵感来自 KillyMXI 的 CSS 代码片段 (https://gist.github.com/KillyMXI/cbef8edff6dd55d9e6ea4df66567e9b1)"
+        },
+        {
+            "type": "title",
+            "source": "Connected indent line color (Hovering)",
+            "target": "连接缩进线颜色（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful indentation lines (Hovering)",
+            "target": "切换彩色缩进线（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Width of indentation lines (Hovering)",
+            "target": "缩进线宽度（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Move to right by ?px (Editing)",
+            "target": "向右移动 ?px（编辑）"
+        },
+        {
+            "type": "title",
+            "source": "Inactive line color (Editing)",
+            "target": "非活动行颜色（编辑）"
+        },
+        {
+            "type": "title",
+            "source": "Active line color (Editing)",
+            "target": "活动行颜色（编辑）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful indentation lines (Editing)",
+            "target": "切换彩色缩进线（编辑）"
+        },
+        {
+            "type": "title",
+            "source": "Indent line width (Editing)",
+            "target": "缩进线宽度（编辑）"
+        },
+        {
+            "type": "title",
+            "source": "Move to right by ?px (Reading)",
+            "target": "向右移动 ?px（阅读）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful indentation lines (Reading)",
+            "target": "切换彩色缩进线（阅读）"
+        },
+        {
+            "type": "title",
+            "source": "Line styles (Reading)",
+            "target": "行样式（阅读）"
+        },
+        {
+            "type": "label",
+            "source": "Gradient",
+            "target": "渐变"
+        },
+        {
+            "type": "label",
+            "source": "Image",
+            "target": "图像"
+        },
+        {
+            "type": "title",
+            "source": "Indentation gradient color 1",
+            "target": "缩进渐变颜色 1"
+        },
+        {
+            "type": "title",
+            "source": "Indentation gradient color 2",
+            "target": "缩进渐变颜色 2"
+        },
+        {
+            "type": "title",
+            "source": "Width of colorful indentation lines (Reading)",
+            "target": "彩色缩进线宽度（阅读）"
+        },
+        {
+            "type": "title",
+            "source": "Add an image as indentation lines (Reading)",
+            "target": "将图片用作缩进线（阅读）"
+        },
+        {
+            "type": "title",
+            "source": "2.3.3 Folder",
+            "target": "2.3.3 文件夹"
+        },
+        {
+            "type": "title",
+            "source": "File background shape",
+            "target": "文件背景形状"
+        },
+        {
+            "type": "label",
+            "source": "Rounded Rectangle",
+            "target": "圆角矩形"
+        },
+        {
+            "type": "label",
+            "source": "Pill",
+            "target": "胶囊形"
+        },
+        {
+            "type": "title",
+            "source": "File name style",
+            "target": "文件名样式"
+        },
+        {
+            "type": "label",
+            "source": "Wrapped",
+            "target": "换行显示"
+        },
+        {
+            "type": "label",
+            "source": "Non-wrapped",
+            "target": "不换行显示"
+        },
+        {
+            "type": "label",
+            "source": "File Name Scrolling When Hovering",
+            "target": "悬停时文件名称滚动"
+        },
+        {
+            "type": "title",
+            "source": "Dark file background",
+            "target": "深色文件背景"
+        },
+        {
+            "type": "title",
+            "source": "Remove file icons",
+            "target": "移除文件图标"
+        },
+        {
+            "type": "description",
+            "source": "To remove the icons before .md files",
+            "target": "移除.md文件前的图标"
+        },
+        {
+            "type": "title",
+            "source": "Color of file icons",
+            "target": "文件图标颜色"
+        },
+        {
+            "type": "title",
+            "source": "Activate Folder Icons",
+            "target": "启用文件夹图标"
+        },
+        {
+            "type": "title",
+            "source": "Remove the first-layer folder icons",
+            "target": "移除第一层文件夹图标"
+        },
+        {
+            "type": "title",
+            "source": "Folder Icons w/o arrows (Collapse Indicator)",
+            "target": "无箭头的文件夹图标（折叠指示符）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle Folder note underline",
+            "target": "切换文件夹笔记下划线"
+        },
+        {
+            "type": "title",
+            "source": "Toggle Folder note dot",
+            "target": "切换文件夹笔记圆点"
+        },
+        {
+            "type": "title",
+            "source": "2.3.3.1 Colorful folder",
+            "target": "2.3.3.1 彩色文件夹"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful folders",
+            "target": "切换彩色文件夹"
+        },
+        {
+            "type": "title",
+            "source": "Select folder colorful mode",
+            "target": "选择文件夹彩色模式"
+        },
+        {
+            "type": "label",
+            "source": "Default non-colorful",
+            "target": "默认非彩色"
+        },
+        {
+            "type": "label",
+            "source": "folder colorful  with  \"0-9\" or  \"A-Z\"",
+            "target": "文件夹彩色（使用“0-9”或“A-Z”）"
+        },
+        {
+            "type": "label",
+            "source": "folder colorful by order",
+            "target": "按顺序设置文件夹彩色"
+        },
+        {
+            "type": "label",
+            "source": "folder title colorful",
+            "target": "文件夹标题彩色"
+        },
+        {
+            "type": "label",
+            "source": "Tab-liked",
+            "target": "标签页风格"
+        },
+        {
+            "type": "label",
+            "source": "Border",
+            "target": "边框"
+        },
+        {
+            "type": "title",
+            "source": "Folder color palette",
+            "target": "文件夹颜色调色板"
+        },
+        {
+            "type": "label",
+            "source": "Style 1 (high transparency)",
+            "target": "样式 1（高透明度）"
+        },
+        {
+            "type": "label",
+            "source": "Style 2 (low transparency)",
+            "target": "样式 2（低透明度）"
+        },
+        {
+            "type": "label",
+            "source": "Style 3",
+            "target": "样式 3"
+        },
+        {
+            "type": "label",
+            "source": "Style 4",
+            "target": "样式 4"
+        },
+        {
+            "type": "label",
+            "source": "Style 5",
+            "target": "样式 5"
+        },
+        {
+            "type": "label",
+            "source": "Style 6",
+            "target": "样式 6"
+        },
+        {
+            "type": "title",
+            "source": "Custom color of folder",
+            "target": "文件夹自定义颜色"
+        },
+        {
+            "type": "title",
+            "source": "2.3.4 Blockquote",
+            "target": "2.3.4 引语块"
+        },
+        {
+            "type": "title",
+            "source": "Blockquote",
+            "target": "引语块"
+        },
+        {
+            "type": "label",
+            "source": "With quotation mark",
+            "target": "带引号"
+        },
+        {
+            "type": "label",
+            "source": "Speech Bubble 1",
+            "target": "对话气泡 1"
+        },
+        {
+            "type": "label",
+            "source": "Speech Bubble 2",
+            "target": "对话气泡 2"
+        },
+        {
+            "type": "label",
+            "source": "Outline",
+            "target": "轮廓"
+        },
+        {
+            "type": "label",
+            "source": "Border left",
+            "target": "左边框"
+        },
+        {
+            "type": "title",
+            "source": "2.3.5 Exported PDF style",
+            "target": "2.3.5 导出的 PDF 样式"
+        },
+        {
+            "type": "title",
+            "source": "Exported PDF style",
+            "target": "导出的 PDF 样式"
+        },
+        {
+            "type": "title",
+            "source": "Use hr (---) for paging",
+            "target": "使用 hr (---) 进行分页"
+        },
+        {
+            "type": "title",
+            "source": "All dark (Experimental, may or may not be desirable)",
+            "target": "全深色（实验性，可能或可能不是理想的）"
+        },
+        {
+            "type": "description",
+            "source": "Export PDF with dark mode color scheme",
+            "target": "以深色模式配色方案导出 PDF"
+        },
+        {
+            "type": "title",
+            "source": "Print URL after links",
+            "target": "在链接后打印 URL"
+        },
+        {
+            "type": "title",
+            "source": "Strong color",
+            "target": "强颜色"
+        },
+        {
+            "type": "title",
+            "source": "PDF View",
+            "target": "PDF 视图"
+        },
+        {
+            "type": "title",
+            "source": "PDF styles (Light)",
+            "target": "PDF 样式（浅色）"
+        },
+        {
+            "type": "label",
+            "source": "Invert colors",
+            "target": "反转颜色"
+        },
+        {
+            "type": "label",
+            "source": "Green",
+            "target": "绿色"
+        },
+        {
+            "type": "label",
+            "source": "Warm",
+            "target": "暖色调"
+        },
+        {
+            "type": "title",
+            "source": "PDF styles (Dark)",
+            "target": "PDF 样式（深色）"
+        },
+        {
+            "type": "title",
+            "source": "Custom PDF background",
+            "target": "自定义 PDF 背景"
+        },
+        {
+            "type": "title",
+            "source": "2.3.6 Embeds",
+            "target": "2.3.6 嵌入内容"
+        },
+        {
+            "type": "title",
+            "source": "Fixed embedded content height",
+            "target": "固定嵌入内容高度"
+        },
+        {
+            "type": "title",
+            "source": "Height of embedded content",
+            "target": "内联内容高度"
+        },
+        {
+            "type": "description",
+            "source": "Switch on the above button to activate",
+            "target": "开启上述按钮以激活"
+        },
+        {
+            "type": "title",
+            "source": "Transparent embedded background",
+            "target": "内联背景透明"
+        },
+        {
+            "type": "title",
+            "source": "Hide embedded title",
+            "target": "隐藏内联标题"
+        },
+        {
+            "type": "title",
+            "source": "Hide embedded banner",
+            "target": "隐藏内联横幅"
+        },
+        {
+            "type": "title",
+            "source": "Hide embedded headers",
+            "target": "隐藏内联标题栏"
+        },
+        {
+            "type": "title",
+            "source": "Floating effect of embedded note when hovering",
+            "target": "悬停时内联笔记的浮动效果"
+        },
+        {
+            "type": "title",
+            "source": "2.3.7 Table",
+            "target": "2.3.7 表格"
+        },
+        {
+            "type": "title",
+            "source": "Toggle table zooming effect",
+            "target": "切换表格缩放效果"
+        },
+        {
+            "type": "title",
+            "source": "Table format",
+            "target": "表格格式"
+        },
+        {
+            "type": "label",
+            "source": "Defaut table",
+            "target": "默认表格"
+        },
+        {
+            "type": "label",
+            "source": "Wrapped table (break all)",
+            "target": "换行表格（完全换行）"
+        },
+        {
+            "type": "label",
+            "source": "Non-wrapped table (limited cell width)",
+            "target": "不换行表格（单元格宽度受限）"
+        },
+        {
+            "type": "label",
+            "source": "Non-wrapped table",
+            "target": "不换行表格"
+        },
+        {
+            "type": "title",
+            "source": "Show borders",
+            "target": "显示边框"
+        },
+        {
+            "type": "title",
+            "source": "Table width",
+            "target": "表格宽度"
+        },
+        {
+            "type": "label",
+            "source": "100%",
+            "target": "100%"
+        },
+        {
+            "type": "label",
+            "source": "auto",
+            "target": "自动"
+        },
+        {
+            "type": "title",
+            "source": "Full-width table display",
+            "target": "全宽表格显示"
+        },
+        {
+            "type": "description",
+            "source": "for Reading View, require Contextual Typography plugin",
+            "target": "在阅读视图中，需要“上下文排版”插件"
+        },
+        {
+            "type": "title",
+            "source": "Table Style",
+            "target": "表格样式"
+        },
+        {
+            "type": "label",
+            "source": "Style I",
+            "target": "样式 I"
+        },
+        {
+            "type": "label",
+            "source": "Style II",
+            "target": "样式 II"
+        },
+        {
+            "type": "label",
+            "source": "Style III",
+            "target": "样式 III"
+        },
+        {
+            "type": "title",
+            "source": "2.3.8 Cloze style",
+            "target": "2.3.8 填空样式"
+        },
+        {
+            "type": "title",
+            "source": "Cancel cloze Style",
+            "target": "取消填空样式"
+        },
+        {
+            "type": "description",
+            "source": "In this theme, you can use ==~~your words~~==, *==~~your words~~==* and *~~your words~~* to obtain a cloze-style, active this option to cancel it",
+            "target": "在此主题中，您可以使用 ==~~您的文字~~==、*==~~您的文字~~==* 和 *~~您的文字~~* 来实现填空样式，激活此选项可取消该功能"
+        },
+        {
+            "type": "title",
+            "source": "Cloze background color",
+            "target": "填空背景颜色"
+        },
+        {
+            "type": "description",
+            "source": "Cloze Style One, i.e. ==~~your words~~==, hovering to find \"your words\", should declare \"cssclass：cloze\" in the YAML area if you want to use them in the Live Preview mode",
+            "target": "填空样式一，即 ==~~您的文字~~==，悬停时显示“您的文字”，若希望在实时预览模式下使用，应在 YAML 区域声明“cssclass：cloze”"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration style",
+            "target": "下划线装饰样式"
+        },
+        {
+            "type": "description",
+            "source": "Can type 'solid', 'dotted', 'dashed', 'wavy' or 'double' for Cloze Style One, i.e. ==~~your words~~==, hovering to find \"your words\", should declare \"cssclass：cloze\" in the YAML area if you want to use them in the Live Preview mode",
+            "target": "对于“Cloze 样式一”（即 ==~~your words~~==，悬停可显示“your words”），若希望在实时预览模式中使用，应在 YAML 区域声明“cssclass：cloze”"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration color",
+            "target": "下划线装饰颜色"
+        },
+        {
+            "type": "description",
+            "source": "For Cloze Style One, i.e. ==~~your words~~==, hovering to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "对于“Cloze 样式一”（即 ==~~your words~~==，悬停可显示“your words”），若希望在实时预览模式中使用，应在 YAML 区域声明“cssclass：cloze”"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration style for Cloze style TWO",
+            "target": "Cloze 样式二的下划线装饰风格"
+        },
+        {
+            "type": "description",
+            "source": "Can type 'solid', 'dotted', 'dashed', 'wavy', 'double' or 'none' for Cloze Style TWO, i.e. *==~~your words~~==*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "对于“Cloze 样式二”（即 *==~~your words~~==*，按下主鼠标键可显示“your words”），若希望在实时预览模式中使用，应在 YAML 区域声明“cssclass：cloze”"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration color for Cloze style TWO",
+            "target": "Cloze 样式二的下划线装饰颜色"
+        },
+        {
+            "type": "description",
+            "source": "For Cloze Style TWO, i.e. *==~~your words~~==*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "对于“Cloze 样式二”（即 *==~~your words~~==*，按下主鼠标键可显示“your words”），若希望在实时预览模式中使用，应在 YAML 区域声明“cssclass：cloze”"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration style for Cloze style THREE (*~~your words~~*)",
+            "target": "Cloze 样式三（*~~your words~~*）的下划线装饰风格"
+        },
+        {
+            "type": "description",
+            "source": "Can type 'solid', 'dotted', 'dashed', 'wavy', 'double' or 'none' for Cloze Style THREE, i.e. *~~your words~~*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "对于“Cloze 样式三”（即 *~~your words~~*，按下主鼠标键可显示“your words”），若希望在实时预览模式中使用，应在 YAML 区域声明“cssclass：cloze”"
+        },
+        {
+            "type": "title",
+            "source": "Underline decoration color for Cloze style THREE",
+            "target": "Cloze 样式三的下划线装饰颜色"
+        },
+        {
+            "type": "description",
+            "source": "For Cloze Style THREE, i.e. *~~your words~~*, pressing down the primary mouse button to find \"your words\", should declare 'cssclass：cloze' in the YAML area if you want to use them in the Live Preview mode",
+            "target": "对于Cloze Style THREE，即*~~你的文字~~*，按下主鼠标按钮以查找“你的文字”，若想在实时预览模式下使用这些文字，则应在YAML区域声明'cssclass：cloze'"
+        },
+        {
+            "type": "title",
+            "source": "2.3.9 Links",
+            "target": "2.3.9 链接"
+        },
+        {
+            "type": "title",
+            "source": "Toggle internal link underline",
+            "target": "切换内部链接下划线"
+        },
+        {
+            "type": "title",
+            "source": "Disable external link underline",
+            "target": "禁用外部链接下划线"
+        },
+        {
+            "type": "title",
+            "source": "Disable unresolved link underline",
+            "target": "禁用未解析链接下划线"
+        },
+        {
+            "type": "title",
+            "source": "Toggle colorful link background (hovering)",
+            "target": "切换彩色链接背景（悬停时）"
+        },
+        {
+            "type": "title",
+            "source": "Internal link color",
+            "target": "内部链接颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle icon after external link",
+            "target": "切换外部链接后的图标"
+        },
+        {
+            "type": "title",
+            "source": "External link color",
+            "target": "外部链接颜色"
+        },
+        {
+            "type": "title",
+            "source": "Toggle default unresolved link color",
+            "target": "切换默认未解析链接颜色"
+        },
+        {
+            "type": "title",
+            "source": "Unresolved Link Color",
+            "target": "未解析链接颜色"
+        },
+        {
+            "type": "title",
+            "source": "Cancel click the link to trigger auto-jump",
+            "target": "取消点击链接以触发自动跳转"
+        },
+        {
+            "type": "description",
+            "source": "You can click on the link by holding down the ctrl key to jump",
+            "target": "按住 Ctrl 键并点击链接即可跳转"
+        },
+        {
+            "type": "title",
+            "source": "2.3.10 Cursor",
+            "target": "2.3.10 光标"
+        },
+        {
+            "type": "title",
+            "source": "Cursor color",
+            "target": "光标颜色"
+        },
+        {
+            "type": "title",
+            "source": "2.3.11 Checkbox",
+            "target": "2.3.11 复选框"
+        },
+        {
+            "type": "title",
+            "source": "Enable Alternative Checkboxes",
+            "target": "启用替代复选框"
+        },
+        {
+            "type": "description",
+            "source": "Disable this if you are using your own implementation via a CSS Snippet.",
+            "target": "若通过 CSS 片段使用自定义实现，请禁用此选项。"
+        },
+        {
+            "type": "title",
+            "source": "Circular checkbox",
+            "target": "圆形复选框"
+        },
+        {
+            "type": "title",
+            "source": "Add strikethrough for checked items",
+            "target": "为已选项目添加删除线"
+        },
+        {
+            "type": "title",
+            "source": "Checked text color",
+            "target": "已选中文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Checkbox Size",
+            "target": "复选框大小"
+        },
+        {
+            "type": "title",
+            "source": "Deactivate checkbox animation",
+            "target": "禁用复选框动画"
+        },
+        {
+            "type": "title",
+            "source": "Enable speech bubble style",
+            "target": "启用对话气泡样式"
+        },
+        {
+            "type": "description",
+            "source": "Turn on to render `- [0]` through `- [9]` as speech bubbles",
+            "target": "开启后将以对话气泡形式渲染 `- [0]` 至 `- [9]`"
+        },
+        {
+            "type": "title",
+            "source": "2.3.12 Icons",
+            "target": "2.3.12 图标"
+        },
+        {
+            "type": "title",
+            "source": "Toggle default icons",
+            "target": "切换默认图标"
+        },
+        {
+            "type": "title",
+            "source": "Toggle default collapse icons",
+            "target": "切换默认折叠图标"
+        },
+        {
+            "type": "title",
+            "source": "Enable clickable-icons' hovering animation",
+            "target": "启用可点击图标的悬停动画"
+        },
+        {
+            "type": "title",
+            "source": "2.3.13 Images",
+            "target": "2.3.13 图片"
+        },
+        {
+            "type": "title",
+            "source": "Deactivate image zooming",
+            "target": "禁用图像缩放"
+        },
+        {
+            "type": "title",
+            "source": "Obsidian default image position",
+            "target": "Obsidian 默认图像位置"
+        },
+        {
+            "type": "title",
+            "source": "Image max-width",
+            "target": "图像最大宽度"
+        },
+        {
+            "type": "title",
+            "source": "Image borders",
+            "target": "图像边框"
+        },
+        {
+            "type": "title",
+            "source": "Intro to basic image position",
+            "target": "基础图像位置简介"
+        },
+        {
+            "type": "description",
+            "source": "You can add 🔸|Left (can also use `left`, `LEFT` or `L` to replace the `Left` before), 🔸|Right (right/RIGHT/R) and 🔸|Inline (inline/INLINE/inl/INL/Inl) 🔸|Centre/Center (CENTRE/CENTER/centre/center/C) (the “centre” one is for the “Obsidian Default Image Position above only, because Topaz's default image position is in the centre) into a image format to adjust the image position, e.g. ![[*.jpg|L]], ![[*.png|Right|200]] and ![|inl](...*.jpg)",
+            "target": "您可以在图像格式中添加 🔸|左（也可使用 `left`、`LEFT` 或 `L` 替换 `Left`），🔸|右（right/RIGHT/R）和 🔸|内联（inline/INLINE/inl/INL/Inl） 🔸|居中/中心（CENTRE/CENTER/centre/center/C）（“居中”仅适用于上述“Obsidian 默认图像位置”，因为 Topaz 的默认图像位置是居中的）来调整图像位置，例如：![[*.jpg|L]]、![[*.png|Right|200]] 和 ![|inl](...*.jpg)"
+        },
+        {
+            "type": "title",
+            "source": "Intro to image caption",
+            "target": "图像标题简介"
+        },
+        {
+            "type": "description",
+            "source": "You can add 🔸#Left|your captions (can also use `left`, `LEFT` or `L` to replace the `Left`), 🔸#Right (or right/RIGHT/R)|your captions, 🔸#center/centre (CENTRE/CENTER/Center/Centre/C) |your captions and 🔸#inl (Inline/INLINE/inline/INL/Inl) |your captions into a image format to adjust the image position with a image caption, e.g. ![[*.jpg#left|Figure 1]], ![[*.png#right|Figure 2|200]], ![[*.jpg#centre|Figure 3]] and ![[*.jpg#inl|Figure 4|100]]",
+            "target": "您可以在图像格式中添加 🔸#左|您的标题（也可使用 `left`、`LEFT` 或 `L` 替换 `Left`），🔸#右（或 right/RIGHT/R）|您的标题，🔸#居中/中心（CENTRE/CENTER/Center/Centre/C）|您的标题和 🔸#内联（Inline/INLINE/inline/INL/Inl）|您的标题，以带标题的方式调整图像位置，例如：![[*.jpg#left|图 1]]、![[*.png#right|图 2|200]]、![[*.jpg#centre|图 3]] 和 ![[*.jpg#inl|图 4|100]]"
+        },
+        {
+            "type": "title",
+            "source": "Intro to image grid",
+            "target": "图像网格简介"
+        },
+        {
+            "type": "description",
+            "source": "You can add 🔸|+grid into some images to grid these images in a line, e.g. ![[*.jpg|+grid]] Or type ❗cssclass：img-grid❗ in YAML to make images arrange in a grid in the preview mode. require Contextual Typography plugin",
+            "target": "您可以在部分图像中添加 🔸|+grid 将其排列成一行，例如：![[*.jpg|+grid]]。或在 YAML 中输入 ❗cssclass：img-grid❗，使图像在预览模式下以网格形式排列。需要 Contextual Typography 插件"
+        },
+        {
+            "type": "title",
+            "source": "Enable global image grid",
+            "target": "启用全局图像网格"
+        },
+        {
+            "type": "description",
+            "source": "Enable the Contextual Typography plugin to control side-by-side images via blank lines",
+            "target": "启用上下文排版插件，通过空行控制并排图像"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14 Loading page",
+            "target": "2.3.14 加载页面"
+        },
+        {
+            "type": "title",
+            "source": "Loading page style",
+            "target": "加载页面样式"
+        },
+        {
+            "type": "label",
+            "source": "Default Loading Page",
+            "target": "默认加载页面"
+        },
+        {
+            "type": "label",
+            "source": "Shapes",
+            "target": "形状"
+        },
+        {
+            "type": "label",
+            "source": "Custom Text",
+            "target": "自定义文本"
+        },
+        {
+            "type": "label",
+            "source": "Default Text w/ Icons Before and After",
+            "target": "默认文本（前后带图标）"
+        },
+        {
+            "type": "label",
+            "source": "Cat (GIF)",
+            "target": "猫（GIF）"
+        },
+        {
+            "type": "label",
+            "source": "Adding Image or Animation (GIF)",
+            "target": "添加图像或动画（GIF）"
+        },
+        {
+            "type": "label",
+            "source": "Animation with Position Changing",
+            "target": "位置变化动画"
+        },
+        {
+            "type": "label",
+            "source": "Jumping Mario",
+            "target": "跳跃马里奥"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14.1 Custom text",
+            "target": "2.3.14.1 自定义文本"
+        },
+        {
+            "type": "title",
+            "source": "Custom text",
+            "target": "自定义文本"
+        },
+        {
+            "type": "title",
+            "source": "Font family of custom text",
+            "target": "自定义文本字体家族"
+        },
+        {
+            "type": "title",
+            "source": "Text color",
+            "target": "文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Typing style",
+            "target": "输入样式"
+        },
+        {
+            "type": "title",
+            "source": "Moving style",
+            "target": "移动样式"
+        },
+        {
+            "type": "title",
+            "source": "Shinning style",
+            "target": "发光样式"
+        },
+        {
+            "type": "title",
+            "source": "Color-changing style",
+            "target": "变色样式"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14.2 Custom image/animation",
+            "target": "2.3.14.2 自定义图像/动画"
+        },
+        {
+            "type": "title",
+            "source": "Adding things before",
+            "target": "在之前添加内容"
+        },
+        {
+            "type": "title",
+            "source": "Adding things after",
+            "target": "在之后添加内容"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14.3 Custom image/animation",
+            "target": "2.3.14.3 自定义图像/动画"
+        },
+        {
+            "type": "title",
+            "source": "Custom loading page image/animation",
+            "target": "自定义加载页图像/动画"
+        },
+        {
+            "type": "title",
+            "source": "Image caption",
+            "target": "图像说明文字"
+        },
+        {
+            "type": "title",
+            "source": "2.3.14.4 Custom image/animation with position changing",
+            "target": "2.3.14.4 位置可变的自定义图像/动画"
+        },
+        {
+            "type": "title",
+            "source": "High contrast background",
+            "target": "高对比度背景"
+        },
+        {
+            "type": "title",
+            "source": "2.3.15 Tags",
+            "target": "2.3.15 标签"
+        },
+        {
+            "type": "title",
+            "source": "Cancel click the tag to trigger auto-jump",
+            "target": "取消：点击标签以触发自动跳转"
+        },
+        {
+            "type": "description",
+            "source": "You can jump by clicking on the # marks in the tags",
+            "target": "点击标签中的 # 符号即可跳转"
+        },
+        {
+            "type": "title",
+            "source": "Label superscript in the header",
+            "target": "标题中的上标标签"
+        },
+        {
+            "type": "title",
+            "source": "Tag Style",
+            "target": "标签样式"
+        },
+        {
+            "type": "label",
+            "source": "Rainbow tag",
+            "target": "彩虹标签"
+        },
+        {
+            "type": "label",
+            "source": "Rainbow tag alt (No influence on emojis)",
+            "target": "彩虹标签备用（不影响表情符号）"
+        },
+        {
+            "type": "label",
+            "source": "Outlined",
+            "target": "轮廓样式"
+        },
+        {
+            "type": "label",
+            "source": "Clear",
+            "target": "清除样式"
+        },
+        {
+            "type": "label",
+            "source": "Customised colorful tag",
+            "target": "自定义彩色标签"
+        },
+        {
+            "type": "title",
+            "source": "2.3.15.1 Customised colorful tag",
+            "target": "2.3.15.1 自定义彩色标签"
+        },
+        {
+            "type": "title",
+            "source": "Tag-1",
+            "target": "标签-1"
+        },
+        {
+            "type": "title",
+            "source": "Tag-2",
+            "target": "标签-2"
+        },
+        {
+            "type": "title",
+            "source": "Tag-3",
+            "target": "标签-3"
+        },
+        {
+            "type": "title",
+            "source": "Tag-4",
+            "target": "标签-4"
+        },
+        {
+            "type": "title",
+            "source": "Tag-5",
+            "target": "标签-5"
+        },
+        {
+            "type": "title",
+            "source": "Tag text",
+            "target": "标签文本"
+        },
+        {
+            "type": "title",
+            "source": "2.3.15.2 Outlined",
+            "target": "2.3.15.2 轮廓样式"
+        },
+        {
+            "type": "title",
+            "source": "Tag border width",
+            "target": "标签边框宽度"
+        },
+        {
+            "type": "title",
+            "source": "2.3.16 Setting, Menu, Option panes",
+            "target": "2.3.16 设置、菜单、选项面板"
+        },
+        {
+            "type": "title",
+            "source": "Pane style",
+            "target": "面板样式"
+        },
+        {
+            "type": "label",
+            "source": "Frosted Glass",
+            "target": "磨砂玻璃"
+        },
+        {
+            "type": "label",
+            "source": "Traditional",
+            "target": "传统"
+        },
+        {
+            "type": "label",
+            "source": "Translucent (only for setting panel)",
+            "target": "半透明（仅适用于设置面板）"
+        },
+        {
+            "type": "title",
+            "source": "2.3.17 Titlebar style",
+            "target": "2.3.17 标题栏样式"
+        },
+        {
+            "type": "title",
+            "source": "Colorful titlebar",
+            "target": "彩色标题栏"
+        },
+        {
+            "type": "title",
+            "source": "Titlebar background color",
+            "target": "标题栏背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Titlebar close button",
+            "target": "标题栏关闭按钮"
+        },
+        {
+            "type": "label",
+            "source": "Reversal",
+            "target": "反转"
+        },
+        {
+            "type": "title",
+            "source": "Hide text in title bar",
+            "target": "隐藏标题栏中的文本"
+        },
+        {
+            "type": "title",
+            "source": "Auto-hide title bar close button",
+            "target": "自动隐藏标题栏关闭按钮"
+        },
+        {
+            "type": "title",
+            "source": "2.3.18 Outline",
+            "target": "2.3.18 轮廓"
+        },
+        {
+            "type": "title",
+            "source": "Outline style",
+            "target": "轮廓样式"
+        },
+        {
+            "type": "label",
+            "source": "Logseq",
+            "target": "Logseq"
+        },
+        {
+            "type": "title",
+            "source": "Nowrap",
+            "target": "不换行"
+        },
+        {
+            "type": "title",
+            "source": "2.3.19 Prompt (ctrl p)",
+            "target": "2.3.19 提示 (ctrl p)"
+        },
+        {
+            "type": "title",
+            "source": "Prompt styles",
+            "target": "提示样式"
+        },
+        {
+            "type": "label",
+            "source": "Fancy prompt 1",
+            "target": "华丽提示 1"
+        },
+        {
+            "type": "label",
+            "source": "Slide Up Large",
+            "target": "向上滑动大"
+        },
+        {
+            "type": "label",
+            "source": "Quick Scale Down",
+            "target": "快速缩放下"
+        },
+        {
+            "type": "label",
+            "source": "Blow Up Modal",
+            "target": "弹出窗口放大"
+        },
+        {
+            "type": "label",
+            "source": "Road Runner In",
+            "target": "路跑者进入"
+        },
+        {
+            "type": "label",
+            "source": "Road Runner Out",
+            "target": "Road Runner 出"
+        },
+        {
+            "type": "label",
+            "source": "Unfold In",
+            "target": "展开 入"
+        },
+        {
+            "type": "label",
+            "source": "Pop-swirl",
+            "target": "弹出漩涡"
+        },
+        {
+            "type": "title",
+            "source": "2.3.20 Stack tabs",
+            "target": "2.3.20 堆叠标签页"
+        },
+        {
+            "type": "title",
+            "source": "Text orientation styles",
+            "target": "文本方向样式"
+        },
+        {
+            "type": "label",
+            "source": "Mixed orientation",
+            "target": "混合方向"
+        },
+        {
+            "type": "title",
+            "source": "stack tabs background blur radius",
+            "target": "堆叠标签页背景模糊半径"
+        },
+        {
+            "type": "title",
+            "source": "2.3.21 Tabs",
+            "target": "2.3.21 标签页"
+        },
+        {
+            "type": "title",
+            "source": "Tab style",
+            "target": "标签页样式"
+        },
+        {
+            "type": "label",
+            "source": "Underline",
+            "target": "下划线"
+        },
+        {
+            "type": "label",
+            "source": "Safari-style",
+            "target": "Safari风格"
+        },
+        {
+            "type": "label",
+            "source": "Transparent-style",
+            "target": "透明风格"
+        },
+        {
+            "type": "title",
+            "source": "2.3.21 Mermaid",
+            "target": "2.3.21 Mermaid"
+        },
+        {
+            "type": "title",
+            "source": "Resizable mermaid in reading mode",
+            "target": "阅读模式下可调整的Mermaid图表"
+        },
+        {
+            "type": "title",
+            "source": "2.3.23 Canvas",
+            "target": "2.3.23 Canvas"
+        },
+        {
+            "type": "title",
+            "source": "Canvas card focus mode (Unavailable)",
+            "target": "Canvas卡片聚焦模式（不可用）"
+        },
+        {
+            "type": "description",
+            "source": "clicking on a card will highlight all cards and lines of the same color on the canvas When turned on",
+            "target": "开启后，点击卡片会高亮Canvas上所有同色卡片和线条"
+        },
+        {
+            "type": "title",
+            "source": "Canvas card size for \"Zoom to selection\"",
+            "target": "“选择区域缩放”模式下的Canvas卡片大小"
+        },
+        {
+            "type": "title",
+            "source": "Canvas card text center align",
+            "target": "Canvas卡片文本居中对齐"
+        },
+        {
+            "type": "title",
+            "source": "Canvas card opacity",
+            "target": "Canvas卡片透明度"
+        },
+        {
+            "type": "title",
+            "source": "2.3.23.1 canvas workplace background settings",
+            "target": "2.3.23.1 画布工作区背景设置"
+        },
+        {
+            "type": "title",
+            "source": "Toggle canvas grid",
+            "target": "切换画布网格"
+        },
+        {
+            "type": "title",
+            "source": "Toggle canvas workplace background",
+            "target": "切换画布工作区背景"
+        },
+        {
+            "type": "title",
+            "source": "Custom canvas background color",
+            "target": "自定义画布背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "2.3.24 Tab stack",
+            "target": "2.3.24 标签堆栈"
+        },
+        {
+            "type": "title",
+            "source": "Tag stacked pane with",
+            "target": "将堆叠面板标记为"
+        },
+        {
+            "type": "title",
+            "source": "Spine width",
+            "target": "侧边栏宽度"
+        },
+        {
+            "type": "title",
+            "source": "2.3.25 Highlights (==xx==)",
+            "target": "2.3.25 高亮（==xx==）"
+        },
+        {
+            "type": "title",
+            "source": "Highlight text color",
+            "target": "高亮文本颜色"
+        },
+        {
+            "type": "description",
+            "source": "==XXXXX== color",
+            "target": "==XXXXX== 颜色"
+        },
+        {
+            "type": "title",
+            "source": "Highlight styles",
+            "target": "高亮样式"
+        },
+        {
+            "type": "label",
+            "source": "All rounded corners (@Mon & @TheGodOfKing)",
+            "target": "所有圆角（@Mon 和 @TheGodOfKing）"
+        },
+        {
+            "type": "label",
+            "source": "No rounded corners",
+            "target": "无圆角"
+        },
+        {
+            "type": "title",
+            "source": "Highlight background color",
+            "target": "高亮背景色"
+        },
+        {
+            "type": "title",
+            "source": "Hue (Light mode)",
+            "target": "色调（浅色模式）"
+        },
+        {
+            "type": "description",
+            "source": "To adjust Hue",
+            "target": "调整色调"
+        },
+        {
+            "type": "title",
+            "source": "Saturation (Light mode)",
+            "target": "饱和度（浅色模式）"
+        },
+        {
+            "type": "description",
+            "source": "To adjust Saturation",
+            "target": "调整饱和度"
+        },
+        {
+            "type": "title",
+            "source": "Lightness (Light mode)",
+            "target": "亮度（浅色模式）"
+        },
+        {
+            "type": "description",
+            "source": "To adjust Lightness",
+            "target": "调整亮度"
+        },
+        {
+            "type": "title",
+            "source": "Opacity (Light mode)",
+            "target": "不透明度（浅色模式）"
+        },
+        {
+            "type": "description",
+            "source": "To adjust Alpha",
+            "target": "用于调整Alpha值"
+        },
+        {
+            "type": "title",
+            "source": "Hue (Dark mode)",
+            "target": "色相（深色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Saturation (Dark mode)",
+            "target": "饱和度（深色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Lightness (Dark mode)",
+            "target": "亮度（深色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Opacity (Dark mode)",
+            "target": "不透明度（深色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Colorful highlight setting",
+            "target": "彩色高亮设置"
+        },
+        {
+            "type": "title",
+            "source": "Deactivate colorful-highlight",
+            "target": "禁用彩色高亮"
+        },
+        {
+            "type": "description",
+            "source": "In this theme, *==xxx==*, **==xxx==** and ***==xxx==*** possese different background colors by default, active this option to cancel it. Even with this option actived, you can still type \"cssclass：colorful-highlight\" into yaml to make the colorful-highlight style available to individual documents",
+            "target": "在此主题中，*==xxx==*、**==xxx==**和***==xxx==***默认具有不同的背景颜色，启用此选项可取消该设置。即使启用此选项，您仍然可以在yaml中输入\"cssclass：colorful-highlight\"，以便在单个文档中使用彩色高亮样式"
+        },
+        {
+            "type": "title",
+            "source": "Highlight background color Plus 1 (*==xx==*)",
+            "target": "高亮背景颜色 Plus 1（*==xx==*）"
+        },
+        {
+            "type": "title",
+            "source": "Highlight text color Plus 1 (*==xx==*)",
+            "target": "高亮文本颜色 Plus 1 (*==xx==*)"
+        },
+        {
+            "type": "title",
+            "source": "Font weight of highlight text Plus 1 (*==xx==*)",
+            "target": "高亮文本的字体粗细 Plus 1 (*==xx==*)"
+        },
+        {
+            "type": "description",
+            "source": "Can type normal, bold, lighter or bolder to change the font weight",
+            "target": "可输入 normal、bold、lighter 或 bolder 以更改字体粗细"
+        },
+        {
+            "type": "title",
+            "source": "Highlight background color Plus 2 (**==xx==**)",
+            "target": "高亮背景颜色 Plus 2 (**==xx==**)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight text color Plus 2 (**==xx==**)",
+            "target": "高亮文本颜色 Plus 2 (**==xx==**)"
+        },
+        {
+            "type": "title",
+            "source": "Font weight of highlight text Plus 2 (**==xx==**)",
+            "target": "高亮文本的字体粗细 Plus 2 (**==xx==**)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight background color Plus 3 (***==xx==***)",
+            "target": "高亮背景颜色 Plus 3 (***==xx==***)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight text color Plus 3 (***==xx==***)",
+            "target": "高亮文本颜色 Plus 3 (***==xx==***)"
+        },
+        {
+            "type": "title",
+            "source": "Font weight of highlight text Plus 3 (***==xx==***)",
+            "target": "高亮文本的字体粗细 Plus 3 (***==xx==***)"
+        },
+        {
+            "type": "title",
+            "source": "2.3.26 Popover",
+            "target": "2.3.26 弹出窗口"
+        },
+        {
+            "type": "title",
+            "source": "Hover popover background color",
+            "target": "悬停弹出框背景色"
+        },
+        {
+            "type": "description",
+            "source": "--background-popover",
+            "target": "--background-popover"
+        },
+        {
+            "type": "title",
+            "source": "Popover width",
+            "target": "弹出框宽度"
+        },
+        {
+            "type": "title",
+            "source": "Popover height",
+            "target": "弹出框高度"
+        },
+        {
+            "type": "title",
+            "source": "3. For Plugins",
+            "target": "3. 对于插件"
+        },
+        {
+            "type": "title",
+            "source": "3.1 Admonition & Callout style",
+            "target": "3.1 提示与呼出样式"
+        },
+        {
+            "type": "title",
+            "source": "Admontion codebock and Callout background",
+            "target": "提示代码块和呼出背景"
+        },
+        {
+            "type": "title",
+            "source": "The same as the title color",
+            "target": "与标题颜色相同"
+        },
+        {
+            "type": "title",
+            "source": "callout style settings",
+            "target": "呼出样式设置"
+        },
+        {
+            "type": "label",
+            "source": "Shade",
+            "target": "色调"
+        },
+        {
+            "type": "title",
+            "source": "Full-width layout for callout & admonition",
+            "target": "呼出框与提示的等宽布局"
+        },
+        {
+            "type": "title",
+            "source": "Admonition special style support",
+            "target": "提示特殊样式支持"
+        },
+        {
+            "type": "title",
+            "source": "3.2 Calendar",
+            "target": "3.2 日历"
+        },
+        {
+            "type": "title",
+            "source": "Toggle shadow of current date",
+            "target": "切换当前日期阴影"
+        },
+        {
+            "type": "title",
+            "source": "Transparent calendar background",
+            "target": "日历背景透明"
+        },
+        {
+            "type": "title",
+            "source": "Calendar",
+            "target": "日历"
+        },
+        {
+            "type": "label",
+            "source": "Style 1",
+            "target": "样式 1"
+        },
+        {
+            "type": "label",
+            "source": "Style 2",
+            "target": "样式 2"
+        },
+        {
+            "type": "title",
+            "source": "3.3 Checklist plugin",
+            "target": "3.3 待办事项插件"
+        },
+        {
+            "type": "title",
+            "source": "Rainbow checklist",
+            "target": "彩虹色待办事项"
+        },
+        {
+            "type": "title",
+            "source": "3.4 Kanban",
+            "target": "3.4 看板"
+        },
+        {
+            "type": "title",
+            "source": "Static",
+            "target": "静态"
+        },
+        {
+            "type": "label",
+            "source": "All color (instead of images in light mode)",
+            "target": "全部颜色（浅色模式下使用颜色而非图片）"
+        },
+        {
+            "type": "label",
+            "source": "All image-1",
+            "target": "全部图片-1"
+        },
+        {
+            "type": "label",
+            "source": "All image-2 abstract",
+            "target": "全部图片-2 抽象风格"
+        },
+        {
+            "type": "label",
+            "source": "Plain",
+            "target": "简约风格"
+        },
+        {
+            "type": "label",
+            "source": "Little color",
+            "target": "少量颜色"
+        },
+        {
+            "type": "title",
+            "source": "Dynamic",
+            "target": "动态风格"
+        },
+        {
+            "type": "label",
+            "source": "None",
+            "target": "无"
+        },
+        {
+            "type": "label",
+            "source": "Neon-1",
+            "target": "霓虹-1"
+        },
+        {
+            "type": "label",
+            "source": "Neon-2",
+            "target": "霓虹-2"
+        },
+        {
+            "type": "label",
+            "source": "Neon-3",
+            "target": "霓虹-3"
+        },
+        {
+            "type": "title",
+            "source": "3.5 Buttons",
+            "target": "3.5 按钮"
+        },
+        {
+            "type": "title",
+            "source": "Buttons special style support",
+            "target": "按钮特殊样式支持"
+        },
+        {
+            "type": "title",
+            "source": "3.6 Dataview",
+            "target": "3.6 Dataview"
+        },
+        {
+            "type": "title",
+            "source": "3.6.1 Dataview list",
+            "target": "3.6.1 Dataview 列表"
+        },
+        {
+            "type": "title",
+            "source": "Style",
+            "target": "样式"
+        },
+        {
+            "type": "label",
+            "source": "Pac-man",
+            "target": "吃豆人"
+        },
+        {
+            "type": "label",
+            "source": "Normal",
+            "target": "正常"
+        },
+        {
+            "type": "title",
+            "source": "3.6.2 Dataview table",
+            "target": "3.6.2 Dataview 表格"
+        },
+        {
+            "type": "title",
+            "source": "Dataview table format",
+            "target": "Dataview表格格式"
+        },
+        {
+            "type": "title",
+            "source": "Automatically add serial numbers to tables",
+            "target": "自动为表格添加序列号"
+        },
+        {
+            "type": "title",
+            "source": "Full-width dvtable display",
+            "target": "全宽dvtable显示"
+        },
+        {
+            "type": "title",
+            "source": "3.7 Dialogue & Chatview",
+            "target": "3.7 对话与聊天视图"
+        },
+        {
+            "type": "title",
+            "source": "Dialogue & Chatview Style",
+            "target": "对话与聊天视图样式"
+        },
+        {
+            "type": "description",
+            "source": "Wechat options is for ’titleMode：all‘ ，chat options is for  ‘titleMode：first’",
+            "target": "Wechat选项适用于“titleMode：all”，chat选项适用于“titleMode：first”"
+        },
+        {
+            "type": "label",
+            "source": "Wechat",
+            "target": "Wechat"
+        },
+        {
+            "type": "label",
+            "source": "Chat",
+            "target": "聊天"
+        },
+        {
+            "type": "title",
+            "source": "3.9 ✏️Thino",
+            "target": "3.9 ✏️Thino"
+        },
+        {
+            "type": "description",
+            "source": "Adapted from @Quorafind's Thino Plugin",
+            "target": "改编自@Quorafind的Thino插件"
+        },
+        {
+            "type": "title",
+            "source": "3.9.1 Thino  style",
+            "target": "3.9.1 Thino 风格"
+        },
+        {
+            "type": "title",
+            "source": "Put input box to bottom",
+            "target": "将输入框置于底部"
+        },
+        {
+            "type": "title",
+            "source": "hider Thino header",
+            "target": "隐藏 Thino 标题栏"
+        },
+        {
+            "type": "title",
+            "source": "add Thino list scroll",
+            "target": "添加 Thino 列表滚动条"
+        },
+        {
+            "type": "title",
+            "source": "hide thino modern moment banner",
+            "target": "隐藏 thino modern moment 横幅"
+        },
+        {
+            "type": "title",
+            "source": "moment banner gradient",
+            "target": "moment 横幅渐变"
+        },
+        {
+            "type": "title",
+            "source": "thino style",
+            "target": "thino 风格"
+        },
+        {
+            "type": "label",
+            "source": "default",
+            "target": "默认"
+        },
+        {
+            "type": "label",
+            "source": "Frosted Style(Transparent)",
+            "target": "磨砂风格（透明）"
+        },
+        {
+            "type": "label",
+            "source": "Frosted Style",
+            "target": "磨砂风格"
+        },
+        {
+            "type": "title",
+            "source": "custom thino background",
+            "target": "自定义 Thino 背景"
+        },
+        {
+            "type": "label",
+            "source": "custom color",
+            "target": "自定义颜色"
+        },
+        {
+            "type": "label",
+            "source": "Custom background img",
+            "target": "自定义背景图片"
+        },
+        {
+            "type": "title",
+            "source": "thino  background color",
+            "target": "Thino 背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Custom thino background light (url)",
+            "target": "自定义 Thino 浅色背景 (URL)"
+        },
+        {
+            "type": "title",
+            "source": "Custom thino background dark (url)",
+            "target": "自定义 Thino 深色背景 (URL)"
+        },
+        {
+            "type": "title",
+            "source": "3.9.2 Thino share style",
+            "target": "3.9.2 Thino 共享样式"
+        },
+        {
+            "type": "title",
+            "source": "share thino style",
+            "target": "共享 Thino 样式"
+        },
+        {
+            "type": "label",
+            "source": "Same as workspace background",
+            "target": "与工作区背景相同"
+        },
+        {
+            "type": "label",
+            "source": "Same as  thino  background",
+            "target": "与 Thino 背景相同"
+        },
+        {
+            "type": "label",
+            "source": "Custom share background",
+            "target": "自定义分享背景"
+        },
+        {
+            "type": "title",
+            "source": "Share Card Background Opacity",
+            "target": "分享卡片背景透明度"
+        },
+        {
+            "type": "title",
+            "source": "Share Card Background color（Gradient Mode）",
+            "target": "分享卡片背景颜色（渐变模式）"
+        },
+        {
+            "type": "title",
+            "source": "Custom thino share background light (url)",
+            "target": "自定义 thino 分享背景浅色（URL）"
+        },
+        {
+            "type": "title",
+            "source": "Custom thino share background dark (url)",
+            "target": "自定义 thino 分享背景深色（URL）"
+        },
+        {
+            "type": "title",
+            "source": "3.10 backlinks panel",
+            "target": "3.10 反向链接面板"
+        },
+        {
+            "type": "title",
+            "source": "Full-width backlinks panel display",
+            "target": "全宽反向链接面板显示"
+        },
+        {
+            "type": "title",
+            "source": "3.11 Quiet outline",
+            "target": "3.11 静默轮廓"
+        },
+        {
+            "type": "title",
+            "source": "Optimize quiet-outline plugin",
+            "target": "优化 quiet-outline 插件"
+        },
+        {
+            "type": "title",
+            "source": "3.12 Notebook Navigator",
+            "target": "3.12 笔记本导航器"
+        },
+        {
+            "type": "title",
+            "source": "Enable Notebook Navigator support",
+            "target": "启用笔记本导航器支持"
+        },
+        {
+            "type": "title",
+            "source": "4. Built-in style intro",
+            "target": "4. 内置样式介绍"
+        },
+        {
+            "type": "description",
+            "source": "There are some built-in CSS classes that should be manually declared in the YAML area. Details refer to the TIPS demo vault for Blue Topaz on Github.",
+            "target": "有一些内置的CSS类需要在YAML区域中手动声明。详情请参考Github上Blue Topaz的TIPS演示库。"
+        },
+        {
+            "type": "title",
+            "source": "Pseudo-kanban",
+            "target": "伪看板风格"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：kanban❗ A kind of kanban-liked style for unordered lists. (Adapted from Spectrum theme by @Wiktoria Mielcarek)",
+            "target": "❗cssclass：kanban❗ 一种类看板风格的无序列表样式。（改编自@Wiktoria Mielcarek的Spectrum主题）"
+        },
+        {
+            "type": "title",
+            "source": "Simple pseudo-kanban",
+            "target": "简易伪看板"
+        },
+        {
+            "type": "description",
+            "source": "Remove colors of pseudo-kanban",
+            "target": "移除伪看板颜色"
+        },
+        {
+            "type": "title",
+            "source": "Remove shadow of pseudo-kanban",
+            "target": "移除伪看板阴影"
+        },
+        {
+            "type": "title",
+            "source": "Colorful pseudo-kanban",
+            "target": "彩色伪看板"
+        },
+        {
+            "type": "title",
+            "source": "Blur radius (For Frosted Glass Style)",
+            "target": "模糊半径（适用于冰晶玻璃风格）"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 1",
+            "target": "伪看板颜色 1"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 2",
+            "target": "伪看板颜色 2"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 3",
+            "target": "伪看板颜色 3"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 4",
+            "target": "伪看板颜色 4"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 5",
+            "target": "伪看板颜色 5"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 6",
+            "target": "伪看板颜色 6"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 7",
+            "target": "伪看板颜色 7"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban color 8",
+            "target": "伪看板颜色 8"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban-card subitem color",
+            "target": "伪看板卡片子项颜色"
+        },
+        {
+            "type": "title",
+            "source": "pseudo-kanban-border color",
+            "target": "伪看板边框颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code Wrap",
+            "target": "代码包裹"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：code-wrap❗ Can be used to wrap code in code blocks for individual .md file",
+            "target": "❗cssclass：code-wrap❗ 可用于在单个 .md 文件的代码块中包裹代码"
+        },
+        {
+            "type": "title",
+            "source": "List in a horizontal row (inline list)",
+            "target": "水平排列的列表（内联列表）"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：inline-list❗ To make the list show in a horizontal row. Meanwhile, it makes the list show inline which can be used with inline images (like ![[xxx.jpg|inlineR]])",
+            "target": "❗cssclass：inline-list❗ 使列表以水平行显示。同时，它使列表以内联方式显示，可与内联图片（如 ![[xxx.jpg|inlineR]]) 一起使用"
+        },
+        {
+            "type": "title",
+            "source": "Image grid",
+            "target": "图片网格"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：img-grid❗ To make images arrange in a grid in the preview mode. (adapted from https://github.com/iEchoxu/obsidian_orange/blob/main/.obsidian/snippets/image-grid.css)",
+            "target": "❗cssclass：img-grid❗ 使图片在预览模式下以网格形式排列。（改编自 https://github.com/iEchoxu/obsidian_orange/blob/main/.obsidian/snippets/image-grid.css）"
+        },
+        {
+            "type": "title",
+            "source": "Eisenhower matrix",
+            "target": "艾森豪威尔矩阵"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：matrix❗ Usage https://forum.obsidian.md/t/theme-spectrum-version-1-0-0-and-resise-graphs-controls/12688/34 (Adapted from Spectrum theme by @Wiktoria Mielcarek)",
+            "target": "❗cssclass：matrix❗ 使用方式 https://forum.obsidian.md/t/theme-spectrum-version-1-0-0-and-resise-graphs-controls/12688/34（改编自 @Wiktoria Mielcarek 的 Spectrum 主题）"
+        },
+        {
+            "type": "title",
+            "source": "full-width layout",
+            "target": "全宽布局"
+        },
+        {
+            "type": "description",
+            "source": "❗cssclass：fullwidth  wide-dataview wide-table wide-callout  wide-backlinks❗ (Adapted from https://github.com/efemkay @ Faiz Khuzaimah)",
+            "target": "❗cssclass：fullwidth  wide-dataview wide-table wide-callout  wide-backlinks❗（改编自 https://github.com/efemkay @ Faiz Khuzaimah）"
+        },
+        {
+            "type": "title",
+            "source": "Supported by Topaz Community 😁",
+            "target": "由 Topaz 社区支持 😁"
+        },
+        {
+            "type": "title",
+            "source": "Support me",
+            "target": "支持我"
+        },
+        {
+            "type": "description",
+            "source": "[https://www.buymeacoffee.com/whyi](https://www.buymeacoffee.com/whyi)",
+            "target": "[https://www.buymeacoffee.com/whyi](https://www.buymeacoffee.com/whyi)"
+        },
+        {
+            "type": "markdown",
+            "source": "true",
+            "target": "true"
+        },
+        {
+            "type": "title",
+            "source": "Star the theme",
+            "target": "给主题打星"
+        },
+        {
+            "type": "description",
+            "source": "[https://github.com/PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)",
+            "target": "[https://github.com/PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)"
+        },
+        {
+            "type": "name",
+            "source": "🥑Blue Topaz Codebox Settings",
+            "target": "🥑Blue Topaz Codebox 设置"
+        },
+        {
+            "type": "title",
+            "source": "Codebox highlighting",
+            "target": "Codebox 高亮"
+        },
+        {
+            "type": "title",
+            "source": "Codebox highlighting schemes",
+            "target": "Codebox 高亮方案"
+        },
+        {
+            "type": "label",
+            "source": "bt-default",
+            "target": "bt-default"
+        },
+        {
+            "type": "label",
+            "source": "Solarized Light",
+            "target": "Solarized 浅色模式"
+        },
+        {
+            "type": "label",
+            "source": "Material Palenight",
+            "target": "Material Palenight"
+        },
+        {
+            "type": "label",
+            "source": "Dracula",
+            "target": "Dracula"
+        },
+        {
+            "type": "label",
+            "source": "Gruvbox Dark",
+            "target": "Gruvbox 深色模式"
+        },
+        {
+            "type": "label",
+            "source": "monokai",
+            "target": "Monokai"
+        },
+        {
+            "type": "label",
+            "source": "sublime",
+            "target": "Sublime"
+        },
+        {
+            "type": "title",
+            "source": "Codebox style settings",
+            "target": "代码框样式设置"
+        },
+        {
+            "type": "title",
+            "source": "Mute codebox indent line",
+            "target": "隐藏代码框缩进线"
+        },
+        {
+            "type": "title",
+            "source": "Code box showing line numbers (Editing mode)",
+            "target": "代码框显示行号（编辑模式）"
+        },
+        {
+            "type": "description",
+            "source": "csslass declares code-line-number to be available for the current document",
+            "target": "csslass 声明当前文档可用代码行号"
+        },
+        {
+            "type": "title",
+            "source": "Code wrap (Reading mode)",
+            "target": "代码环绕（阅读模式）"
+        },
+        {
+            "type": "title",
+            "source": "Toggle showing types of code languages",
+            "target": "切换显示代码语言类型"
+        },
+        {
+            "type": "title",
+            "source": "Non-wrap Codebox (Live preview)",
+            "target": "非环绕代码框（实时预览）"
+        },
+        {
+            "type": "title",
+            "source": "Letter spacing for code",
+            "target": "代码字间距"
+        },
+        {
+            "type": "title",
+            "source": "Codebox style",
+            "target": "代码框样式"
+        },
+        {
+            "type": "title",
+            "source": "Codebox highlighting background colors",
+            "target": "代码框高亮背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Codebox background color",
+            "target": "代码框背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Mute codebox active line",
+            "target": "静音代码框活动行"
+        },
+        {
+            "type": "title",
+            "source": "Codebox active line background color",
+            "target": "代码框活动行背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Codebox selection line background color",
+            "target": "代码框选中文本行背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Custom codebox syntax highlighting colors",
+            "target": "自定义代码块语法高亮颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block normal color",
+            "target": "代码块常规颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block keyword color",
+            "target": "代码块关键字颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block number color",
+            "target": "代码块数字颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block type color",
+            "target": "代码块类型颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block property color",
+            "target": "代码块属性颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block variable color",
+            "target": "代码块变量颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block variable-2 color",
+            "target": "代码块变量-2颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block variable-3 color",
+            "target": "代码块变量-3颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block qualifier color",
+            "target": "代码块限定符颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block operator color",
+            "target": "代码块操作符颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block hr color",
+            "target": "代码块水平线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block builtin color",
+            "target": "代码块内置函数颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block tag color",
+            "target": "代码块标签颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block string-2 color",
+            "target": "代码块字符串-2颜色"
+        },
+        {
+            "type": "description",
+            "source": "class-name",
+            "target": "类名"
+        },
+        {
+            "type": "title",
+            "source": "Code block punctuation color",
+            "target": "代码块标点符号颜色"
+        },
+        {
+            "type": "description",
+            "source": "code punctuation, bracket color",
+            "target": "代码标点、括号颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block comment color",
+            "target": "代码块注释颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block string color",
+            "target": "代码块字符串颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block attribute color",
+            "target": "代码块属性颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block function color",
+            "target": "代码块函数颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block important color",
+            "target": "代码块重要颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block atom color",
+            "target": "代码块原子颜色"
+        },
+        {
+            "type": "description",
+            "source": "Frontmatter keys color",
+            "target": "前导数据键颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block meta color",
+            "target": "代码块元数据颜色"
+        },
+        {
+            "type": "description",
+            "source": "Frontmatter punctuation color",
+            "target": "前导数据标点颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code block language color",
+            "target": "代码块语言颜色"
+        },
+        {
+            "type": "title",
+            "source": "Inline code background color",
+            "target": "内联代码背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Inline code color",
+            "target": "内联代码颜色"
+        },
+        {
+            "type": "title",
+            "source": "Font weight of inline code",
+            "target": "内联代码的字体粗细"
+        }
+    ]
+}
