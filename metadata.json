@@ -869,5 +869,18 @@
         "hash": "3f6492553f6492553f6492553f649255",
         "created_at": "2026-08-26T21:59:01.091Z",
         "updated_at": "2026-08-26T21:59:01.091Z"
+    },
+    {
+        "id": "5-AsQ-RWg3CZ-Lh9qHzAXxxRqir-T9JN",
+        "plugin": "Blue Topaz",
+        "language": "zh-cn",
+        "version": "2026081501",
+        "supported_versions": "2026081501",
+        "title": "Blue Topaz",
+        "description": "Blue Topaz Localization & Tweaks",
+        "hash": "2e1024352e1024352e1024352e102435",
+        "created_at": "2026-10-27T14:00:09.066Z",
+        "updated_at": "2026-10-27T14:00:09.066Z",
+        "type": "theme"
     }
 ]
