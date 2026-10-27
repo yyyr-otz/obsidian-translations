@@ -1,0 +1,384 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "theme": "Things",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supportedVersions": "2.1.20",
+        "title": "Things",
+        "description": "Things Localization & Tweaks",
+        "author": "MachineYu"
+    },
+    "dict": [
+        {
+            "type": "name",
+            "source": "Things Theme",
+            "target": "事物主题"
+        },
+        {
+            "type": "title",
+            "source": "Features",
+            "target": "功能"
+        },
+        {
+            "type": "title",
+            "source": "Black mobile background",
+            "target": "黑色移动背景"
+        },
+        {
+            "type": "description",
+            "source": "Change mobile editor background to default theme black",
+            "target": "将移动端编辑器背景更改为默认主题的黑色"
+        },
+        {
+            "type": "title",
+            "source": "Disable mobile floating-action button",
+            "target": "禁用移动浮动操作按钮"
+        },
+        {
+            "type": "description",
+            "source": "Revert placement of edit/preview button to default in header (mobile)",
+            "target": "将编辑/预览按钮恢复至标题栏默认位置 (移动端)"
+        },
+        {
+            "type": "title",
+            "source": "Highlight active line",
+            "target": "高亮活动行"
+        },
+        {
+            "type": "description",
+            "source": "Change background color of current working line",
+            "target": "更改当前工作行的背景颜色"
+        },
+        {
+            "type": "title",
+            "source": "Fancy code blocks",
+            "target": "精美代码块"
+        },
+        {
+            "type": "description",
+            "source": "Enable fancy numbered code blocks",
+            "target": "启用带编号的精美代码块"
+        },
+        {
+            "type": "title",
+            "source": "Fancy highlighting",
+            "target": "精美高亮"
+        },
+        {
+            "type": "description",
+            "source": "Enable fancy highlight styles with highlight underlines",
+            "target": "启用具有高亮底线的精美高亮样式"
+        },
+        {
+            "type": "title",
+            "source": "Disable Kanban board styles",
+            "target": "禁用卡片板样式"
+        },
+        {
+            "type": "description",
+            "source": "Remove minimalist styling to the Kanban plugin",
+            "target": "移除卡片板插件的极简风格"
+        },
+        {
+            "type": "title",
+            "source": "Underline internal links",
+            "target": "内部链接加底线"
+        },
+        {
+            "type": "description",
+            "source": "Show underlines on internal links",
+            "target": "在内部链接上显示底线"
+        },
+        {
+            "type": "title",
+            "source": "Underline external links",
+            "target": "外部链接加底线"
+        },
+        {
+            "type": "description",
+            "source": "Show underlines on external links",
+            "target": "在外部链接上显示底线"
+        },
+        {
+            "type": "title",
+            "source": "Typography",
+            "target": "排版"
+        },
+        {
+            "type": "title",
+            "source": "Default font colors",
+            "target": "默认字体颜色"
+        },
+        {
+            "type": "description",
+            "source": "Use the default font color styling for bold, italics, and quotes",
+            "target": "使用默认的字体颜色样式来显示粗体、斜体和引用"
+        },
+        {
+            "type": "title",
+            "source": "Highlight color (light)",
+            "target": "高亮颜色（亮色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Highlight color (dark)",
+            "target": "高亮颜色（暗色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Bold font color",
+            "target": "粗体字体颜色"
+        },
+        {
+            "type": "title",
+            "source": "Italics font color",
+            "target": "斜体字体颜色"
+        },
+        {
+            "type": "title",
+            "source": "Blockquotes font color",
+            "target": "引用块字体颜色"
+        },
+        {
+            "type": "title",
+            "source": "Inline code blocks font color (Light mode)",
+            "target": "内联代码块字体颜色（亮色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Inline code blocks font color (Dark mode)",
+            "target": "内联代码块字体颜色（暗色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Tag background color (Light mode)",
+            "target": "标签背景颜色（亮色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Tag font color (Light mode)",
+            "target": "标签字体颜色（亮色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Tag background color (Dark mode)",
+            "target": "标签背景色（暗色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Tag font color (Dark mode)",
+            "target": "标签字体颜色（暗色模式）"
+        },
+        {
+            "type": "title",
+            "source": "Progress colorful mode switcher",
+            "target": "进度条彩色模式切换器"
+        },
+        {
+            "type": "description",
+            "source": "Toggle progress color scheme",
+            "target": "切换进度条颜色方案"
+        },
+        {
+            "type": "title",
+            "source": "progress 2-39% color",
+            "target": "进度 2-39% 颜色"
+        },
+        {
+            "type": "title",
+            "source": "progress 40-59% color",
+            "target": "进度 40-59% 颜色"
+        },
+        {
+            "type": "title",
+            "source": "progress 60-79% color",
+            "target": "进度 60-79% 颜色"
+        },
+        {
+            "type": "title",
+            "source": "progress 80-99% color",
+            "target": "进度 80-99% 颜色"
+        },
+        {
+            "type": "title",
+            "source": "progress 1,100% color",
+            "target": "进度 1,100% 颜色"
+        },
+        {
+            "type": "title",
+            "source": "Headings",
+            "target": "标题"
+        },
+        {
+            "type": "title",
+            "source": "Level 1 Headings",
+            "target": "一级标题"
+        },
+        {
+            "type": "title",
+            "source": "H1 font size",
+            "target": "H1字号大小"
+        },
+        {
+            "type": "description",
+            "source": "Accepts any CSS font-size value",
+            "target": "可以使用任何CSS font-size值"
+        },
+        {
+            "type": "title",
+            "source": "H1 font weight",
+            "target": "H1字体粗细"
+        },
+        {
+            "type": "description",
+            "source": "Accepts numbers representing the CSS font-weight",
+            "target": "可以使用代表CSS font-weight的数值"
+        },
+        {
+            "type": "title",
+            "source": "H1 color",
+            "target": "H1颜色"
+        },
+        {
+            "type": "title",
+            "source": "Level 2 Headings",
+            "target": "二级标题"
+        },
+        {
+            "type": "title",
+            "source": "H2 font size",
+            "target": "H2字号大小"
+        },
+        {
+            "type": "title",
+            "source": "H2 font weight",
+            "target": "H2字体粗细"
+        },
+        {
+            "type": "title",
+            "source": "H2 color",
+            "target": "H2颜色"
+        },
+        {
+            "type": "title",
+            "source": "H2 underline",
+            "target": "二级标题下划线"
+        },
+        {
+            "type": "description",
+            "source": "Toggle H2 underline (border-bottom)",
+            "target": "开关二级标题下划线（border-bottom）"
+        },
+        {
+            "type": "title",
+            "source": "Level 3 Headings",
+            "target": "三级标题"
+        },
+        {
+            "type": "title",
+            "source": "H3 font size",
+            "target": "三级标题字号大小"
+        },
+        {
+            "type": "title",
+            "source": "H3 font weight",
+            "target": "三级标题字体粗细"
+        },
+        {
+            "type": "title",
+            "source": "H3 color",
+            "target": "三级标题颜色"
+        },
+        {
+            "type": "title",
+            "source": "Level 4 Headings",
+            "target": "四级标题"
+        },
+        {
+            "type": "title",
+            "source": "H4 font size",
+            "target": "四级标题字号大小"
+        },
+        {
+            "type": "title",
+            "source": "H4 font weight",
+            "target": "四级标题字体粗细"
+        },
+        {
+            "type": "title",
+            "source": "H4 color",
+            "target": "四级标题颜色"
+        },
+        {
+            "type": "title",
+            "source": "H4 transform",
+            "target": "H4文本变换"
+        },
+        {
+            "type": "description",
+            "source": "Transform the H4 heading text",
+            "target": "转换第四级标题文本"
+        },
+        {
+            "type": "label",
+            "source": "Uppercase",
+            "target": "全大写"
+        },
+        {
+            "type": "label",
+            "source": "None",
+            "target": "无"
+        },
+        {
+            "type": "title",
+            "source": "Level 5 Headings",
+            "target": "第五级标题"
+        },
+        {
+            "type": "title",
+            "source": "H5 font size",
+            "target": "H5字号大小"
+        },
+        {
+            "type": "title",
+            "source": "H5 font weight",
+            "target": "H5字重"
+        },
+        {
+            "type": "title",
+            "source": "H5 color",
+            "target": "H5颜色"
+        },
+        {
+            "type": "title",
+            "source": "Level 6 Headings",
+            "target": "第六级标题"
+        },
+        {
+            "type": "title",
+            "source": "H6 font size",
+            "target": "H6字号大小"
+        },
+        {
+            "type": "title",
+            "source": "H6 font weight",
+            "target": "H6 字体粗细"
+        },
+        {
+            "type": "title",
+            "source": "H6 color",
+            "target": "H6 颜色"
+        },
+        {
+            "type": "title",
+            "source": "Credits",
+            "target": "贡献者"
+        },
+        {
+            "type": "description",
+            "source": "Created with ❤︎ by @colineckert. Support @colineckert at buymeacoffee.com/colineckert",
+            "target": "由@colineckert 带着 ❤️ 创建。在 buymeacoffee.com/colineckert 支持他。"
+        }
+    ]
+}

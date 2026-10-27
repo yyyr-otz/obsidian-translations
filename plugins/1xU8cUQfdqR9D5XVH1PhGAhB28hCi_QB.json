@@ -1,0 +1,1092 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian42-brat",
+        "version": "2.0.1",
+        "title": "BRAT",
+        "description": "BRAT Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "2.0.3",
+        "author": "Machine丶Yu"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerText",
+                    "source": "Learn more about my work at:",
+                    "target": "了解我的更多作品，请访问："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Select a version",
+                    "target": "选择一个版本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Latest version",
+                    "target": "最新版本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Change plugin version: ",
+                    "target": "更改插件版本："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Enable after installing the plugin",
+                    "target": "安装插件后启用"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " and ",
+                    "target": " 和 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Plugin: ",
+                    "target": "插件："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "The ",
+                    "target": "该"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " for this plugin indicates that the Obsidian version of the app needs to be ",
+                    "target": " 表示此插件需要 Obsidian 应用版本为 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": ", but this installation of Obsidian is ",
+                    "target": "，但当前安装的 Obsidian 版本为 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Using this plugin is not recommended and may not work as expected. Use at your own risk.",
+                    "target": "不建议使用此插件，它可能无法按预期工作。使用风险自负。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Do you want to install it anyways?",
+                    "target": "是否仍要安装？"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": " for this plugin indicates that the plugin has ",
+                    "target": " 表示此插件具有 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": ", but you are using a mobile device.",
+                    "target": "，但您正在使用移动设备。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Do you want to forcefully run it on mobile anyways?",
+                    "target": "是否仍要在移动设备上强制运行？"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "BRAT\nGitHub API rate limit exceeded:",
+                    "target": "BRAT\n超出 GitHub API 速率限制："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Token validation error:",
+                    "target": "令牌验证错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "BRAT: validateRepository",
+                    "target": "BRAT: 验证仓库"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "BRAT: Failed to migrate tokens to SecretStorage:",
+                    "target": "BRAT: 将令牌迁移到 SecretStorage 失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to load settings:",
+                    "target": "加载设置失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No custom daily note settings found!",
+                    "target": "未找到自定义日记设置！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No custom weekly note settings found!",
+                    "target": "未找到自定义周记设置！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No custom monthly note settings found!",
+                    "target": "未找到自定义月记设置！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No custom quarterly note settings found!",
+                    "target": "未找到自定义季度笔记设置！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No custom yearly note settings found!",
+                    "target": "未找到自定义年记设置！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "error in isPrivateRepo",
+                    "target": "私有仓库中出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Error in fetchReleaseVersions",
+                    "target": "获取发布版本中出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "error in grabReleaseFileFromRepository",
+                    "target": "从仓库获取发布文件中出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "error in grabCommmunityPluginList",
+                    "target": "获取社区插件列表中出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "error in grabLastCommitInfoForAFile",
+                    "target": "获取文件最后提交信息中出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "GitHub request failed:",
+                    "target": "GitHub 请求失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "BRAT: addPlugin",
+                    "target": "BRAT: 添加插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "BRAT: rFiles.manifest",
+                    "target": "BRAT: 文件清单"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "BRAT - Local Manifest Load",
+                    "target": "BRAT - 本地清单加载"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "reload plugin",
+                    "target": "重新加载插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "BRAT: No internet detected.",
+                    "target": "BRAT: 未检测到网络连接。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "BRAT: lastUpdateOnline",
+                    "target": "BRAT: 最后在线更新"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add Plugin",
+                    "target": "添加插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Never mind",
+                    "target": "算了"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add plugin",
+                    "target": "添加插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add theme",
+                    "target": "添加主题"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Installing …",
+                    "target": "正在安装…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add beta plugin",
+                    "target": "添加测试版插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Add beta theme",
+                    "target": "添加测试版主题"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Select a secret as token for this repository (optional)",
+                    "target": "选择密钥作为此仓库的令牌（可选）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "If enabled beta plugins will be automatically enabled after installtion by default. Note: you can toggle this on and off for each plugin in the \"Add Plugin\" form.",
+                    "target": "如果启用，测试版插件在安装后将默认自动启用。注意：您可以在“添加插件”表单中为每个插件切换此选项。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "If enabled all beta plugins will be checked for updates each time Obsidian starts. Note: this does not update frozen version plugins.",
+                    "target": "如果启用，每次 Obsidian 启动时都会检查所有测试版插件的更新。注意：这不会更新固定版本的插件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "If enabled all beta themes will be checked for updates each time Obsidian starts.",
+                    "target": "如果启用，每次 Obsidian 启动时都会检查所有测试版主题的更新。注意：这不会更新固定版本的主题。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "If enabled the latest version will be selected by default when adding a new plugin.",
+                    "target": "如果启用，添加新插件时将默认选择最新版本。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "If enabled, plugins with higher app versions will be allowed to be installed. Also it allows desktop-only plugins to be installed on mobile devices.",
+                    "target": "如果启用，将允许安装需要更高应用版本的插件。同时也允许在移动设备上安装仅限桌面端的插件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "BRAT will provide popup notifications for its various activities. Turn this off means  no notifications from BRAT.",
+                    "target": "BRAT 将为其各种活动提供弹出通知。关闭此选项意味着不会收到来自 BRAT 的通知。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Plugin updates will be logged to a file in the log file.",
+                    "target": "插件更新将记录到日志文件中的一个文件中。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Logs will be saved to this file. Don't add .md to the file name.",
+                    "target": "日志将保存到此文件。请不要在文件名中添加 .md。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Get a lot  more information in  the log.",
+                    "target": "在日志中获取更多信息。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Atomic Bomb level console logging. Can be used for troubleshooting and development.",
+                    "target": "原子弹级别的控制台日志记录。可用于故障排除和开发。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "GitHub Token",
+                    "target": "GitHub 令牌"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto-enable plugins after installation",
+                    "target": "安装后自动启用插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto-update plugins at startup",
+                    "target": "启动时自动更新插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Auto-update themes at startup",
+                    "target": "启动时自动更新主题"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Select latest plugin version by default",
+                    "target": "默认选择最新插件版本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Allow incompatible plugins",
+                    "target": "允许不兼容的插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Enable notifications",
+                    "target": "启用通知"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Enable logging",
+                    "target": "启用日志记录"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "BRAT log file location",
+                    "target": "BRAT 日志文件位置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Enable verbose logging",
+                    "target": "启用详细日志记录"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Debugging mode",
+                    "target": "调试模式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "GitHub Personal Access Token",
+                    "target": "GitHub 个人访问令牌"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Personal access token",
+                    "target": "个人访问令牌"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Repository (example: https://github.com/GitHubUserName/repository-name)",
+                    "target": "仓库 (示例: https://github.com/GitHubUserName/repository-name)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Repository (example: https://github.com/GitHubUserName/repository-name",
+                    "target": "仓库 (示例: https://github.com/GitHubUserName/repository-name"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Filter plugins",
+                    "target": "过滤插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Filter themes",
+                    "target": "过滤主题"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Example: BRAT-log",
+                    "target": "示例: BRAT-log"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "No token provided",
+                    "target": "未提供令牌"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Failed to validate token",
+                    "target": "验证令牌失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Github repository for beta plugin:",
+                    "target": "测试版插件的 Github 仓库："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Enter a GitHub repository address to validate it.",
+                    "target": "输入 GitHub 仓库地址进行验证。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Repository address is required.",
+                    "target": "需要仓库地址。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Validating repository address...",
+                    "target": "正在验证仓库地址…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Error: No releases found in this repository.",
+                    "target": "错误：在此仓库中未找到发布版本。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Repository not found. Check the address or provide a valid token for access to a private repository.",
+                    "target": "未找到仓库。请检查地址，或提供有效令牌以访问私有仓库。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Access denied. Check your personal access token.",
+                    "target": "访问被拒绝。请检查您的个人访问令牌。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Select a version",
+                    "target": "选择一个版本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Check and update plugin",
+                    "target": "检查并更新插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Change version and update settings",
+                    "target": "更改版本并更新设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Clear personal access token",
+                    "target": "清除个人访问令牌"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Unable to create new file.",
+                    "target": "无法创建新文件。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Invalid token format",
+                    "target": "无效的令牌格式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No error",
+                    "target": "无错误"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Token has expired",
+                    "target": "令牌已过期"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Add a beta plugin for testing (with or without version)",
+                    "target": "插件：添加测试版插件进行测试（可指定版本或不指定）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Check for updates to all beta plugins and UPDATE",
+                    "target": "插件：检查所有测试版插件更新并更新"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Only check for updates to beta plugins, but don't Update",
+                    "target": "插件：仅检查测试版插件更新，但不更新"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Choose a single plugin version to update",
+                    "target": "插件：选择单个插件版本进行更新"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Choose a single plugin to reinstall",
+                    "target": "插件：选择单个插件重新安装"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Restart a plugin that is already installed",
+                    "target": "插件：重启已安装的插件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Disable a plugin - toggle it off",
+                    "target": "插件：禁用插件 - 将其关闭"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Enable a plugin - toggle it on",
+                    "target": "插件：启用插件 - 将其打开"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Open the GitHub repository for a plugin",
+                    "target": "插件：打开插件的 GitHub 仓库"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Plugins: Open Plugin Settings Tab",
+                    "target": "插件：打开插件设置标签页"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Themes: Open the GitHub repository for a theme (appearance)",
+                    "target": "主题：打开主题的 GitHub 仓库（外观）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Themes: Grab a beta theme for testing from a Github repository",
+                    "target": "主题：从 GitHub 仓库获取测试版主题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Themes: Update beta themes",
+                    "target": "主题：更新测试版主题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "All Commands list",
+                    "target": "所有命令列表"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "✓ Valid token",
+                    "target": "✓ 有效令牌"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "isDesktopOnly: true",
+                    "target": "仅限桌面版: 是"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "The following is a list of beta plugins added via the command \"Add a beta plugin for testing\". You can chose to add the latest version or a frozen version. A frozen version is a specific release of a plugin based on its release tag.",
+                    "target": "以下是通过“添加测试版插件进行测试”命令添加的测试版插件列表。您可以选择添加最新版本或固定版本。固定版本是基于其发布标签的插件的特定版本。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Click the 'Edit' button next to a plugin to change the installed version and the x button next to a plugin to remove it from the list.",
+                    "target": "点击插件旁边的 'Edit' 按钮以更改已安装版本，点击插件旁边的 x 按钮以从列表中移除它。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Note: ",
+                    "target": "注意："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Removing from the list does not delete the plugin, this should be done from the Community Plugins tab in Settings.",
+                    "target": "从列表中移除不会删除插件，这应该从设置中的社区插件标签页完成。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Set a personal access token to increase rate limits for public repositories on GitHub. You can create one in ",
+                    "target": "设置个人访问令牌以增加GitHub上公共仓库的速率限制。您可以在 "
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "your GitHub account settings",
+                    "target": "您的 GitHub 帐户设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": " and then add it here. Please consult the documentation for more details.",
+                    "target": " 然后添加它这里。请参阅文档以获取更多详细信息。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Token name configured but secret is missing. Add the secret or update the plugin configuration.",
+                    "target": "已配置令牌名称但缺少密钥。请添加密钥或更新插件配置。"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "log(\"error in isPrivateRepo\",n,i),!1}},Et=async(s,e=!0,t=\"\")",
+                    "target": "log(\"isPrivateRepo 中出错\",n,i),!1}},Et=async(s,e=!0,t=\"\")"
+                },
+                {
+                    "source": "log(\"Error in fetchReleaseVersions\",n,i),null}},Q=async(s,e,t=!0,n=!1,i=\"\")",
+                    "target": "log(\"fetchReleaseVersions 中出错\",n,i),null}},Q=async(s,e,t=!0,n=!1,i=\"\")"
+                },
+                {
+                    "source": "setText(\"No token provided\")",
+                    "target": "setText(\"未提供令牌\")"
+                },
+                {
+                    "source": "error(\"Token validation error:\",r),(m=this.statusEl)==null||m.setText(\"Failed to validate token\")",
+                    "target": "error(\"令牌验证错误：\",r),(m=this.statusEl)==null||m.setText(\"验证令牌失败\")"
+                },
+                {
+                    "source": "setButtonText(\"Add Plugin\")",
+                    "target": "setButtonText(\"添加插件\")"
+                },
+                {
+                    "source": "appendText(\"Change plugin version: \")",
+                    "target": "appendText(\"更改插件版本：\")"
+                },
+                {
+                    "source": "setText(\"Github repository for beta plugin:\")",
+                    "target": "setText(\"测试版插件的 Github 仓库：\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Repository (example: https://github.com/GitHubUserName/repository-name)\")",
+                    "target": "setPlaceholder(\"仓库 (示例: https://github.com/GitHubUserName/repository-name)\")"
+                },
+                {
+                    "source": "setText(\"Enter a GitHub repository address to validate it.\")",
+                    "target": "setText(\"输入 GitHub 仓库地址进行验证。\")"
+                },
+                {
+                    "source": "setName(\"GitHub Token\")",
+                    "target": "setName(\"GitHub 令牌\")"
+                },
+                {
+                    "source": "setDesc(\"Select a secret as token for this repository (optional)\")",
+                    "target": "setDesc(\"选择密钥作为此仓库的令牌（可选）\")"
+                },
+                {
+                    "source": "appendText(\"Enable after installing the plugin\")",
+                    "target": "appendText(\"安装插件后启用\")"
+                },
+                {
+                    "source": "setButtonText(\"Never mind\")",
+                    "target": "setButtonText(\"算了\")"
+                },
+                {
+                    "source": "setButtonText(\"Installing \\u2026\")",
+                    "target": "setButtonText(\"正在安装 \\u2026\")"
+                },
+                {
+                    "source": "appendText(\" and \")",
+                    "target": "appendText(\" 和 \")"
+                },
+                {
+                    "source": "log(`[BRAT] Updating version dropdown for ${this.address} with selected version ${t}`)",
+                    "target": "log(`[BRAT] 正在为 ${this.address} 更新版本下拉菜单，选中版本为 ${t}`)"
+                },
+                {
+                    "source": "setText(\"Repository address is required.\")",
+                    "target": "setText(\"需要仓库地址。\")"
+                },
+                {
+                    "source": "setText(\"Validating repository address...\")",
+                    "target": "setText(\"正在验证仓库地址…\")"
+                },
+                {
+                    "source": "setText(\"Error: No releases found in this repository.\")",
+                    "target": "setText(\"错误：在此仓库中未找到发布版本。\")"
+                },
+                {
+                    "source": "setText(`GitHub API rate limit exceeded. Try again in ${r.getMinutesToReset()} minutes.`)",
+                    "target": "setText(`超出 GitHub API 速率限制。请在 ${r.getMinutesToReset()} 分钟后重试。`)"
+                },
+                {
+                    "source": "setText(\"Repository not found. Check the address or provide a valid token for access to a private repository.\")",
+                    "target": "setText(\"未找到仓库。请检查地址，或提供有效令牌以访问私有仓库。\")"
+                },
+                {
+                    "source": "setText(\"Access denied. Check your personal access token.\")",
+                    "target": "setText(\"访问被拒绝。请检查您的个人访问令牌。\")"
+                },
+                {
+                    "source": "setText(`Error: ${d.message}`)",
+                    "target": "setText(`错误：${d.message}`)"
+                },
+                {
+                    "source": "error(`BRAT: validateRepository ${u}`)",
+                    "target": "error(`BRAT: 验证仓库 ${u}`)"
+                },
+                {
+                    "source": "log(\"BRAT: addPlugin\",e,t,n,i,o,a,c,u?\"with secret\":\"public\")",
+                    "target": "log(\"BRAT: addPlugin\",e,t,n,i,o,a,c,u?\"使用密钥\":\"公开\")"
+                },
+                {
+                    "source": "appendText(\"Plugin: \")",
+                    "target": "appendText(\"插件：\")"
+                },
+                {
+                    "source": "appendText(\"The \")",
+                    "target": "appendText(\"该\")"
+                },
+                {
+                    "source": "appendText(\" for this plugin indicates that the Obsidian version of the app needs to be \")",
+                    "target": "appendText(\" 表示此插件需要 Obsidian 应用版本为 \")"
+                },
+                {
+                    "source": "appendText(\", but this installation of Obsidian is \")",
+                    "target": "appendText(\"，但当前安装的 Obsidian 版本为 \")"
+                },
+                {
+                    "source": "appendText(\"Using this plugin is not recommended and may not work as expected. Use at your own risk.\")",
+                    "target": "appendText(\"不建议使用此插件，它可能无法按预期工作。使用风险自负。\")"
+                },
+                {
+                    "source": "appendText(\"Do you want to install it anyways?\")",
+                    "target": "appendText(\"是否仍要安装？\")"
+                },
+                {
+                    "source": "appendText(\" for this plugin indicates that the plugin has \")",
+                    "target": "appendText(\" 表示此插件具有 \")"
+                },
+                {
+                    "source": "appendText(\", but you are using a mobile device.\")",
+                    "target": "appendText(\"，但您正在使用移动设备。\")"
+                },
+                {
+                    "source": "appendText(\"Do you want to forcefully run it on mobile anyways?\")",
+                    "target": "appendText(\"是否仍要在移动设备上强制运行？\")"
+                },
+                {
+                    "source": "log(\"BRAT - Local Manifest Load\",l.id,JSON.stringify(R,null,2))}if(o!==\"\"&&o!==\"latest\")",
+                    "target": "log(\"BRAT - 本地清单加载\",l.id,JSON.stringify(R,null,2))}if(o!==\"\"&&o!==\"latest\")"
+                },
+                {
+                    "source": "log(`${J}[Release Info](https://github.com/${e}/releases/tag/${l.version})`,!0),E(this.plugin,J,30,()=>{l&&window.open(`https://github.com/${e}/releases/tag/${l.version}`)",
+                    "target": "log(`${J}[发布信息](https://github.com/${e}/releases/tag/${l.version})`,!0),E(this.plugin,J,30,()=>{l&&window.open(`https://github.com/${e}/releases/tag/${l.version}`)"
+                },
+                {
+                    "source": "log(`${P}[Release Info](https://github.com/${e}/releases/tag/${l.version})`,!0),E(this.plugin,P,30,()=>{l&&window.open(`https://github.com/${e}/releases/tag/${l.version}`)",
+                    "target": "log(`${P}[发布信息](https://github.com/${e}/releases/tag/${l.version})`,!0),E(this.plugin,P,30,()=>{l&&window.open(`https://github.com/${e}/releases/tag/${l.version}`)"
+                },
+                {
+                    "source": "log(\"BRAT: No internet detected.\")",
+                    "target": "log(\"BRAT: 未检测到网络连接。\")"
+                },
+                {
+                    "source": "log(`BRAT: Created new secret \"${g}\"`)",
+                    "target": "log(`BRAT: 已创建新密钥 \"${g}\"`)"
+                },
+                {
+                    "source": "log(`BRAT: Migrated ${i} token(s) to SecretStorage`)",
+                    "target": "log(`BRAT: 已将 ${i} 个令牌迁移到 SecretStorage`)"
+                },
+                {
+                    "source": "error(\"BRAT: Failed to migrate tokens to SecretStorage:\",i)}}var H=require(\"obsidian\")",
+                    "target": "error(\"BRAT: 将令牌迁移到 SecretStorage 失败：\",i)}}var H=require(\"obsidian\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Repository (example: https://github.com/GitHubUserName/repository-name\")",
+                    "target": "setPlaceholder(\"仓库 (示例: https://github.com/GitHubUserName/repository-name\")"
+                },
+                {
+                    "source": "setName(\"Auto-enable plugins after installation\")",
+                    "target": "setName(\"安装后自动启用插件\")"
+                },
+                {
+                    "source": "setDesc('If enabled beta plugins will be automatically enabled after installtion by default. Note: you can toggle this on and off for each plugin in the \"Add Plugin\" form.')",
+                    "target": "setDesc('如果启用，测试版插件在安装后将默认自动启用。注意：您可以在“添加插件”表单中为每个插件切换此选项。')"
+                },
+                {
+                    "source": "setName(\"Auto-update plugins at startup\")",
+                    "target": "setName(\"启动时自动更新插件\")"
+                },
+                {
+                    "source": "setDesc(\"If enabled all beta plugins will be checked for updates each time Obsidian starts. Note: this does not update frozen version plugins.\")",
+                    "target": "setDesc(\"如果启用，每次 Obsidian 启动时都会检查所有测试版插件的更新。注意：这不会更新固定版本的插件。\")"
+                },
+                {
+                    "source": "setName(\"Select latest plugin version by default\")",
+                    "target": "setName(\"默认选择最新插件版本\")"
+                },
+                {
+                    "source": "setDesc(\"If enabled the latest version will be selected by default when adding a new plugin.\")",
+                    "target": "setDesc(\"如果启用，添加新插件时将默认选择最新版本。\")"
+                },
+                {
+                    "source": "setName(\"Allow incompatible plugins\")",
+                    "target": "setName(\"允许不兼容的插件\")"
+                },
+                {
+                    "source": "setDesc(\"If enabled, plugins with higher app versions will be allowed to be installed. Also it allows desktop-only plugins to be installed on mobile devices.\")",
+                    "target": "setDesc(\"如果启用，将允许安装需要更高应用版本的插件。同时也允许在移动设备上安装仅限桌面端的插件。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Filter plugins\")",
+                    "target": "setPlaceholder(\"过滤插件\")"
+                },
+                {
+                    "source": "setButtonText(\"Add beta plugin\")",
+                    "target": "setButtonText(\"添加测试版插件\")"
+                },
+                {
+                    "source": "setTooltip(`Secret missing: ${b}. Please add the secret or update the plugin configuration.`)",
+                    "target": "setTooltip(`缺少密钥: ${b}. 请添加密钥或更新插件配置。`)"
+                },
+                {
+                    "source": "setTooltip(\"Check and update plugin\")",
+                    "target": "setTooltip(\"检查并更新插件\")"
+                },
+                {
+                    "source": "setTooltip(\"Change version and update settings\")",
+                    "target": "setTooltip(\"更改版本并更新设置\")"
+                },
+                {
+                    "source": "setName(\"Enable notifications\")",
+                    "target": "setName(\"启用通知\")"
+                },
+                {
+                    "source": "setDesc(\"BRAT will provide popup notifications for its various activities. Turn this off means  no notifications from BRAT.\")",
+                    "target": "setDesc(\"BRAT 将为其各种活动提供弹出通知。关闭此选项意味着不会收到来自 BRAT 的通知。\")"
+                },
+                {
+                    "source": "setName(\"Enable logging\")",
+                    "target": "setName(\"启用日志记录\")"
+                },
+                {
+                    "source": "setDesc(\"Plugin updates will be logged to a file in the log file.\")",
+                    "target": "setDesc(\"插件更新将记录到日志文件中的一个文件中。\")"
+                },
+                {
+                    "source": "setName(\"BRAT log file location\")",
+                    "target": "setName(\"BRAT 日志文件位置\")"
+                },
+                {
+                    "source": "setDesc(\"Logs will be saved to this file. Don't add .md to the file name.\")",
+                    "target": "setDesc(\"日志将保存到此文件。请不要在文件名中添加 .md。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Example: BRAT-log\")",
+                    "target": "setPlaceholder(\"示例: BRAT-log\")"
+                },
+                {
+                    "source": "setName(\"Enable verbose logging\")",
+                    "target": "setName(\"启用详细日志记录\")"
+                },
+                {
+                    "source": "setDesc(\"Get a lot  more information in  the log.\")",
+                    "target": "setDesc(\"在日志中获取更多信息。\")"
+                },
+                {
+                    "source": "setName(\"Debugging mode\")",
+                    "target": "setName(\"调试模式\")"
+                },
+                {
+                    "source": "setDesc(\"Atomic Bomb level console logging. Can be used for troubleshooting and development.\")",
+                    "target": "setDesc(\"原子弹级别的控制台日志记录。可用于故障排除和开发。\")"
+                },
+                {
+                    "source": "setName(\"Personal access token\")",
+                    "target": "setName(\"个人访问令牌\")"
+                },
+                {
+                    "source": "setTooltip(\"Clear personal access token\")",
+                    "target": "setTooltip(\"清除个人访问令牌\")"
+                },
+                {
+                    "source": "log(`loading ${this.APP_NAME}`)",
+                    "target": "log(`正在加载 ${this.APP_NAME}`)"
+                },
+                {
+                    "source": "log(`unloading ${this.APP_NAME}`)",
+                    "target": "log(`正在卸载 ${this.APP_NAME}`)"
+                },
+                {
+                    "source": "text:\"\\u2713 Valid token\"",
+                    "target": "text:\"\\u2713 有效令牌\""
+                },
+                {
+                    "source": "text:`Scopes: ${e.currentScopes.join(\", \")}`",
+                    "target": "text:`权限范围：${e.currentScopes.join(\", \")}`"
+                },
+                {
+                    "source": "text:`\\u26A0\\uFE0F Token expires in ${a} days`",
+                    "target": "text:`\\u26A0\\uFE0F 令牌将在 ${a} 天后过期`"
+                },
+                {
+                    "source": "text:`Valid prefixes: ${(i=e.details.validPrefixes)==null?void 0:i.join(\", \")}`",
+                    "target": "text:`有效前缀：${(i=e.details.validPrefixes)==null?void 0:i.join(\", \")}`"
+                },
+                {
+                    "source": "text:`Required scopes: ${(o=e.details.requiredScopes)==null?void 0:o.join(\", \")}`",
+                    "target": "text:`所需权限范围：${(o=e.details.requiredScopes)==null?void 0:o.join(\", \")}`"
+                },
+                {
+                    "source": "innerText=\"Learn more about my work at:\"",
+                    "target": "innerText=\"了解我的更多作品，请访问：\""
+                },
+                {
+                    "source": "text:`${e.version} ${e.prerelease?\"(Prerelease)\":\"\"}`",
+                    "target": "text:`${e.version} ${e.prerelease?\"(预发布版)\":\"\"}`"
+                },
+                {
+                    "source": "text:\"isDesktopOnly: true\"",
+                    "target": "text:\"仅限桌面版: 是\""
+                },
+                {
+                    "source": "name:\"Plugins: Add a beta plugin for testing (with or without version)\"",
+                    "target": "name:\"插件：添加测试版插件进行测试（可指定版本或不指定）\""
+                },
+                {
+                    "source": "name:\"Plugins: Check for updates to all beta plugins and UPDATE\"",
+                    "target": "name:\"插件：检查所有测试版插件更新并更新\""
+                },
+                {
+                    "source": "name:\"Plugins: Only check for updates to beta plugins, but don't Update\"",
+                    "target": "name:\"插件：仅检查测试版插件更新，但不更新\""
+                },
+                {
+                    "source": "name:\"Plugins: Choose a single plugin version to update\"",
+                    "target": "name:\"插件：选择单个插件版本进行更新\""
+                },
+                {
+                    "source": "name:\"Plugins: Choose a single plugin to reinstall\"",
+                    "target": "name:\"插件：选择单个插件重新安装\""
+                },
+                {
+                    "source": "name:\"Plugins: Restart a plugin that is already installed\"",
+                    "target": "name:\"插件：重启已安装的插件\""
+                },
+                {
+                    "source": "name:\"Plugins: Disable a plugin - toggle it off\"",
+                    "target": "name:\"插件：禁用插件 - 将其关闭\""
+                },
+                {
+                    "source": "name:\"Plugins: Enable a plugin - toggle it on\"",
+                    "target": "name:\"插件：启用插件 - 将其打开\""
+                },
+                {
+                    "source": "name:\"Plugins: Open the GitHub repository for a plugin\"",
+                    "target": "name:\"插件：打开插件的 GitHub 仓库\""
+                },
+                {
+                    "source": "name:\"Plugins: Open Plugin Settings Tab\"",
+                    "target": "name:\"插件：打开插件设置标签页\""
+                },
+                {
+                    "source": "name:\"All Commands list\"",
+                    "target": "name:\"所有命令列表\""
+                },
+                {
+                    "source": "text:'The following is a list of beta plugins added via the command \"Add a beta plugin for testing\". You can chose to add the latest version or a frozen version. A frozen version is a specific release of a plugin based on its release tag.'",
+                    "target": "text:'以下是通过“添加测试版插件进行测试”命令添加的测试版插件列表。您可以选择添加最新版本或固定版本。固定版本是基于其发布标签的插件的特定版本。'"
+                },
+                {
+                    "source": "text:'Click the 'Edit' button next to a plugin to change the installed version and the x button next to a plugin to remove it from the list.'",
+                    "target": "text:'点击插件旁边的 'Edit' 按钮以更改已安装的版本，点击插件旁边的 x 按钮以从列表中移除它。'"
+                },
+                {
+                    "source": "text:\"Note: \"",
+                    "target": "text:\"注意：\""
+                },
+                {
+                    "source": "text:\"your GitHub account settings\"",
+                    "target": "text:\"您的 GitHub 帐户设置\""
+                },
+                {
+                    "source": "Beta plugin list",
+                    "target": "Beta 插件列表"
+                },
+                {
+                    "source": "Beta themes list",
+                    "target": "Beta 主题列表"
+                },
+                {
+                    "source": "Monitoring",
+                    "target": "监控"
+                },
+                {
+                    "source": "setButtonText(\"Validate\")",
+                    "target": "setButtonText(\"验证\")"
+                }
+            ]
+        }
+    }
+}

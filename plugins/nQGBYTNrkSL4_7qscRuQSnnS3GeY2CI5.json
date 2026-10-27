@@ -1,0 +1,4282 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "smart-connections",
+        "version": "2.0.0",
+        "title": "Smart Connections",
+        "description": "Smart Connections Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "4.3.0",
+        "author": "Machine丶YU"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "<div class=\"sc-loading\">Loading main settings...</div>",
+                    "target": "<div class=\"sc-loading\">正在加载主要设置...</div>"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "placeholder",
+                    "source": "Value",
+                    "target": "值"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "placeholder",
+                    "source": "Property",
+                    "target": "属性"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Smart Milestones",
+                    "target": "智能里程碑"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Learn more",
+                    "target": "了解更多"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Mute",
+                    "target": "静音"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Muted",
+                    "target": "已静音"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Smart Milestone",
+                    "target": "智能里程碑"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Yes",
+                    "target": "是"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "If the login page did not open, copy this link and paste it into your browser to open the login page:",
+                    "target": "如果登录页面没有自动打开，请复制此链接并粘贴到浏览器中打开："
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Copy",
+                    "target": "复制"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Hide source data",
+                    "target": "隐藏源数据"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Show source data",
+                    "target": "显示源数据"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Loading Smart Environment…",
+                    "target": "正在加载智能环境…"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Unable to render graph. See console for details.",
+                    "target": "无法渲染图表。详情请查看控制台。"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Smart Lookup now has its own settings tab.",
+                    "target": "智能查找现已拥有独立的设置选项卡。"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Open lookup settings",
+                    "target": "打开查找设置"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Smart Lookup is moving to a dedicated plugin. Please install Smart Lookup to continue using lookup features and access Lookup settings.",
+                    "target": "智能查找功能即将迁移至独立插件。请安装智能查找插件以继续使用查找功能并访问查找设置。"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Install Smart Lookup",
+                    "target": "安装智能查找"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "title",
+                    "source": "Add value",
+                    "target": "添加值"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "title",
+                    "source": "Add property",
+                    "target": "添加属性"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "title",
+                    "source": "No providers available to create new models.",
+                    "target": "没有可用的提供者来创建新模型。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "No folder selected",
+                    "target": "未选择文件夹"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error loading SmartEnv:",
+                    "target": "加载 SmartEnv 时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error getting component",
+                    "target": "获取组件时出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Path: ",
+                    "target": "路径："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error during write:",
+                    "target": "写入过程中出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[smart-view] disposer error",
+                    "target": "[smart-view] 清理器错误"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "No callback or href found for button.",
+                    "target": "未找到按钮的回调函数或链接。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "get_many called with non-array keys:",
+                    "target": "get_many 被调用的键值不是数组："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error in SmartHttpObsidianRequestAdapter.request():",
+                    "target": "SmartHttpObsidianRequestAdapter.request() 中发生错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Invalid response format",
+                    "target": "响应格式无效"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Invalid model data format from Ollama:",
+                    "target": "从 Ollama 获取的模型数据格式无效："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Invalid response format from Ollama:",
+                    "target": "从 Ollama 获取的响应格式无效："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Max retries reached for rate limit errors.",
+                    "target": "已达到速率限制错误的最大重试次数。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to fetch model data:",
+                    "target": "获取模型数据失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error in SmartChatModelApiAdapter.complete():",
+                    "target": "SmartChatModelApiAdapter.complete() 中发生错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to start stream (request prep):",
+                    "target": "启动流失败（请求准备阶段）："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error processing stream chunk:",
+                    "target": "处理流数据块时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Stream error:",
+                    "target": "流错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to start stream:",
+                    "target": "启动流失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[EventLogs] record failure",
+                    "target": "[事件日志] 记录失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "EventLogs: failed to show native notice",
+                    "target": "事件日志：无法显示原生通知"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error evaluating settings_config function:",
+                    "target": "评估 settings_config 函数时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[smart-plugins:list] Failed to fetch plugin list:",
+                    "target": "[智能插件列表] 获取插件列表失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[smart-plugins:list] Enable error:",
+                    "target": "[智能插件列表] 启用错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[smart-plugins:list] Core install error:",
+                    "target": "[智能插件列表] 核心安装错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[smart-plugins:list] Install error:",
+                    "target": "[智能插件列表] 安装错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[smart-plugins:list] GitHub install error:",
+                    "target": "[智能插件列表] GitHub 安装错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[smart-plugins:referral] Failed to load referral stats:",
+                    "target": "[智能插件：推荐] 加载推荐统计数据失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[source_inspector] Error reading block:",
+                    "target": "[source_inspector] 读取区块时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error in open_source:",
+                    "target": "open_source 中发生错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to render mobile Smart Env status bar",
+                    "target": "渲染移动端智能环境状态栏失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to render env_status component",
+                    "target": "渲染 env_status 组件失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to render env_status via smart_components, falling back to direct component render",
+                    "target": "通过 smart_components 渲染 env_status 失败，正在回退到直接组件渲染"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to render Smart Env status bar",
+                    "target": "渲染智能环境状态栏失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "OAuth callback error",
+                    "target": "OAuth 回调错误"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to open ReleaseNotesView",
+                    "target": "打开 ReleaseNotesView 失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to fetch connections results",
+                    "target": "获取连接结果失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[connections_graph] post_process error:",
+                    "target": "[connections_graph] 后处理错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "model loaded",
+                    "target": "模型已加载"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "transformers iframe connector",
+                    "target": "transformers iframe 连接器"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "LM Studio models",
+                    "target": "LM Studio 模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "no chunk",
+                    "target": "无数据块"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Suggestion action result",
+                    "target": "建议操作结果"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "show_new_model_menu providers",
+                    "target": "show_new_model_menu 提供者"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Hydrated plugin list:",
+                    "target": "已加载插件列表："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Plugin groups:",
+                    "target": "插件分组："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Plugin list server response:",
+                    "target": "插件列表服务器响应："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Waiting for env to load (mobile)...",
+                    "target": "正在等待环境加载（移动端）..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Waiting for env to load...",
+                    "target": "正在等待环境加载..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Smart Connections: Waiting for Obsidian Sync to finish",
+                    "target": "Smart Connections：等待 Obsidian 同步完成"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Unloading deferred Smart Plugins:",
+                    "target": "正在卸载延迟的智能插件："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "opening release notes modal",
+                    "target": "正在打开版本更新说明弹窗"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Rendering connections list in codeblock view",
+                    "target": "正在代码块视图中渲染关联列表"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "connections:show event received",
+                    "target": "已收到 connections:show 事件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Connections container is not visible",
+                    "target": "关联容器不可见"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "connections codeblock view detected settings change",
+                    "target": "检测到代码块视图中的关联设置已更改"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Unloading Smart Connections plugin",
+                    "target": "正在卸载 Smart Connections 插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Login",
+                    "target": "登录"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Get Pro",
+                    "target": "升级专业版"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Update subscription",
+                    "target": "更新订阅"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Refresh",
+                    "target": "刷新"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Logout",
+                    "target": "退出登录"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Start free trial",
+                    "target": "开始免费试用"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Copy link",
+                    "target": "复制链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Open referrals",
+                    "target": "查看推荐记录"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Browse Smart Plugins",
+                    "target": "浏览智能插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Your Smart Connections Pro subscription has expired. Please update your subscription to retain access to Pro plugins.",
+                    "target": "您的 Smart Connections Pro 订阅已过期。请更新订阅以继续使用专业版插件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Start a free trial to unlock your referral link.",
+                    "target": "开始免费试用，即可解锁您的推荐链接。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Give $30 off Pro. Get 30 days of Pro.",
+                    "target": "Pro 版立减 30 美元，畅享 30 天 Pro 体验。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Discover Core (free) and Pro Smart Plugins to supercharge your Obsidian AI experience.",
+                    "target": "探索 Core（免费版）与 Pro 智能插件，全面升级你的 Obsidian AI 体验。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Connect account",
+                    "target": "连接账户"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Subscription expired",
+                    "target": "订阅已过期"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Give $30 off Pro. Get 30 days of Pro",
+                    "target": "Pro 版立减 30 美元，畅享 30 天 Pro 体验"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Referral link",
+                    "target": "推荐链接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Browse Smart Plugins",
+                    "target": "浏览智能插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Select a folder to exclude...",
+                    "target": "选择要排除的文件夹…"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Events & notifications",
+                    "target": "事件与通知"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Smart Plugins",
+                    "target": "智能插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Edit model",
+                    "target": "编辑模型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Excluded folders",
+                    "target": "排除的文件夹"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "No folders excluded yet.",
+                    "target": "尚未排除任何文件夹。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Excluded Sources",
+                    "target": "排除的来源"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Are you sure you want to clear all sources data? This cannot be undone.",
+                    "target": "确定要清除所有来源数据吗？此操作无法撤销。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Smart Environment",
+                    "target": "智能环境"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Need help and support?",
+                    "target": "需要帮助与支持吗？"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Clear this context",
+                    "target": "清空此上下文"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Copy link tree",
+                    "target": "复制链接树"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Inspect active note",
+                    "target": "检查活动笔记"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Show stats",
+                    "target": "显示统计"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Export data",
+                    "target": "导出数据"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Milestones",
+                    "target": "里程碑"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Notifications",
+                    "target": "通知"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Browse Smart Plugins",
+                    "target": "浏览智能插件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Refer a friend (Give 30, Get 30)",
+                    "target": "推荐好友（赠30，得30）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Start 14-day Pro trial",
+                    "target": "开始14天专业版试用"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Copy as list of links",
+                    "target": "复制为链接列表"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Refresh connections",
+                    "target": "刷新连接"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Send results to Smart Context",
+                    "target": "发送结果到智能上下文"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Connections settings",
+                    "target": "连接设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Help & getting started",
+                    "target": "帮助与入门指南"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "SmartEnv: Reloading environment because of version mismatch",
+                    "target": "SmartEnv：检测到版本不匹配，正在重新加载环境"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "get_link_target_path: file_paths not found",
+                    "target": "get_link_target_path：未找到文件路径"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "ObsidianFsAdapter: Unable to register source watchers without plugin context",
+                    "target": "ObsidianFsAdapter：缺少插件上下文，无法注册源文件监视器"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[smart-view] attach_disposer called with invalid disposer",
+                    "target": "[smart-view] attach_disposer 被调用时传入了无效的清理器"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[smart-view] attach_disposer called with no valid disposer functions",
+                    "target": "[smart-view] attach_disposer 被调用时未提供有效的清理函数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Scope required for rendering markdown in Obsidian adapter",
+                    "target": "在 Obsidian 适配器中渲染 Markdown 需要 Scope 参数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Error rendering markdown in Obsidian adapter",
+                    "target": "在 Obsidian 适配器中渲染 Markdown 时出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Smart Connections: Error during import: re-queueing import",
+                    "target": "Smart Connections：导入过程中出错：正在重新排队导入任务"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Entity.search: keywords not set or is not an array",
+                    "target": "Entity.search：关键词未设置或不是数组"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "SmartSources: Failed to unregister env event listener",
+                    "target": "SmartSources：注销环境事件监听器失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "SmartSources: Unable to initialize source on create event",
+                    "target": "SmartSources：创建事件时无法初始化源"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "SmartSources: Unable to resolve source on modify event",
+                    "target": "SmartSources：修改事件时无法解析源"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "SmartSources: Unable to initialize source on rename event",
+                    "target": "SmartSources：重命名事件时无法初始化源"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "search_filter.keywords not set",
+                    "target": "search_filter.keywords 未设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "fixing trailing comma error",
+                    "target": "正在修复尾随逗号错误"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Error parsing JSON:",
+                    "target": "解析 JSON 时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "merge error: Expected an object from parse_markdown_blocks, but received:",
+                    "target": "合并错误：预期从 parse_markdown_blocks 收到对象，但实际收到："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Obsidian environment not found; cannot render markdown.",
+                    "target": "未找到 Obsidian 环境；无法渲染 Markdown。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "ObsidianMarkdownSourceContentAdapter: Timeout waiting for markdown to render.",
+                    "target": "ObsidianMarkdownSourceContentAdapter：等待Markdown渲染超时。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "CanvasSourceContentAdapter: invalid JSON content.",
+                    "target": "CanvasSourceContentAdapter：JSON内容无效。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "re_render_settings is not a function (must be passed in model opts)",
+                    "target": "re_render_settings 不是一个函数（必须在模型选项中传入）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "reload_model is not a function (must be passed in model opts)",
+                    "target": "reload_model 不是一个函数（必须在模型选项中传入）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Request error:",
+                    "target": "请求错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Invalid model data, not re-rendering settings",
+                    "target": "模型数据无效，未重新渲染设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "models.dev fetch failed; continuing without enrichment",
+                    "target": "models.dev 获取失败；将在未增强状态下继续"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "xAI file cleanup failed during stop_stream():",
+                    "target": "xAI 文件在 stop_stream() 期间清理失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "xAI cleanup: some file deletions failed:",
+                    "target": "xAI 清理：部分文件删除失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "parse error for line: ",
+                    "target": "行解析错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Invalid suggestion action",
+                    "target": "无效的建议操作"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "No callback defined for heading button",
+                    "target": "标题按钮未定义回调函数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "SmartEnv before_load returned false, skipping load.",
+                    "target": "SmartEnv before_load 返回 false，跳过加载。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Unloading SmartEnv",
+                    "target": "正在卸载 SmartEnv"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "prevented onload of outdated plugin",
+                    "target": "已阻止过时插件的加载"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Outdated Smart Plugins detected:",
+                    "target": "检测到过时的智能插件："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "No results to post-process, received:",
+                    "target": "没有可后处理的结果，收到："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "No entity found for refresh",
+                    "target": "未找到可刷新的实体"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Waiting for containerEl to be ready...",
+                    "target": "正在等待 containerEl 准备就绪..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Connections container is not connected to DOM",
+                    "target": "连接容器未连接到 DOM"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "reimport-notice env-setting-note",
+                    "target": "reimport-notice env-setting-note"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Turning on will include the folder path in the connections results.",
+                    "target": "开启后，连接结果中将包含文件夹路径。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Adjust the number of connections displayed in the connections view (default 20).",
+                    "target": "调整连接视图中显示的连接数量（默认 20）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Exclude notes that already link to the current note from the connections results.",
+                    "target": "从连接结果中排除已链接到当前笔记的笔记。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Exclude notes that are already linked from within the current note from appearing in the connections results.",
+                    "target": "从连接结果中排除当前笔记内部已链接的笔记。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Notes must match this value in their file/folder path. Matching notes will be included in the connections results. Separate multiple values with commas.",
+                    "target": "笔记的文件/文件夹路径必须匹配此值。匹配的笔记将包含在连接结果中。多个值请用逗号分隔。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Notes must *not* match this value in their file/folder path. Matching notes will be *excluded* from the connections results. Separate multiple values with commas.",
+                    "target": "笔记的文件/文件夹路径必须*不*匹配此值。匹配的笔记将*被排除*在连接结果之外。多个值请用逗号分隔。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show only sources in the connections results (no blocks).",
+                    "target": "在连接结果中仅显示来源（不显示块）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Select a model platform to use with Smart Model.",
+                    "target": "选择要与智能模型一起使用的模型平台。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "OpenAI (API)",
+                    "target": "OpenAI (API)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "API, 8,191 tokens, 1,536 dim",
+                    "target": "API，8,191 个词元，1,536 维"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "API, 8,191 tokens, 3,072 dim",
+                    "target": "API，8,191 个词元，3,072 维"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Transformers (Local, built-in)",
+                    "target": "Transformers（本地，内置）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Local, 512 tokens, 384 dim (recommended)",
+                    "target": "本地，512 个词元，384 维（推荐）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Local, 512 tokens, 384 dim",
+                    "target": "本地，512 个词元，384 维"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Local, 512 tokens, 768 dim",
+                    "target": "本地，512 个词元，768 维"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Local, 2,048 tokens, 768 dim",
+                    "target": "本地，2,048 个词元，768 维"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Local, 4,096 tokens, 384 dim",
+                    "target": "本地，4,096 个词元，384 维"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Local, 8,192 tokens, 768 dim, Chinese/English bilingual",
+                    "target": "本地，8,192 个词元，768 维，中英双语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Local, 8,192 tokens, 512 dim",
+                    "target": "本地，8,192 个词元，512 维"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Local, 8,192 tokens, 768 dim",
+                    "target": "本地部署，8,192 个词元，768 维"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Ollama (Local)",
+                    "target": "Ollama（本地）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Enter the host for your Ollama instance",
+                    "target": "输入您的 Ollama 实例主机地址"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "API, 2,048 tokens, 768 dim",
+                    "target": "API 调用，2,048 个词元，768 维"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "LM Studio",
+                    "target": "LM Studio"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Refresh the list of available models.",
+                    "target": "刷新可用模型列表。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Select a platform/provider for chat models.",
+                    "target": "为聊天模型选择一个平台/服务商。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Select a chat model.",
+                    "target": "选择一个聊天模型。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Enter your API key for the chat model platform.",
+                    "target": "输入您在该聊天模型平台的 API 密钥。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude",
+                    "target": "Anthropic Claude"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude Opus 4.1 snapshot (2025-08-05)",
+                    "target": "Anthropic Claude Opus 4.1 快照（2025-08-05）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude Opus 4 snapshot (2025-05-14)",
+                    "target": "Anthropic Claude Opus 4 快照（2025-05-14）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude Sonnet 4 snapshot (2025-05-14)",
+                    "target": "Anthropic Claude Sonnet 4 快照（2025-05-14）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3.7 Sonnet (rolling-latest)",
+                    "target": "Anthropic Claude 3.7 Sonnet（持续更新版）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3.7 Sonnet snapshot (2025-02-19)",
+                    "target": "Anthropic Claude 3.7 Sonnet 快照（2025-02-19）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3.5 Sonnet (rolling-latest)",
+                    "target": "Anthropic Claude 3.5 Sonnet（持续更新版）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3.5 Sonnet snapshot (2024-10-22)",
+                    "target": "Anthropic Claude 3.5 Sonnet 快照（2024-10-22）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3.5 Haiku (rolling-latest)",
+                    "target": "Anthropic Claude 3.5 Haiku（持续更新版）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3.5 Haiku snapshot (2024-10-22)",
+                    "target": "Anthropic Claude 3.5 Haiku 快照（2024-10-22）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3 Opus (rolling-latest)",
+                    "target": "Anthropic Claude 3 Opus（持续更新版）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3 Opus snapshot (2024-02-29)",
+                    "target": "Anthropic Claude 3 Opus 快照 (2024-02-29)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3 Sonnet snapshot (2024-02-29)",
+                    "target": "Anthropic Claude 3 Sonnet 快照 (2024-02-29)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic Claude 3 Haiku snapshot (2024-03-07)",
+                    "target": "Anthropic Claude 3 Haiku 快照 (2024-03-07)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "OpenAI",
+                    "target": "OpenAI"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Azure OpenAI",
+                    "target": "Azure OpenAI"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "The name of your Azure OpenAI resource (e.g. 'my-azure-openai').",
+                    "target": "您的 Azure OpenAI 资源名称（例如 'my-azure-openai'）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "The name of your specific model deployment (e.g. 'gpt35-deployment').",
+                    "target": "您的特定模型部署名称（例如 'gpt35-deployment'）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "The API version for Azure OpenAI (e.g. '2024-10-01-preview').",
+                    "target": "Azure OpenAI 的 API 版本（例如 '2024-10-01-preview'）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Open Router",
+                    "target": "Open Router"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "LM Studio (OpenAI‑compatible)",
+                    "target": "LM Studio (兼容 OpenAI)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Pick a built-in or external adapter to parse request/response data.",
+                    "target": "选择一个内置或外部适配器来解析请求/响应数据。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Enter the model name for your endpoint if needed.",
+                    "target": "如有需要，请在此输入您端点的模型名称。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "e.g. http or https",
+                    "target": "例如：http 或 https"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Port number or leave blank",
+                    "target": "端口号（留空亦可）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Path portion of the URL (leading slash optional)",
+                    "target": "URL 的路径部分（开头的斜杠可选）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Enable streaming if your API supports it.",
+                    "target": "如果您的 API 支持流式传输，请启用此功能。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Max number of tokens your model can handle in the prompt.",
+                    "target": "您的模型在提示词中能处理的最大令牌数。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "If your service requires an API key, add it here.",
+                    "target": "如果您的服务需要 API 密钥，请在此处添加。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Groq",
+                    "target": "Groq"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "xAI Grok",
+                    "target": "xAI Grok"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "DeepSeek",
+                    "target": "DeepSeek"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show Obsidian native notices for \"info\" level events.",
+                    "target": "为“信息”级别的事件显示 Obsidian 原生通知。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show Obsidian native notices for \"warning\" level events.",
+                    "target": "为“警告”级别的事件显示 Obsidian 原生通知。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show Obsidian native notices for \"error\" level events.",
+                    "target": "为“错误”级别的事件显示 Obsidian 原生通知。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show Obsidian native notices for \"attention\" level events.",
+                    "target": "为“注意”级别的事件显示 Obsidian 原生通知。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show Obsidian native notices for \"milestone\" level events.",
+                    "target": "为“里程碑”级别的事件显示 Obsidian 原生通知。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "A friendly name for this model configuration.",
+                    "target": "此模型配置的友好名称。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "The model to use from the selected provider.",
+                    "target": "从所选提供商处使用的模型。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Choose whether results should be sources or blocks.",
+                    "target": "选择结果应为来源还是块。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Blocks represent parts/sections of notes. Get more granular results.",
+                    "target": "块代表笔记的部分/章节。可获得更细粒度的结果。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Manage the list of folders excluded from processing.",
+                    "target": "管理被排除在处理之外的文件夹列表。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "View all excluded sources.",
+                    "target": "查看所有已排除的来源。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Clear sources data and re-import.",
+                    "target": "清除来源数据并重新导入。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Receive a practical onboarding sequence with focused Smart Plugins workflows.",
+                    "target": "接收一个实用的入门引导，专注于智能插件的工作流程。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Choose which sidebar opens when showing the Connections view.",
+                    "target": "选择在显示“连接”视图时打开哪个侧边栏。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Shows connections for each block within the note. Hover connections icon to see list of connections.",
+                    "target": "显示笔记内每个块的连接。将鼠标悬停在连接图标上可查看连接列表。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show connections at the bottom of each note.",
+                    "target": "在每个笔记的底部显示连接。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Newline-delimited frontmatter matchers (ex. status or status:open). Case-insensitive key and value matching.",
+                    "target": "换行分隔的前置条件匹配器（例如：status 或 status:open）。键和值的匹配不区分大小写。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show only sources in the connections results (no frontmatter blocks).",
+                    "target": "在连接结果中仅显示来源（不显示前置条件块）。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Turn off to prevent rendering markdown and display connection results as plain text.",
+                    "target": "关闭此选项可阻止渲染 Markdown，并以纯文本形式显示连接结果。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Show a graph visualization of the connections above the list.",
+                    "target": "在列表上方显示连接关系的图表可视化。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Smart Connections: Open connections view",
+                    "target": "智能连接：打开连接视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Smart Connections: Open random connection",
+                    "target": "智能连接：打开随机连接"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Smart Lookup: Open lookup view",
+                    "target": "智能查找：打开查找视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "detail",
+                    "source": "Try enabling more levels or switch back to All.",
+                    "target": "请尝试启用更多层级，或切换回“全部”模式。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "hypotheticals is required",
+                    "target": "必须提供假设条件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Embedding search is not enabled.",
+                    "target": "未启用嵌入搜索功能。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Block not found",
+                    "target": "未找到对应区块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Open Router (cloud)",
+                    "target": "Open Router（云端）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "PRO: LM Studio (local, requires LM Studio app)",
+                    "target": "专业版：LM Studio（本地，需安装 LM Studio 应用）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "PRO: Ollama (local, requires Ollama app)",
+                    "target": "PRO：Ollama（本地，需安装 Ollama 应用）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "PRO: OpenAI (cloud)",
+                    "target": "PRO：OpenAI（云端）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "PRO: Cohere (cloud)",
+                    "target": "PRO：Cohere（云端）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "PRO: xAI Grok (cloud)",
+                    "target": "PRO：xAI Grok（云端）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "PRO: Anthropic Claude (cloud)",
+                    "target": "PRO：Anthropic Claude（云端）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "PRO: Deepseek (cloud)",
+                    "target": "PRO：Deepseek（云端）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "PRO: Azure OpenAI (cloud)",
+                    "target": "PRO：Azure OpenAI（云端）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Experimental: Lite LLM (self-hosted proxy)",
+                    "target": "实验性：Lite LLM（自托管代理）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Transformers (easy, local, built-in)",
+                    "target": "Transformers（简易、本地、内置）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "PRO: Open Router (cloud)",
+                    "target": "PRO：Open Router（云端）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "XML-style (default)",
+                    "target": "XML 风格（默认）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Markdown headings",
+                    "target": "Markdown 标题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "JSON structured",
+                    "target": "JSON 结构化"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Custom (PRO)",
+                    "target": "自定义（PRO 版）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Learn about Connections Lists",
+                    "target": "了解连接列表"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Settings documentation for Connections Lists",
+                    "target": "连接列表设置文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Settings documentation for Display",
+                    "target": "显示设置文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Settings documentation for Score Algorithms",
+                    "target": "评分算法设置文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Settings documentation for Ranking Algorithms",
+                    "target": "排名算法设置文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Settings documentation for Filters",
+                    "target": "筛选器设置文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Learn about the inline connections feature",
+                    "target": "了解内联连接功能"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Settings documentation for inline connections",
+                    "target": "内联连接设置文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "Settings documentation for Footer Connections",
+                    "target": "页脚连接设置文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Unknown error",
+                    "target": "未知错误"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Named context not found",
+                    "target": "未找到指定的上下文"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Invalid suggestion action",
+                    "target": "无效的建议操作"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No action defined for this suggestion",
+                    "target": "此建议未定义任何操作"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No suggestions returned from action",
+                    "target": "操作未返回任何建议"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "You achieved a new Smart Milestone",
+                    "target": "恭喜！您已达成新的智能里程碑"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Nice try! This is a PRO feature. Please upgrade to access this setting.",
+                    "target": "很棒！此功能为专业版专属。请升级以访问此设置。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Text copied to clipboard.",
+                    "target": "文本已复制到剪贴板。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Failed to copy text to clipboard.",
+                    "target": "复制文本到剪贴板失败。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Clipboard copy is unavailable in this environment.",
+                    "target": "当前环境不支持剪贴板复制功能。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Copied link tree to clipboard.",
+                    "target": "链接树已复制到剪贴板。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Please complete the login in your browser.",
+                    "target": "请在浏览器中完成登录。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Logged out of Smart Plugins",
+                    "target": "已退出智能插件登录状态。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No active note found",
+                    "target": "未找到活动笔记。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Active note is not indexed by Smart Environment",
+                    "target": "活动笔记未被智能环境索引。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Smart Env exported",
+                    "target": "智能环境已导出。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No OAuth code provided in URL. Login failed.",
+                    "target": "URL中未提供OAuth授权码，登录失败。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No connection results to send to Smart Context",
+                    "target": "没有可发送到智能上下文的连接结果"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No visible connection results to send to Smart Context",
+                    "target": "没有可发送到智能上下文的可见连接结果"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No connection results to copy",
+                    "target": "没有可复制的连接结果"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No visible connection results to copy",
+                    "target": "没有可复制的可见连接结果"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Hide failed – check console",
+                    "target": "隐藏失败 – 请检查控制台"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Unhide failed – check console",
+                    "target": "取消隐藏失败 – 请检查控制台"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Unpin failed – check console",
+                    "target": "取消置顶失败 – 请检查控制台"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Failed to find necessary assets for Smart Lookup. Installation failed.",
+                    "target": "未能找到智能查找所需的必要资源。安装失败。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Smart Lookup installed.",
+                    "target": "智能查找已安装。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No connection results to send to Smart Context.",
+                    "target": "没有可发送到智能上下文的连接结果。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No connection results to copy.",
+                    "target": "没有可复制的连接结果。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No active file to find connections for.",
+                    "target": "当前没有活动文件，无法查找连接。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Minimum length",
+                    "target": "最小长度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show full path",
+                    "target": "显示完整路径"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Results limit",
+                    "target": "结果数量限制"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Exclude inlinks (backlinks)",
+                    "target": "排除入链（反向链接）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Exclude outlinks",
+                    "target": "排除出链"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Include filter",
+                    "target": "包含筛选器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Exclude filter",
+                    "target": "排除筛选器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Hide blocks in results",
+                    "target": "在结果中隐藏块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Model Platform",
+                    "target": "模型平台"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Embedding model platform",
+                    "target": "嵌入模型平台"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "No models currently available",
+                    "target": "当前暂无可用模型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Embedding model",
+                    "target": "嵌入模型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "OpenAI Text-3 Small",
+                    "target": "OpenAI Text-3 Small"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "OpenAI Text-3 Large",
+                    "target": "OpenAI Text-3 Large"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "OpenAI Ada",
+                    "target": "OpenAI Ada"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Snowflake Arctic Embed XS",
+                    "target": "Snowflake Arctic Embed XS"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Snowflake Arctic Embed Small",
+                    "target": "Snowflake Arctic Embed Small"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Snowflake Arctic Embed Medium",
+                    "target": "Snowflake Arctic Embed Medium"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Ivysaur",
+                    "target": "妙蛙草"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Ollama host",
+                    "target": "Ollama 主机地址"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Refresh Models",
+                    "target": "刷新模型列表"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Embedding Batch Size",
+                    "target": "嵌入批次大小"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "CORS required",
+                    "target": "需要 CORS"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Chat Model Platform",
+                    "target": "对话模型平台"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Chat Model",
+                    "target": "对话模型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "API Key",
+                    "target": "API 密钥"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude Opus 4.1 (2025-08-05)",
+                    "target": "Claude Opus 4.1 (2025-08-05)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude Opus 4 (2025-05-14)",
+                    "target": "Claude Opus 4 (2025-05-14)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude Sonnet 4 (2025-05-14)",
+                    "target": "Claude Sonnet 4 (2025-05-14)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3.7 Sonnet (latest)",
+                    "target": "Claude 3.7 Sonnet (最新版)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3.7 Sonnet (2025-02-19)",
+                    "target": "Claude 3.7 Sonnet (2025-02-19)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3.5 Sonnet (latest)",
+                    "target": "Claude 3.5 Sonnet (最新版)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3.5 Sonnet (2024-10-22)",
+                    "target": "Claude 3.5 Sonnet (2024-10-22)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3.5 Haiku (latest)",
+                    "target": "Claude 3.5 Haiku (最新版)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3.5 Haiku (2024-10-22)",
+                    "target": "Claude 3.5 Haiku (2024-10-22)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3 Opus (latest)",
+                    "target": "Claude 3 Opus (最新版)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3 Opus (2024-02-29)",
+                    "target": "Claude 3 Opus (2024-02-29)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3 Sonnet (2024-02-29)",
+                    "target": "Claude 3 Sonnet (2024-02-29)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Claude 3 Haiku (2024-03-07)",
+                    "target": "Claude 3 Haiku (2024-03-07)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Note about using OpenAI",
+                    "target": "关于使用 OpenAI 的说明"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Azure Resource Name",
+                    "target": "Azure 资源名称"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Azure Deployment Name",
+                    "target": "Azure 部署名称"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Azure API Version",
+                    "target": "Azure API 版本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "API Adapter",
+                    "target": "API 适配器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Model Name",
+                    "target": "模型名称"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Protocol",
+                    "target": "协议"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Hostname",
+                    "target": "主机名"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Port",
+                    "target": "端口"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Path",
+                    "target": "路径"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Streaming",
+                    "target": "流式输出"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Max Input Tokens",
+                    "target": "最大输入令牌数"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Info",
+                    "target": "信息"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Warning",
+                    "target": "警告"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Error",
+                    "target": "错误"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Attention",
+                    "target": "注意"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Milestone",
+                    "target": "里程碑"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Name",
+                    "target": "名称"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Model",
+                    "target": "模型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "BGE-micro-v2 (fastest)",
+                    "target": "BGE-micro-v2（最快）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Snowflake Arctic Embed XS (fast)",
+                    "target": "Snowflake Arctic Embed XS（快速）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Multilingual E5 Small",
+                    "target": "多语言 E5 Small"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Lookup results type",
+                    "target": "查找结果类型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Sources",
+                    "target": "来源"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Blocks",
+                    "target": "区块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Embed blocks",
+                    "target": "嵌入区块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Manage excluded folders",
+                    "target": "管理排除的文件夹"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "View all exclusions",
+                    "target": "查看所有排除项"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Reset data",
+                    "target": "重置数据"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "JSON Stringify",
+                    "target": "JSON 字符串化"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Browse Smart Plugins",
+                    "target": "浏览智能插件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open Environment Status View",
+                    "target": "打开环境状态视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show release notes",
+                    "target": "显示版本说明"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Connection results type",
+                    "target": "连接结果类型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Connections sidebar location",
+                    "target": "连接侧边栏位置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Right sidebar",
+                    "target": "右侧边栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Left sidebar",
+                    "target": "左侧边栏"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show inline connections",
+                    "target": "显示内联连接"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show footer connections",
+                    "target": "显示页脚连接"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Frontmatter include filter",
+                    "target": "Frontmatter 包含过滤器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Frontmatter exclude filter",
+                    "target": "Frontmatter 排除过滤器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Hide frontmatter blocks in results",
+                    "target": "在结果中隐藏 Frontmatter 块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Render markdown",
+                    "target": "渲染 Markdown"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show graph",
+                    "target": "显示关系图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open: Random note from connections",
+                    "target": "打开：来自关联笔记的随机笔记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show: Getting started slideshow",
+                    "target": "显示：入门幻灯片"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Insert: Connections codeblock",
+                    "target": "插入：关联代码块"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Enter number ex. 300",
+                    "target": "输入数字，例如 300"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Enter OpenAI API key",
+                    "target": "输入 OpenAI API 密钥"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Enter Google API Key",
+                    "target": "输入 Google API 密钥"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Test model",
+                    "target": "测试模型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Paths too long to import into Smart Environment",
+                    "target": "路径过长，无法导入智能环境"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Cancel",
+                    "target": "取消"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Copy",
+                    "target": "复制"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Clear",
+                    "target": "清空"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Installed & enabled. Reload to activate",
+                    "target": "已安装并启用，请重新加载以激活"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Reload",
+                    "target": "重新加载"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Update available",
+                    "target": "有可用更新"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Update",
+                    "target": "更新"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Active",
+                    "target": "已激活"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Open settings",
+                    "target": "打开设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Enable",
+                    "target": "启用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Pro installed",
+                    "target": "已安装专业版"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Included in Pro",
+                    "target": "包含在专业版中"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Core installed",
+                    "target": "已安装核心版"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Install Pro",
+                    "target": "安装专业版"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Learn more",
+                    "target": "了解更多"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Install Core",
+                    "target": "安装核心版"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Install",
+                    "target": "安装"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Loading stats...",
+                    "target": "正在加载统计信息..."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Failed to load stats.",
+                    "target": "加载统计信息失败。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Smart Environment is loading…",
+                    "target": "智能环境正在加载中…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Show loading status",
+                    "target": "显示加载状态"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Smart Environment not yet initialized.",
+                    "target": "智能环境尚未初始化。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Load Smart Environment",
+                    "target": "加载智能环境"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Smart Plugins are waiting to be loaded. Restart Obsidian to finish loading the Smart Environment.",
+                    "target": "智能插件等待加载中。请重启 Obsidian 以完成智能环境的加载。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Restart Obsidian",
+                    "target": "重启 Obsidian"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Manage all global Smart Environment settings from one tab. These settings apply to all Smart Plugins.",
+                    "target": "在此标签页统一管理所有智能环境的全局设置。这些设置将应用于所有智能插件。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Check for Updates",
+                    "target": "检查更新"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Restart Obsidian to load this plugin into the Smart Environment.",
+                    "target": "重启 Obsidian 以将此插件加载到智能环境中。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Smart Environment",
+                    "target": "智能环境"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Manage global settings in the dedicated Smart Environment settings tab.",
+                    "target": "请在专门的智能环境设置选项卡中管理全局设置。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Open in browser",
+                    "target": "在浏览器中打开"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Report a bug",
+                    "target": "报告问题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Close",
+                    "target": "关闭"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Connections",
+                    "target": "连接"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Loading…",
+                    "target": "加载中…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Smart Environment / Connections loading…",
+                    "target": "智能环境 / 连接加载中…"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Retry",
+                    "target": "重试"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Click to re-import queued sources.",
+                    "target": "点击重新导入已排队的源。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Smart Environment status",
+                    "target": "智能环境状态"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "No events match your filters.",
+                    "target": "没有符合筛选条件的事件。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "No Smart Env events yet.",
+                    "target": "暂无智能环境事件。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Copy text",
+                    "target": "复制文本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Smart Copy",
+                    "target": "智能复制"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Copy media",
+                    "target": "复制媒体"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Copy text (choose link depth)",
+                    "target": "复制文本（选择链接深度）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Copy media (choose link depth)",
+                    "target": "复制媒体（选择链接深度）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Copy link tree",
+                    "target": "复制链接树"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Refresh connections",
+                    "target": "刷新连接"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Expand all",
+                    "target": "全部展开"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Collapse all",
+                    "target": "全部收起"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Send results to Smart Context",
+                    "target": "发送结果至智能上下文"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Copy as list of links",
+                    "target": "复制为链接列表"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Connections settings",
+                    "target": "连接设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Help & getting started",
+                    "target": "帮助与入门"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Getting Started With Smart Connections",
+                    "target": "智能连接入门指南"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "More actions",
+                    "target": "更多操作"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "log(`Loaded ${this[key].collection_key} in ${this[key].load_time_ms}ms`)",
+                    "target": "log(`Loaded ${this[key].collection_key} in ${this[key].load_time_ms}ms`)"
+                },
+                {
+                    "source": "error(\"Error getting component\", e);\n        console.log(\n          `scope_name: ${scope_name}; component_key: ${component_key}; this.opts.components: ${Object.keys(\n            this.opts.components || {}\n          ).join(\", \")",
+                    "target": "error(\"Error getting component\", e);\n        console.log(\n          `scope_name: ${scope_name}; component_key: ${component_key}; this.opts.components: ${Object.keys(\n            this.opts.components || {}\n          ).join(\", \")"
+                },
+                {
+                    "source": "error(`Error checking if path is excluded: ${e.message}`)",
+                    "target": "error(`Error checking if path is excluded: ${e.message}`)"
+                },
+                {
+                    "source": "log(`Created folder: ${folder_path}`)",
+                    "target": "log(`Created folder: ${folder_path}`)"
+                },
+                {
+                    "source": "log(`getting options callback: ${elm.dataset.optionsCallback}`)",
+                    "target": "log(`getting options callback: ${elm.dataset.optionsCallback}`)"
+                },
+                {
+                    "source": "error(\"No callback or href found for button.\")",
+                    "target": "error(\"No callback or href found for button.\")"
+                },
+                {
+                    "source": "log(`Found and returned ${top_k.length} ${this.collection_key}.`)",
+                    "target": "log(`Found and returned ${top_k.length} ${this.collection_key}.`)"
+                },
+                {
+                    "source": "log(`Smart Connections: Deleting ${this.path} data because it no longer exists on disk`)",
+                    "target": "log(`Smart Connections: Deleting ${this.path} data because it no longer exists on disk`)"
+                },
+                {
+                    "source": "log(`Time spent building links: ${end_time - start_time}ms`)",
+                    "target": "log(`Time spent building links: ${end_time - start_time}ms`)"
+                },
+                {
+                    "source": "log(`Loaded ${this.collection.collection_key} from disk in ${Date.now() - now}ms`)",
+                    "target": "log(`Loaded ${this.collection.collection_key} from disk in ${Date.now() - now}ms`)"
+                },
+                {
+                    "source": "log(`Saved ${this.collection.collection_key} in ${Date.now() - time_start}ms`)",
+                    "target": "log(`Saved ${this.collection.collection_key} in ${Date.now() - time_start}ms`)"
+                },
+                {
+                    "source": "error(\"Error in SmartHttpObsidianRequestAdapter.request():\")",
+                    "target": "error(\"Error in SmartHttpObsidianRequestAdapter.request():\")"
+                },
+                {
+                    "source": "log(`Retrying request (429) in ${backoff} seconds...`)",
+                    "target": "log(`Retrying request (429) in ${backoff} seconds...`)"
+                },
+                {
+                    "source": "log('message ignored (listener)', event);\n                    // Process the message and send the response back\n                    const response = await process_message(event.data);\n                    window.parent.postMessage({ ...response, iframe_id: '${this.iframe_id}' }, '${this.origin}')",
+                    "target": "log('message ignored (listener)', event);\n                    // Process the message and send the response back\n                    const response = await process_message(event.data);\n                    window.parent.postMessage({ ...response, iframe_id: '${this.iframe_id}' }, '${this.origin}')"
+                },
+                {
+                    "source": "log(`[Transformers v2] trying to load pipeline on ${config}`)",
+                    "target": "log(`[Transformers v2] trying to load pipeline on ${config}`)"
+                },
+                {
+                    "source": "log(`[Transformers v2: ${this.active_config_key}] pipeline initialized using ${this.active_config_key}`)",
+                    "target": "log(`[Transformers v2: ${this.active_config_key}] pipeline initialized using ${this.active_config_key}`)"
+                },
+                {
+                    "source": "error(\"Max retries reached for rate limit errors.\")",
+                    "target": "error(\"Max retries reached for rate limit errors.\")"
+                },
+                {
+                    "source": "log(\"no chunk\")",
+                    "target": "log(\"no chunk\")"
+                },
+                {
+                    "source": "log(`Saved (single-file) ${this.collection.collection_key} in ${Date.now() - time_start}ms`)",
+                    "target": "log(`Saved (single-file) ${this.collection.collection_key} in ${Date.now() - time_start}ms`)"
+                },
+                {
+                    "source": "setText(\"Events & notifications\")",
+                    "target": "setText(\"Events & notifications\")"
+                },
+                {
+                    "source": "setText(\"Smart Plugins\")",
+                    "target": "setText(\"Smart Plugins\")"
+                },
+                {
+                    "source": "log(`Skipping loading ${this.collection.collection_key}...`)",
+                    "target": "log(`Skipping loading ${this.collection.collection_key}...`)"
+                },
+                {
+                    "source": "setText(\"Edit model\")",
+                    "target": "setText(\"Edit model\")"
+                },
+                {
+                    "source": "log(\"show_new_model_menu providers\", providers);\n  if (providers.length === 0) {\n    if (event.target.tagName.toLowerCase() === \"button\")",
+                    "target": "log(\"show_new_model_menu providers\", providers);\n  if (providers.length === 0) {\n    if (event.target.tagName.toLowerCase() === \"button\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Select a folder to exclude...\")",
+                    "target": "setPlaceholder(\"Select a folder to exclude...\")"
+                },
+                {
+                    "source": "setText(\"Excluded folders\")",
+                    "target": "setText(\"Excluded folders\")"
+                },
+                {
+                    "source": "setText(\"No folders excluded yet.\")",
+                    "target": "setText(\"No folders excluded yet.\")"
+                },
+                {
+                    "source": "setText(\"Excluded Sources\")",
+                    "target": "setText(\"Excluded Sources\")"
+                },
+                {
+                    "source": "setText(\"Are you sure you want to clear all sources data? This cannot be undone.\")",
+                    "target": "setText(\"Are you sure you want to clear all sources data? This cannot be undone.\")"
+                },
+                {
+                    "source": "setTitle(\"Clear this context\")",
+                    "target": "setTitle(\"Clear this context\")"
+                },
+                {
+                    "source": "setTitle(\"Copy link tree\")",
+                    "target": "setTitle(\"Copy link tree\")"
+                },
+                {
+                    "source": "log(`[smart_plugins] download plugin from URL: ${download_url}`)",
+                    "target": "log(`[smart_plugins] download plugin from URL: ${download_url}`)"
+                },
+                {
+                    "source": "setName(\"Connect account\")",
+                    "target": "setName(\"Connect account\")"
+                },
+                {
+                    "source": "setName(\"Subscription expired\")",
+                    "target": "setName(\"Subscription expired\")"
+                },
+                {
+                    "source": "setDesc(\"Your Smart Connections Pro subscription has expired. Please update your subscription to retain access to Pro plugins.\")",
+                    "target": "setDesc(\"Your Smart Connections Pro subscription has expired. Please update your subscription to retain access to Pro plugins.\")"
+                },
+                {
+                    "source": "setButtonText(\"Get Pro\")",
+                    "target": "setButtonText(\"Get Pro\")"
+                },
+                {
+                    "source": "setButtonText(\"Update subscription\")",
+                    "target": "setButtonText(\"Update subscription\")"
+                },
+                {
+                    "source": "setDesc(`Signed in to Smart Plugins Pro account. ${subscription_status(sub_exp)}`)",
+                    "target": "setDesc(`Signed in to Smart Plugins Pro account. ${subscription_status(sub_exp)}`)"
+                },
+                {
+                    "source": "setName(\"Give $30 off Pro. Get 30 days of Pro\")",
+                    "target": "setName(\"Give $30 off Pro. Get 30 days of Pro\")"
+                },
+                {
+                    "source": "setDesc(\"Start a free trial to unlock your referral link.\")",
+                    "target": "setDesc(\"Start a free trial to unlock your referral link.\")"
+                },
+                {
+                    "source": "setButtonText(\"Start free trial\")",
+                    "target": "setButtonText(\"Start free trial\")"
+                },
+                {
+                    "source": "setName(\"Referral link\")",
+                    "target": "setName(\"Referral link\")"
+                },
+                {
+                    "source": "setDesc(\"Give $30 off Pro. Get 30 days of Pro.\")",
+                    "target": "setDesc(\"Give $30 off Pro. Get 30 days of Pro.\")"
+                },
+                {
+                    "source": "setButtonText(\"Copy link\")",
+                    "target": "setButtonText(\"Copy link\")"
+                },
+                {
+                    "source": "setButtonText(\"Open referrals\")",
+                    "target": "setButtonText(\"Open referrals\")"
+                },
+                {
+                    "source": "setText(\"Smart Environment\")",
+                    "target": "setText(\"Smart Environment\")"
+                },
+                {
+                    "source": "setTitle(\"Inspect active note\")",
+                    "target": "setTitle(\"Inspect active note\")"
+                },
+                {
+                    "source": "setTitle(\"Show stats\")",
+                    "target": "setTitle(\"Show stats\")"
+                },
+                {
+                    "source": "setTitle(\"Export data\")",
+                    "target": "setTitle(\"Export data\")"
+                },
+                {
+                    "source": "setTitle(\"Browse Smart Plugins\")",
+                    "target": "setTitle(\"Browse Smart Plugins\")"
+                },
+                {
+                    "source": "setTitle(\"Refer a friend (Give 30, Get 30)\")",
+                    "target": "setTitle(\"Refer a friend (Give 30, Get 30)\")"
+                },
+                {
+                    "source": "setTitle(\"Start 14-day Pro trial\")",
+                    "target": "setTitle(\"Start 14-day Pro trial\")"
+                },
+                {
+                    "source": "log(\"Waiting for env to load (mobile)...\")",
+                    "target": "log(\"Waiting for env to load (mobile)...\")"
+                },
+                {
+                    "source": "log(\"Waiting for env to load...\")",
+                    "target": "log(\"Waiting for env to load...\")"
+                },
+                {
+                    "source": "log(\"opening release notes modal\")",
+                    "target": "log(\"opening release notes modal\")"
+                },
+                {
+                    "source": "log(\"Rendering connections list in codeblock view\")",
+                    "target": "log(\"Rendering connections list in codeblock view\")"
+                },
+                {
+                    "source": "setTitle(`Hide ${target_name}`)",
+                    "target": "setTitle(`Hide ${target_name}`)"
+                },
+                {
+                    "source": "setTitle(`${title_prefix} ${target_name}`)",
+                    "target": "setTitle(`${title_prefix} ${target_name}`)"
+                },
+                {
+                    "source": "setTitle(\"Copy as list of links\")",
+                    "target": "setTitle(\"Copy as list of links\")"
+                },
+                {
+                    "source": "setTitle(`Unhide All (${hidden_count})`)",
+                    "target": "setTitle(`Unhide All (${hidden_count})`)"
+                },
+                {
+                    "source": "setTitle(`Unpin All (${pinned_count})`)",
+                    "target": "setTitle(`Unpin All (${pinned_count})`)"
+                },
+                {
+                    "source": "setText(\"Need help and support?\")",
+                    "target": "setText(\"Need help and support?\")"
+                },
+                {
+                    "source": "log(`Refreshing smart connections view entity ${entity_key}`)",
+                    "target": "log(`Refreshing smart connections view entity ${entity_key}`)"
+                },
+                {
+                    "source": "setTitle(\"Refresh connections\")",
+                    "target": "setTitle(\"Refresh connections\")"
+                },
+                {
+                    "source": "setTitle(\"Send results to Smart Context\")",
+                    "target": "setTitle(\"Send results to Smart Context\")"
+                },
+                {
+                    "source": "setTitle(\"Connections settings\")",
+                    "target": "setTitle(\"Connections settings\")"
+                },
+                {
+                    "source": "setTitle(\"Help & getting started\")",
+                    "target": "setTitle(\"Help & getting started\")"
+                },
+                {
+                    "source": "setText(`What's new in v${this.version}? (${this.constructor.plugin_id})`)",
+                    "target": "setText(`What's new in v${this.version}? (${this.constructor.plugin_id})`)"
+                },
+                {
+                    "source": "log(\"Connections container is not visible\")",
+                    "target": "log(\"Connections container is not visible\")"
+                },
+                {
+                    "source": "log(\"connections codeblock view detected settings change\", event);\n          if (event.path?.includes(\"connections_lists\")",
+                    "target": "log(\"connections codeblock view detected settings change\", event);\n          if (event.path?.includes(\"connections_lists\")"
+                },
+                {
+                    "source": "log(\"Unloading Smart Connections plugin\")",
+                    "target": "log(\"Unloading Smart Connections plugin\")"
+                },
+                {
+                    "source": "name = \"smart_env\"",
+                    "target": "name = \"smart_env\""
+                },
+                {
+                    "source": "textContent = \"\\u2715\"",
+                    "target": "textContent = \"\\u2715\""
+                },
+                {
+                    "source": "textContent = \"+\"",
+                    "target": "textContent = \"+\""
+                },
+                {
+                    "source": "name: \"Minimum length\"",
+                    "target": "name: \"Minimum length\""
+                },
+                {
+                    "source": "name = \"smart_model\"",
+                    "target": "name = \"smart_model\""
+                },
+                {
+                    "source": "name: \"Model Platform\"",
+                    "target": "name: \"Model Platform\""
+                },
+                {
+                    "source": "description: \"Select a model platform to use with Smart Model.\"",
+                    "target": "description: \"Select a model platform to use with Smart Model.\""
+                },
+                {
+                    "source": "name: \"Embedding model platform\"",
+                    "target": "name: \"Embedding model platform\""
+                },
+                {
+                    "source": "name: 'None'",
+                    "target": "name: 'None'"
+                },
+                {
+                    "source": "name: \"No models currently available\"",
+                    "target": "name: \"No models currently available\""
+                },
+                {
+                    "source": "name: \"Embedding model\"",
+                    "target": "name: \"Embedding model\""
+                },
+                {
+                    "source": "description: \"OpenAI (API)\"",
+                    "target": "description: \"OpenAI (API)\""
+                },
+                {
+                    "source": "description: \"Transformers (Local, built-in)\"",
+                    "target": "description: \"Transformers (Local, built-in)\""
+                },
+                {
+                    "source": "name: 'Legacy transformers (no GPU)'",
+                    "target": "name: 'Legacy transformers (no GPU)'"
+                },
+                {
+                    "source": "description: \"Ollama (Local)\"",
+                    "target": "description: \"Ollama (Local)\""
+                },
+                {
+                    "source": "name: \"Ollama host\"",
+                    "target": "name: \"Ollama host\""
+                },
+                {
+                    "source": "description: \"Enter the host for your Ollama instance\"",
+                    "target": "description: \"Enter the host for your Ollama instance\""
+                },
+                {
+                    "source": "description: `LM Studio model: ${m.id}`",
+                    "target": "description: `LM Studio model: ${m.id}`"
+                },
+                {
+                    "source": "description: \"LM Studio\"",
+                    "target": "description: \"LM Studio\""
+                },
+                {
+                    "source": "name: \"Refresh Models\"",
+                    "target": "name: \"Refresh Models\""
+                },
+                {
+                    "source": "description: \"Refresh the list of available models.\"",
+                    "target": "description: \"Refresh the list of available models.\""
+                },
+                {
+                    "source": "name: \"Embedding Batch Size\"",
+                    "target": "name: \"Embedding Batch Size\""
+                },
+                {
+                    "source": "name: \"CORS required\"",
+                    "target": "name: \"CORS required\""
+                },
+                {
+                    "source": "name = \"smart_chat_model\"",
+                    "target": "name = \"smart_chat_model\""
+                },
+                {
+                    "source": "name: \"Chat Model Platform\"",
+                    "target": "name: \"Chat Model Platform\""
+                },
+                {
+                    "source": "description: \"Select a platform/provider for chat models.\"",
+                    "target": "description: \"Select a platform/provider for chat models.\""
+                },
+                {
+                    "source": "name: \"Chat Model\"",
+                    "target": "name: \"Chat Model\""
+                },
+                {
+                    "source": "description: \"Select a chat model.\"",
+                    "target": "description: \"Select a chat model.\""
+                },
+                {
+                    "source": "name: \"API Key\"",
+                    "target": "name: \"API Key\""
+                },
+                {
+                    "source": "description: \"Enter your API key for the chat model platform.\"",
+                    "target": "description: \"Enter your API key for the chat model platform.\""
+                },
+                {
+                    "source": "name: \"\"",
+                    "target": "name: \"\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude\"",
+                    "target": "description: \"Anthropic Claude\""
+                },
+                {
+                    "source": "name: \"Claude Opus 4.1 (2025-08-05)\"",
+                    "target": "name: \"Claude Opus 4.1 (2025-08-05)\""
+                },
+                {
+                    "source": "name: \"claude-opus-4-1-20250805\"",
+                    "target": "name: \"claude-opus-4-1-20250805\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude Opus 4.1 snapshot (2025-08-05)\"",
+                    "target": "description: \"Anthropic Claude Opus 4.1 snapshot (2025-08-05)\""
+                },
+                {
+                    "source": "name: \"Claude Opus 4 (2025-05-14)\"",
+                    "target": "name: \"Claude Opus 4 (2025-05-14)\""
+                },
+                {
+                    "source": "name: \"claude-opus-4-20250514\"",
+                    "target": "name: \"claude-opus-4-20250514\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude Opus 4 snapshot (2025-05-14)\"",
+                    "target": "description: \"Anthropic Claude Opus 4 snapshot (2025-05-14)\""
+                },
+                {
+                    "source": "name: \"Claude Sonnet 4 (2025-05-14)\"",
+                    "target": "name: \"Claude Sonnet 4 (2025-05-14)\""
+                },
+                {
+                    "source": "name: \"claude-sonnet-4-20250514\"",
+                    "target": "name: \"claude-sonnet-4-20250514\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude Sonnet 4 snapshot (2025-05-14)\"",
+                    "target": "description: \"Anthropic Claude Sonnet 4 snapshot (2025-05-14)\""
+                },
+                {
+                    "source": "name: \"Claude 3.7 Sonnet (latest)\"",
+                    "target": "name: \"Claude 3.7 Sonnet (latest)\""
+                },
+                {
+                    "source": "name: \"claude-3-7-sonnet-latest\"",
+                    "target": "name: \"claude-3-7-sonnet-latest\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3.7 Sonnet (rolling-latest)\"",
+                    "target": "description: \"Anthropic Claude 3.7 Sonnet (rolling-latest)\""
+                },
+                {
+                    "source": "name: \"Claude 3.7 Sonnet (2025-02-19)\"",
+                    "target": "name: \"Claude 3.7 Sonnet (2025-02-19)\""
+                },
+                {
+                    "source": "name: \"claude-3-7-sonnet-20250219\"",
+                    "target": "name: \"claude-3-7-sonnet-20250219\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3.7 Sonnet snapshot (2025-02-19)\"",
+                    "target": "description: \"Anthropic Claude 3.7 Sonnet snapshot (2025-02-19)\""
+                },
+                {
+                    "source": "name: \"Claude 3.5 Sonnet (latest)\"",
+                    "target": "name: \"Claude 3.5 Sonnet (latest)\""
+                },
+                {
+                    "source": "name: \"claude-3-5-sonnet-latest\"",
+                    "target": "name: \"claude-3-5-sonnet-latest\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3.5 Sonnet (rolling-latest)\"",
+                    "target": "description: \"Anthropic Claude 3.5 Sonnet (rolling-latest)\""
+                },
+                {
+                    "source": "name: \"Claude 3.5 Sonnet (2024-10-22)\"",
+                    "target": "name: \"Claude 3.5 Sonnet (2024-10-22)\""
+                },
+                {
+                    "source": "name: \"claude-3-5-sonnet-20241022\"",
+                    "target": "name: \"claude-3-5-sonnet-20241022\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3.5 Sonnet snapshot (2024-10-22)\"",
+                    "target": "description: \"Anthropic Claude 3.5 Sonnet snapshot (2024-10-22)\""
+                },
+                {
+                    "source": "name: \"Claude 3.5 Haiku (latest)\"",
+                    "target": "name: \"Claude 3.5 Haiku (latest)\""
+                },
+                {
+                    "source": "name: \"claude-3-5-haiku-latest\"",
+                    "target": "name: \"claude-3-5-haiku-latest\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3.5 Haiku (rolling-latest)\"",
+                    "target": "description: \"Anthropic Claude 3.5 Haiku (rolling-latest)\""
+                },
+                {
+                    "source": "name: \"Claude 3.5 Haiku (2024-10-22)\"",
+                    "target": "name: \"Claude 3.5 Haiku (2024-10-22)\""
+                },
+                {
+                    "source": "name: \"claude-3-5-haiku-20241022\"",
+                    "target": "name: \"claude-3-5-haiku-20241022\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3.5 Haiku snapshot (2024-10-22)\"",
+                    "target": "description: \"Anthropic Claude 3.5 Haiku snapshot (2024-10-22)\""
+                },
+                {
+                    "source": "name: \"Claude 3 Opus (latest)\"",
+                    "target": "name: \"Claude 3 Opus (latest)\""
+                },
+                {
+                    "source": "name: \"claude-3-opus-latest\"",
+                    "target": "name: \"claude-3-opus-latest\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3 Opus (rolling-latest)\"",
+                    "target": "description: \"Anthropic Claude 3 Opus (rolling-latest)\""
+                },
+                {
+                    "source": "name: \"Claude 3 Opus (2024-02-29)\"",
+                    "target": "name: \"Claude 3 Opus (2024-02-29)\""
+                },
+                {
+                    "source": "name: \"claude-3-opus-20240229\"",
+                    "target": "name: \"claude-3-opus-20240229\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3 Opus snapshot (2024-02-29)\"",
+                    "target": "description: \"Anthropic Claude 3 Opus snapshot (2024-02-29)\""
+                },
+                {
+                    "source": "name: \"Claude 3 Sonnet (2024-02-29)\"",
+                    "target": "name: \"Claude 3 Sonnet (2024-02-29)\""
+                },
+                {
+                    "source": "name: \"claude-3-sonnet-20240229\"",
+                    "target": "name: \"claude-3-sonnet-20240229\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3 Sonnet snapshot (2024-02-29)\"",
+                    "target": "description: \"Anthropic Claude 3 Sonnet snapshot (2024-02-29)\""
+                },
+                {
+                    "source": "name: \"Claude 3 Haiku (2024-03-07)\"",
+                    "target": "name: \"Claude 3 Haiku (2024-03-07)\""
+                },
+                {
+                    "source": "name: \"claude-3-haiku-20240307\"",
+                    "target": "name: \"claude-3-haiku-20240307\""
+                },
+                {
+                    "source": "description: \"Anthropic Claude 3 Haiku snapshot (2024-03-07)\"",
+                    "target": "description: \"Anthropic Claude 3 Haiku snapshot (2024-03-07)\""
+                },
+                {
+                    "source": "text: \"\"",
+                    "target": "text: \"\""
+                },
+                {
+                    "source": "description: \"OpenAI\"",
+                    "target": "description: \"OpenAI\""
+                },
+                {
+                    "source": "name: \"Note about using OpenAI\"",
+                    "target": "name: \"Note about using OpenAI\""
+                },
+                {
+                    "source": "description: \"Azure OpenAI\"",
+                    "target": "description: \"Azure OpenAI\""
+                },
+                {
+                    "source": "name: \"Azure Resource Name\"",
+                    "target": "name: \"Azure Resource Name\""
+                },
+                {
+                    "source": "description: \"The name of your Azure OpenAI resource (e.g. 'my-azure-openai').\"",
+                    "target": "description: \"The name of your Azure OpenAI resource (e.g. 'my-azure-openai').\""
+                },
+                {
+                    "source": "name: \"Azure Deployment Name\"",
+                    "target": "name: \"Azure Deployment Name\""
+                },
+                {
+                    "source": "description: \"The name of your specific model deployment (e.g. 'gpt35-deployment').\"",
+                    "target": "description: \"The name of your specific model deployment (e.g. 'gpt35-deployment').\""
+                },
+                {
+                    "source": "name: \"Azure API Version\"",
+                    "target": "name: \"Azure API Version\""
+                },
+                {
+                    "source": "description: \"The API version for Azure OpenAI (e.g. '2024-10-01-preview').\"",
+                    "target": "description: \"The API version for Azure OpenAI (e.g. '2024-10-01-preview').\""
+                },
+                {
+                    "source": "description: `Model: ${d.model}, Status: ${d.status}`",
+                    "target": "description: `Model: ${d.model}, Status: ${d.status}`"
+                },
+                {
+                    "source": "description: \"Open Router\"",
+                    "target": "description: \"Open Router\""
+                },
+                {
+                    "source": "description: \"LM Studio (OpenAI\\u2011compatible)\"",
+                    "target": "description: \"LM Studio (OpenAI\\u2011compatible)\""
+                },
+                {
+                    "source": "text: `Use the \"${this.tool_choice.function.name}\" tool.`",
+                    "target": "text: `Use the \"${this.tool_choice.function.name}\" tool.`"
+                },
+                {
+                    "source": "name: \"API Adapter\"",
+                    "target": "name: \"API Adapter\""
+                },
+                {
+                    "source": "description: \"Pick a built-in or external adapter to parse request/response data.\"",
+                    "target": "description: \"Pick a built-in or external adapter to parse request/response data.\""
+                },
+                {
+                    "source": "name: \"Model Name\"",
+                    "target": "name: \"Model Name\""
+                },
+                {
+                    "source": "description: \"Enter the model name for your endpoint if needed.\"",
+                    "target": "description: \"Enter the model name for your endpoint if needed.\""
+                },
+                {
+                    "source": "name: \"Protocol\"",
+                    "target": "name: \"Protocol\""
+                },
+                {
+                    "source": "description: \"e.g. http or https\"",
+                    "target": "description: \"e.g. http or https\""
+                },
+                {
+                    "source": "name: \"Hostname\"",
+                    "target": "name: \"Hostname\""
+                },
+                {
+                    "source": "name: \"Port\"",
+                    "target": "name: \"Port\""
+                },
+                {
+                    "source": "description: \"Port number or leave blank\"",
+                    "target": "description: \"Port number or leave blank\""
+                },
+                {
+                    "source": "name: \"Path\"",
+                    "target": "name: \"Path\""
+                },
+                {
+                    "source": "description: \"Path portion of the URL (leading slash optional)\"",
+                    "target": "description: \"Path portion of the URL (leading slash optional)\""
+                },
+                {
+                    "source": "name: \"Streaming\"",
+                    "target": "name: \"Streaming\""
+                },
+                {
+                    "source": "description: \"Enable streaming if your API supports it.\"",
+                    "target": "description: \"Enable streaming if your API supports it.\""
+                },
+                {
+                    "source": "name: \"Max Input Tokens\"",
+                    "target": "name: \"Max Input Tokens\""
+                },
+                {
+                    "source": "description: \"Max number of tokens your model can handle in the prompt.\"",
+                    "target": "description: \"Max number of tokens your model can handle in the prompt.\""
+                },
+                {
+                    "source": "description: \"If your service requires an API key, add it here.\"",
+                    "target": "description: \"If your service requires an API key, add it here.\""
+                },
+                {
+                    "source": "description: \"Groq\"",
+                    "target": "description: \"Groq\""
+                },
+                {
+                    "source": "description: `Owned by: ${model.owned_by}, context: ${model.context_window}`",
+                    "target": "description: `Owned by: ${model.owned_by}, context: ${model.context_window}`"
+                },
+                {
+                    "source": "description: `Owned by: ${m.owned_by}, context: ${m.context_window}`",
+                    "target": "description: `Owned by: ${m.owned_by}, context: ${m.context_window}`"
+                },
+                {
+                    "source": "description: \"xAI Grok\"",
+                    "target": "description: \"xAI Grok\""
+                },
+                {
+                    "source": "name = \"\"",
+                    "target": "name = \"\""
+                },
+                {
+                    "source": "text = \"\"",
+                    "target": "text = \"\""
+                },
+                {
+                    "source": "description: \"DeepSeek\"",
+                    "target": "description: \"DeepSeek\""
+                },
+                {
+                    "source": "name: \"Info\"",
+                    "target": "name: \"Info\""
+                },
+                {
+                    "source": "description: 'Show Obsidian native notices for \"info\" level events.'",
+                    "target": "description: 'Show Obsidian native notices for \"info\" level events.'"
+                },
+                {
+                    "source": "name: \"Warning\"",
+                    "target": "name: \"Warning\""
+                },
+                {
+                    "source": "description: 'Show Obsidian native notices for \"warning\" level events.'",
+                    "target": "description: 'Show Obsidian native notices for \"warning\" level events.'"
+                },
+                {
+                    "source": "name: \"Error\"",
+                    "target": "name: \"Error\""
+                },
+                {
+                    "source": "description: 'Show Obsidian native notices for \"error\" level events.'",
+                    "target": "description: 'Show Obsidian native notices for \"error\" level events.'"
+                },
+                {
+                    "source": "name: \"Attention\"",
+                    "target": "name: \"Attention\""
+                },
+                {
+                    "source": "description: 'Show Obsidian native notices for \"attention\" level events.'",
+                    "target": "description: 'Show Obsidian native notices for \"attention\" level events.'"
+                },
+                {
+                    "source": "name: \"Milestone\"",
+                    "target": "name: \"Milestone\""
+                },
+                {
+                    "source": "description: 'Show Obsidian native notices for \"milestone\" level events.'",
+                    "target": "description: 'Show Obsidian native notices for \"milestone\" level events.'"
+                },
+                {
+                    "source": "textContent = \"Smart Milestones\"",
+                    "target": "textContent = \"Smart Milestones\""
+                },
+                {
+                    "source": "textContent = \"?\"",
+                    "target": "textContent = \"?\""
+                },
+                {
+                    "source": "textContent = \"\"",
+                    "target": "textContent = \"\""
+                },
+                {
+                    "source": "name: \"Name\"",
+                    "target": "name: \"Name\""
+                },
+                {
+                    "source": "description: \"A friendly name for this model configuration.\"",
+                    "target": "description: \"A friendly name for this model configuration.\""
+                },
+                {
+                    "source": "name: \"Model\"",
+                    "target": "name: \"Model\""
+                },
+                {
+                    "source": "description: \"The model to use from the selected provider.\"",
+                    "target": "description: \"The model to use from the selected provider.\""
+                },
+                {
+                    "source": "name: `Default ${scope.model_type.toLowerCase()} model`",
+                    "target": "name: `Default ${scope.model_type.toLowerCase()} model`"
+                },
+                {
+                    "source": "description: `Used as the default ${scope.model_type.toLowerCase()} model when no other is specified.`",
+                    "target": "description: `Used as the default ${scope.model_type.toLowerCase()} model when no other is specified.`"
+                },
+                {
+                    "source": "name: \"Lookup results type\"",
+                    "target": "name: \"Lookup results type\""
+                },
+                {
+                    "source": "description: \"Choose whether results should be sources or blocks.\"",
+                    "target": "description: \"Choose whether results should be sources or blocks.\""
+                },
+                {
+                    "source": "name: \"Sources\"",
+                    "target": "name: \"Sources\""
+                },
+                {
+                    "source": "name: \"Blocks\"",
+                    "target": "name: \"Blocks\""
+                },
+                {
+                    "source": "name: \"Embed blocks\"",
+                    "target": "name: \"Embed blocks\""
+                },
+                {
+                    "source": "description: \"Blocks represent parts/sections of notes. Get more granular results.\"",
+                    "target": "description: \"Blocks represent parts/sections of notes. Get more granular results.\""
+                },
+                {
+                    "source": "name : \"\"",
+                    "target": "name : \"\""
+                },
+                {
+                    "source": "textContent = \"\\u2022\"",
+                    "target": "textContent = \"\\u2022\""
+                },
+                {
+                    "source": "textContent = `${format_level_label(level)}`",
+                    "target": "textContent = `${format_level_label(level)}`"
+                },
+                {
+                    "source": "textContent = \"Learn more\"",
+                    "target": "textContent = \"Learn more\""
+                },
+                {
+                    "source": "textContent = \"Mute\"",
+                    "target": "textContent = \"Mute\""
+                },
+                {
+                    "source": "textContent = \"Muted\"",
+                    "target": "textContent = \"Muted\""
+                },
+                {
+                    "source": "textContent = \"\\u2605\"",
+                    "target": "textContent = \"\\u2605\""
+                },
+                {
+                    "source": "textContent = \"Smart Milestone\"",
+                    "target": "textContent = \"Smart Milestone\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-environment/settings/?utm_source=milestones#sources\"",
+                    "target": "link: \"https://smartconnections.app/smart-environment/settings/?utm_source=milestones#sources\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#quick-start\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#quick-start\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#drag-link\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#drag-link\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#core-interactions\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#core-interactions\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#send-to-context\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#send-to-context\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#copy-list\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#copy-list\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/getting-started/?utm_source=milestones#open-a-random-connection\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/getting-started/?utm_source=milestones#open-a-random-connection\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#manage-noise\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#manage-noise\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones#connections-pro\"",
+                    "target": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones#connections-pro\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/lookup/?utm_source=milestones#understanding-results\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/lookup/?utm_source=milestones#understanding-results\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/lookup/?utm_source=milestones\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/lookup/?utm_source=milestones\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-context/builder/?utm_source=milestones#quick-start\"",
+                    "target": "link: \"https://smartconnections.app/smart-context/builder/?utm_source=milestones#quick-start\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-current\"",
+                    "target": "link: \"https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-current\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-selected\"",
+                    "target": "link: \"https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-selected\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-context/builder/?utm_source=milestones#open-builder\"",
+                    "target": "link: \"https://smartconnections.app/smart-context/builder/?utm_source=milestones#open-builder\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-context/builder/?utm_source=milestones#save-reuse\"",
+                    "target": "link: \"https://smartconnections.app/smart-context/builder/?utm_source=milestones#save-reuse\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-context/builder/?utm_source=milestones\"",
+                    "target": "link: \"https://smartconnections.app/smart-context/builder/?utm_source=milestones\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-modes\"",
+                    "target": "link: \"https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-modes\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones#context-pro\"",
+                    "target": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones#context-pro\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-chat/?utm_source=milestones\"",
+                    "target": "link: \"https://smartconnections.app/smart-chat/?utm_source=milestones\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-chat/codeblock/?utm_source=milestones#quick-start\"",
+                    "target": "link: \"https://smartconnections.app/smart-chat/codeblock/?utm_source=milestones#quick-start\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-chat/codeblock/?utm_source=milestones#chat-inbox\"",
+                    "target": "link: \"https://smartconnections.app/smart-chat/codeblock/?utm_source=milestones#chat-inbox\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones#chat-pro\"",
+                    "target": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones#chat-pro\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-chat/api-integration/?utm_source=milestones#quick-start\"",
+                    "target": "link: \"https://smartconnections.app/smart-chat/api-integration/?utm_source=milestones#quick-start\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/smart-connections/inline/?utm_source=milestones\"",
+                    "target": "link: \"https://smartconnections.app/smart-connections/inline/?utm_source=milestones\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/connect-pro/?utm_source=milestones#health-check\"",
+                    "target": "link: \"https://smartconnections.app/connect-pro/?utm_source=milestones#health-check\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/connect-pro/?utm_source=milestones#request-flow\"",
+                    "target": "link: \"https://smartconnections.app/connect-pro/?utm_source=milestones#request-flow\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones\"",
+                    "target": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones#referrals\"",
+                    "target": "link: \"https://smartconnections.app/pro-plugins/?utm_source=milestones#referrals\""
+                },
+                {
+                    "source": "link: \"https://smartconnections.app/my-referrals/?utm_source=milestones\"",
+                    "target": "link: \"https://smartconnections.app/my-referrals/?utm_source=milestones\""
+                },
+                {
+                    "source": "text: \"View milestones\"",
+                    "target": "text: \"View milestones\""
+                },
+                {
+                    "source": "link : \"\"",
+                    "target": "link : \"\""
+                },
+                {
+                    "source": "text: \"Reset filters\"",
+                    "target": "text: \"Reset filters\""
+                },
+                {
+                    "source": "text: \"Copy All\"",
+                    "target": "text: \"Copy All\""
+                },
+                {
+                    "source": "text: \"All\"",
+                    "target": "text: \"All\""
+                },
+                {
+                    "source": "text: \"Debug\"",
+                    "target": "text: \"Debug\""
+                },
+                {
+                    "source": "textContent = `Load ${next_step.toLocaleString()} more`",
+                    "target": "textContent = `Load ${next_step.toLocaleString()} more`"
+                },
+                {
+                    "source": "text = \"Copy\"",
+                    "target": "text = \"Copy\""
+                },
+                {
+                    "source": "text = \"Copied\"",
+                    "target": "text = \"Copied\""
+                },
+                {
+                    "source": "description: `Failed to load settings. ${e.message} (logged to console)`",
+                    "target": "description: `Failed to load settings. ${e.message} (logged to console)`"
+                },
+                {
+                    "source": "name = \"Settings\"",
+                    "target": "name = \"Settings\""
+                },
+                {
+                    "source": "name: \"Model settings\"",
+                    "target": "name: \"Model settings\""
+                },
+                {
+                    "source": "text: \"Test model\"",
+                    "target": "text: \"Test model\""
+                },
+                {
+                    "source": "text: \"Testing...\"",
+                    "target": "text: \"Testing...\""
+                },
+                {
+                    "source": "name: `${models_collection.model_type} models`",
+                    "target": "name: `${models_collection.model_type} models`"
+                },
+                {
+                    "source": "text: \"+ New\"",
+                    "target": "text: \"+ New\""
+                },
+                {
+                    "source": "text: \"(x)\"",
+                    "target": "text: \"(x)\""
+                },
+                {
+                    "source": "text: \"Paths too long to import into Smart Environment\"",
+                    "target": "text: \"Paths too long to import into Smart Environment\""
+                },
+                {
+                    "source": "name: \"Manage excluded folders\"",
+                    "target": "name: \"Manage excluded folders\""
+                },
+                {
+                    "source": "description: \"Manage the list of folders excluded from processing.\"",
+                    "target": "description: \"Manage the list of folders excluded from processing.\""
+                },
+                {
+                    "source": "text: \"Manage folders\"",
+                    "target": "text: \"Manage folders\""
+                },
+                {
+                    "source": "name: \"View all exclusions\"",
+                    "target": "name: \"View all exclusions\""
+                },
+                {
+                    "source": "description: \"View all excluded sources.\"",
+                    "target": "description: \"View all excluded sources.\""
+                },
+                {
+                    "source": "text: \"Show\"",
+                    "target": "text: \"Show\""
+                },
+                {
+                    "source": "name: \"Reset data\"",
+                    "target": "name: \"Reset data\""
+                },
+                {
+                    "source": "description: \"Clear sources data and re-import.\"",
+                    "target": "description: \"Clear sources data and re-import.\""
+                },
+                {
+                    "source": "text: \"Re-import sources\"",
+                    "target": "text: \"Re-import sources\""
+                },
+                {
+                    "source": "text: \"Cancel\"",
+                    "target": "text: \"Cancel\""
+                },
+                {
+                    "source": "text: \"Re-import\"",
+                    "target": "text: \"Re-import\""
+                },
+                {
+                    "source": "textContent = \"Re-importing...\"",
+                    "target": "textContent = \"Re-importing...\""
+                },
+                {
+                    "source": "textContent = \"Yes\"",
+                    "target": "textContent = \"Yes\""
+                },
+                {
+                    "source": "name: \"Notifications\"",
+                    "target": "name: \"Notifications\""
+                },
+                {
+                    "source": "text: \"Copy\"",
+                    "target": "text: \"Copy\""
+                },
+                {
+                    "source": "text: \"Clear\"",
+                    "target": "text: \"Clear\""
+                },
+                {
+                    "source": "textContent = `\\u2248 ${chars.toLocaleString()} chars \\xB7 ${tokens.toLocaleString()} tokens`",
+                    "target": "textContent = `\\u2248 ${chars.toLocaleString()} chars \\xB7 ${tokens.toLocaleString()} tokens`"
+                },
+                {
+                    "source": "name: \"Smart Connections\"",
+                    "target": "name: \"Smart Connections\""
+                },
+                {
+                    "source": "name: \"Connections Pro\"",
+                    "target": "name: \"Connections Pro\""
+                },
+                {
+                    "source": "name: \"Smart Context\"",
+                    "target": "name: \"Smart Context\""
+                },
+                {
+                    "source": "name: \"Context Pro\"",
+                    "target": "name: \"Context Pro\""
+                },
+                {
+                    "source": "name: \"Smart Chat\"",
+                    "target": "name: \"Smart Chat\""
+                },
+                {
+                    "source": "name: \"Chat Pro (API)\"",
+                    "target": "name: \"Chat Pro (API)\""
+                },
+                {
+                    "source": "name: \"Smart Lookup\"",
+                    "target": "name: \"Smart Lookup\""
+                },
+                {
+                    "source": "name: \"Connect Pro\"",
+                    "target": "name: \"Connect Pro\""
+                },
+                {
+                    "source": "text: \"Installed & enabled. Reload to activate\"",
+                    "target": "text: \"Installed & enabled. Reload to activate\""
+                },
+                {
+                    "source": "text: \"Reload\"",
+                    "target": "text: \"Reload\""
+                },
+                {
+                    "source": "text: \"Update available\"",
+                    "target": "text: \"Update available\""
+                },
+                {
+                    "source": "text: \"Update\"",
+                    "target": "text: \"Update\""
+                },
+                {
+                    "source": "text: \"Active\"",
+                    "target": "text: \"Active\""
+                },
+                {
+                    "source": "text: \"Open settings\"",
+                    "target": "text: \"Open settings\""
+                },
+                {
+                    "source": "text: \"Enable\"",
+                    "target": "text: \"Enable\""
+                },
+                {
+                    "source": "text: \"Pro installed\"",
+                    "target": "text: \"Pro installed\""
+                },
+                {
+                    "source": "text: \"Included in Pro\"",
+                    "target": "text: \"Included in Pro\""
+                },
+                {
+                    "source": "text: \"Core installed\"",
+                    "target": "text: \"Core installed\""
+                },
+                {
+                    "source": "text: \"Install Pro\"",
+                    "target": "text: \"Install Pro\""
+                },
+                {
+                    "source": "text: \"Learn more\"",
+                    "target": "text: \"Learn more\""
+                },
+                {
+                    "source": "text: \"Install Core\"",
+                    "target": "text: \"Install Core\""
+                },
+                {
+                    "source": "text: \"Install\"",
+                    "target": "text: \"Install\""
+                },
+                {
+                    "source": "textContent = \"If the login page did not open, copy this link and paste it into your browser to open the login page:\"",
+                    "target": "textContent = \"If the login page did not open, copy this link and paste it into your browser to open the login page:\""
+                },
+                {
+                    "source": "textContent = \"Copy\"",
+                    "target": "textContent = \"Copy\""
+                },
+                {
+                    "source": "description: \"Receive a practical onboarding sequence with focused Smart Plugins workflows.\"",
+                    "target": "description: \"Receive a practical onboarding sequence with focused Smart Plugins workflows.\""
+                },
+                {
+                    "source": "text: \"Subscribe\"",
+                    "target": "text: \"Subscribe\""
+                },
+                {
+                    "source": "textContent = \"Hide source data\"",
+                    "target": "textContent = \"Hide source data\""
+                },
+                {
+                    "source": "textContent = \"Show source data\"",
+                    "target": "textContent = \"Show source data\""
+                },
+                {
+                    "source": "text: \"Loading stats...\"",
+                    "target": "text: \"Loading stats...\""
+                },
+                {
+                    "source": "text: \"Failed to load stats.\"",
+                    "target": "text: \"Failed to load stats.\""
+                },
+                {
+                    "source": "name: \"JSON Stringify\"",
+                    "target": "name: \"JSON Stringify\""
+                },
+                {
+                    "source": "name = \"Add blocks\"",
+                    "target": "name = \"Add blocks\""
+                },
+                {
+                    "source": "description = \"Ranks by cosine similarity between the current note and candidates.\"",
+                    "target": "description = \"Ranks by cosine similarity between the current note and candidates.\""
+                },
+                {
+                    "source": "name: `${display_name4} algorithm`",
+                    "target": "name: `${display_name4} algorithm`"
+                },
+                {
+                    "source": "text: `[Smart Env v${this.env.constructor.version}]`",
+                    "target": "text: `[Smart Env v${this.env.constructor.version}]`"
+                },
+                {
+                    "source": "name: \"Open: \"",
+                    "target": "name: \"Open: \""
+                },
+                {
+                    "source": "name = \"open_\"",
+                    "target": "name = \"open_\""
+                },
+                {
+                    "source": "name = `${method_name}:open`",
+                    "target": "name = `${method_name}:open`"
+                },
+                {
+                    "source": "text = \"Smart Environment Status\"",
+                    "target": "text = \"Smart Environment Status\""
+                },
+                {
+                    "source": "text: \"Smart Environment is loading\\u2026\"",
+                    "target": "text: \"Smart Environment is loading\\u2026\""
+                },
+                {
+                    "source": "text: \"Show loading status\"",
+                    "target": "text: \"Show loading status\""
+                },
+                {
+                    "source": "text: \"Smart Environment not yet initialized.\"",
+                    "target": "text: \"Smart Environment not yet initialized.\""
+                },
+                {
+                    "source": "text: \"Load Smart Environment\"",
+                    "target": "text: \"Load Smart Environment\""
+                },
+                {
+                    "source": "textContent = \"Loading Smart Environment\\u2026\"",
+                    "target": "textContent = \"Loading Smart Environment\\u2026\""
+                },
+                {
+                    "source": "name = \"  Smart Environment\"",
+                    "target": "name = \"  Smart Environment\""
+                },
+                {
+                    "source": "text: \"Smart Plugins are waiting to be loaded. Restart Obsidian to finish loading the Smart Environment.\"",
+                    "target": "text: \"Smart Plugins are waiting to be loaded. Restart Obsidian to finish loading the Smart Environment.\""
+                },
+                {
+                    "source": "text: \"Restart Obsidian\"",
+                    "target": "text: \"Restart Obsidian\""
+                },
+                {
+                    "source": "text: \"Manage all global Smart Environment settings from one tab. These settings apply to all Smart Plugins.\"",
+                    "target": "text: \"Manage all global Smart Environment settings from one tab. These settings apply to all Smart Plugins.\""
+                },
+                {
+                    "source": "name: \"Browse Smart Plugins\"",
+                    "target": "name: \"Browse Smart Plugins\""
+                },
+                {
+                    "source": "name: \"Open Environment Status View\"",
+                    "target": "name: \"Open Environment Status View\""
+                },
+                {
+                    "source": "name = \"smart_env.json\"",
+                    "target": "name = \"smart_env.json\""
+                },
+                {
+                    "source": "textContent = \"Reloading...\"",
+                    "target": "textContent = \"Reloading...\""
+                },
+                {
+                    "source": "text: `Detected outdated plugins: ${Object.keys(outdated_smart_plugins).join(\", \")} in Smart Environment.`",
+                    "target": "text: `Detected outdated plugins: ${Object.keys(outdated_smart_plugins).join(\", \")} in Smart Environment.`"
+                },
+                {
+                    "source": "text: `Please update ${Object.keys(outdated_smart_plugins).join(\", \")} then restart Obsidian to load all Smart Plugins.`",
+                    "target": "text: `Please update ${Object.keys(outdated_smart_plugins).join(\", \")} then restart Obsidian to load all Smart Plugins.`"
+                },
+                {
+                    "source": "text: \"Check for Updates\"",
+                    "target": "text: \"Check for Updates\""
+                },
+                {
+                    "source": "text: \"Restart Obsidian to load this plugin into the Smart Environment.\"",
+                    "target": "text: \"Restart Obsidian to load this plugin into the Smart Environment.\""
+                },
+                {
+                    "source": "text: \"Smart Environment\"",
+                    "target": "text: \"Smart Environment\""
+                },
+                {
+                    "source": "text: \"Manage global settings in the dedicated Smart Environment settings tab.\"",
+                    "target": "text: \"Manage global settings in the dedicated Smart Environment settings tab.\""
+                },
+                {
+                    "source": "name: \"Show release notes\"",
+                    "target": "name: \"Show release notes\""
+                },
+                {
+                    "source": "name: \"Connection results type\"",
+                    "target": "name: \"Connection results type\""
+                },
+                {
+                    "source": "name: \"Results limit\"",
+                    "target": "name: \"Results limit\""
+                },
+                {
+                    "source": "description: \"Adjust the number of connections displayed in the connections view (default 20).\"",
+                    "target": "description: \"Adjust the number of connections displayed in the connections view (default 20).\""
+                },
+                {
+                    "source": "name: \"Connections sidebar location\"",
+                    "target": "name: \"Connections sidebar location\""
+                },
+                {
+                    "source": "description: \"Choose which sidebar opens when showing the Connections view.\"",
+                    "target": "description: \"Choose which sidebar opens when showing the Connections view.\""
+                },
+                {
+                    "source": "name: \"Right sidebar\"",
+                    "target": "name: \"Right sidebar\""
+                },
+                {
+                    "source": "name: \"Left sidebar\"",
+                    "target": "name: \"Left sidebar\""
+                },
+                {
+                    "source": "name: \"Show inline connections\"",
+                    "target": "name: \"Show inline connections\""
+                },
+                {
+                    "source": "description: \"Shows connections for each block within the note. Hover connections icon to see list of connections.\"",
+                    "target": "description: \"Shows connections for each block within the note. Hover connections icon to see list of connections.\""
+                },
+                {
+                    "source": "name: \"Show footer connections\"",
+                    "target": "name: \"Show footer connections\""
+                },
+                {
+                    "source": "description: \"Show connections at the bottom of each note.\"",
+                    "target": "description: \"Show connections at the bottom of each note.\""
+                },
+                {
+                    "source": "name: \"Exclude inlinks (backlinks)\"",
+                    "target": "name: \"Exclude inlinks (backlinks)\""
+                },
+                {
+                    "source": "description: \"Exclude notes that already link to the current note from the connections results.\"",
+                    "target": "description: \"Exclude notes that already link to the current note from the connections results.\""
+                },
+                {
+                    "source": "name: \"Exclude outlinks\"",
+                    "target": "name: \"Exclude outlinks\""
+                },
+                {
+                    "source": "description: \"Exclude notes that are already linked from within the current note from appearing in the connections results.\"",
+                    "target": "description: \"Exclude notes that are already linked from within the current note from appearing in the connections results.\""
+                },
+                {
+                    "source": "name: \"Include filter\"",
+                    "target": "name: \"Include filter\""
+                },
+                {
+                    "source": "name: \"Exclude filter\"",
+                    "target": "name: \"Exclude filter\""
+                },
+                {
+                    "source": "name: \"Frontmatter include filter\"",
+                    "target": "name: \"Frontmatter include filter\""
+                },
+                {
+                    "source": "description: \"Newline-delimited frontmatter matchers (ex. status or status:open). Case-insensitive key and value matching.\"",
+                    "target": "description: \"Newline-delimited frontmatter matchers (ex. status or status:open). Case-insensitive key and value matching.\""
+                },
+                {
+                    "source": "name: \"Frontmatter exclude filter\"",
+                    "target": "name: \"Frontmatter exclude filter\""
+                },
+                {
+                    "source": "name: \"Hide frontmatter blocks in results\"",
+                    "target": "name: \"Hide frontmatter blocks in results\""
+                },
+                {
+                    "source": "description: \"Show only sources in the connections results (no frontmatter blocks).\"",
+                    "target": "description: \"Show only sources in the connections results (no frontmatter blocks).\""
+                },
+                {
+                    "source": "text: \"Open in browser\"",
+                    "target": "text: \"Open in browser\""
+                },
+                {
+                    "source": "textContent = \"Unable to render graph. See console for details.\"",
+                    "target": "textContent = \"Unable to render graph. See console for details.\""
+                },
+                {
+                    "source": "name: \"Show full path\"",
+                    "target": "name: \"Show full path\""
+                },
+                {
+                    "source": "description: \"Turning on will include the folder path in the connections results.\"",
+                    "target": "description: \"Turning on will include the folder path in the connections results.\""
+                },
+                {
+                    "source": "name: \"Render markdown\"",
+                    "target": "name: \"Render markdown\""
+                },
+                {
+                    "source": "description: \"Turn off to prevent rendering markdown and display connection results as plain text.\"",
+                    "target": "description: \"Turn off to prevent rendering markdown and display connection results as plain text.\""
+                },
+                {
+                    "source": "name: \"Show graph\"",
+                    "target": "name: \"Show graph\""
+                },
+                {
+                    "source": "description: \"Show a graph visualization of the connections above the list.\"",
+                    "target": "description: \"Show a graph visualization of the connections above the list.\""
+                },
+                {
+                    "source": "text: \"Report a bug\"",
+                    "target": "text: \"Report a bug\""
+                },
+                {
+                    "source": "text: \"Close\"",
+                    "target": "text: \"Close\""
+                },
+                {
+                    "source": "textContent = \"Smart Lookup now has its own settings tab.\"",
+                    "target": "textContent = \"Smart Lookup now has its own settings tab.\""
+                },
+                {
+                    "source": "textContent = \"Open lookup settings\"",
+                    "target": "textContent = \"Open lookup settings\""
+                },
+                {
+                    "source": "textContent = \"Smart Lookup is moving to a dedicated plugin. Please install Smart Lookup to continue using lookup features and access Lookup settings.\"",
+                    "target": "textContent = \"Smart Lookup is moving to a dedicated plugin. Please install Smart Lookup to continue using lookup features and access Lookup settings.\""
+                },
+                {
+                    "source": "textContent = \"Install Smart Lookup\"",
+                    "target": "textContent = \"Install Smart Lookup\""
+                },
+                {
+                    "source": "name: \"sc-context-line sc-context-line--parent\"",
+                    "target": "name: \"sc-context-line sc-context-line--parent\""
+                },
+                {
+                    "source": "name: \"sc-context-line sc-context-line--focus\"",
+                    "target": "name: \"sc-context-line sc-context-line--focus\""
+                },
+                {
+                    "source": "text: \"Connections\"",
+                    "target": "text: \"Connections\""
+                },
+                {
+                    "source": "name: \"Connections lists\"",
+                    "target": "name: \"Connections lists\""
+                },
+                {
+                    "source": "text = \"Release Notes\"",
+                    "target": "text = \"Release Notes\""
+                },
+                {
+                    "source": "name = \"file-text\"",
+                    "target": "name = \"file-text\""
+                },
+                {
+                    "source": "text: \"Loading\\u2026\"",
+                    "target": "text: \"Loading\\u2026\""
+                },
+                {
+                    "source": "text: \"Entity not found: \"",
+                    "target": "text: \"Entity not found: \""
+                },
+                {
+                    "source": "text: \"Smart Environment / Connections loading\\u2026\"",
+                    "target": "text: \"Smart Environment / Connections loading\\u2026\""
+                },
+                {
+                    "source": "text: \"Retry\"",
+                    "target": "text: \"Retry\""
+                },
+                {
+                    "source": "name: \"smart-connections\"",
+                    "target": "name: \"smart-connections\""
+                },
+                {
+                    "source": "description: \"Smart Connections: Open connections view\"",
+                    "target": "description: \"Smart Connections: Open connections view\""
+                },
+                {
+                    "source": "name: \"smart-dice\"",
+                    "target": "name: \"smart-dice\""
+                },
+                {
+                    "source": "description: \"Smart Connections: Open random connection\"",
+                    "target": "description: \"Smart Connections: Open random connection\""
+                },
+                {
+                    "source": "name: \"smart-lookup\"",
+                    "target": "name: \"smart-lookup\""
+                },
+                {
+                    "source": "description: \"Smart Lookup: Open lookup view\"",
+                    "target": "description: \"Smart Lookup: Open lookup view\""
+                },
+                {
+                    "source": "name: \"Open: Random note from connections\"",
+                    "target": "name: \"Open: Random note from connections\""
+                },
+                {
+                    "source": "name: \"Show: Getting started slideshow\"",
+                    "target": "name: \"Show: Getting started slideshow\""
+                },
+                {
+                    "source": "name: \"Insert: Connections codeblock\"",
+                    "target": "name: \"Insert: Connections codeblock\""
+                }
+            ]
+        }
+    }
+}
