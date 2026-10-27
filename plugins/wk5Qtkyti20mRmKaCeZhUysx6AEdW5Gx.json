@@ -1,0 +1,408 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "better-export-pdf",
+        "version": "2.0.0",
+        "title": "Better Export PDF",
+        "description": "Better Export PDF 汉化与微调",
+        "language": "zh-cn",
+        "supportedVersions": "1.11.0",
+        "author": "Machine丶YU"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "alt",
+                    "source": "Buy me a coffee",
+                    "target": "请我喝杯咖啡"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Custom",
+                    "target": "自定义"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Small",
+                    "target": "窄页边距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Default",
+                    "target": "默认"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "None",
+                    "target": "无"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Not select",
+                    "target": "未选择"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "markdown-preview-view markdown-rendered",
+                    "target": "Markdown预览视图已呈现Markdown渲染结果"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Last ten effects were: ",
+                    "target": "最后十次操作影响： "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "FLATE:",
+                    "target": "FLATE 压缩："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "output pdf:",
+                    "target": "输出 PDF："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "output:",
+                    "target": "输出路径："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Export",
+                    "target": "导出"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Refresh",
+                    "target": "刷新预览"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Debug",
+                    "target": "调试"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The unit is millimeters.",
+                    "target": "单位为毫米。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether to print background graphics",
+                    "target": "是否打印背景图形"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether or not to generate a tagged (accessible) PDF. Defaults to false. As this property is experimental, the generated PDF may not adhere fully to PDF/UA and WCAG standards.",
+                    "target": "是否生成带标签的（无障碍）PDF。默认为 false。由于此属性处于实验阶段，生成的 PDF 可能无法完全符合 PDF/UA 和 WCAG 标准。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Add frontMatter(title, author, keywords, subject creator, etc) to pdf metadata",
+                    "target": "将 FrontMatter 信息（标题、作者、关键词、主题、创建者等）添加到 PDF 元数据中"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Add timestamp to output file name",
+                    "target": "在输出文件名中添加时间戳"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Select the css snippet that are not enabled",
+                    "target": "选择尚未启用的 CSS 代码片段"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Limit the number of concurrent renders",
+                    "target": "限制并发渲染的数量"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "This is useful for troubleshooting.",
+                    "target": "这对故障排查非常有用。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Generate tagged PDF",
+                    "target": "生成带标签的 PDF"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Advanced",
+                    "target": "高级"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Debug",
+                    "target": "调试"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "margin top",
+                    "target": "上边距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "margin bottom",
+                    "target": "下边距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "margin left",
+                    "target": "左边距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "margin right",
+                    "target": "右边距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Export to PDF",
+                    "target": "导出为 PDF"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Export each file to PDF",
+                    "target": "将每个文件分别导出为 PDF"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Generate TOC.md file",
+                    "target": "生成目录文件 (TOC.md)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Include file name as title",
+                    "target": "包含文件名作为标题"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Display header",
+                    "target": "显示页眉"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Display footer",
+                    "target": "显示页脚"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Open the exported file after exporting.",
+                    "target": "导出后自动打开文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "wait timeout",
+                    "target": "等待超时"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "%c[svelte] lifecycle_double_unmount\n%cTried to unmount a component that was not mounted\nhttps://svelte.dev/e/lifecycle_double_unmount",
+                    "target": "%c[svelte] lifecycle_double_unmount\n%c尝试卸载一个未挂载的组件\nhttps://svelte.dev/e/lifecycle_double_unmount"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "All Files",
+                    "target": "所有文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Support the continued development of this plugin.",
+                    "target": "支持此插件的后续开发。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Export to PDF",
+                    "target": "导出为 PDF"
+                },
+                {
+                    "type": "VariableDeclarator",
+                    "name": "title",
+                    "source": "Export to PDF...",
+                    "target": "导出为 PDF..."
+                }
+            ],
+            "regex": [
+                {
+                    "source": "log(\"FLATE:\", code);\n      }\n      var codeLen = code >> 16;\n      var codeVal = code & 65535;\n      if (codeLen < 1 || codeSize < codeLen) {\n        throw new Error(\"Bad encoding in flate stream\")",
+                    "target": "log(\"FLATE 压缩:\", code);\n      }\n      var codeLen = code >> 16;\n      var codeVal = code & 65535;\n      if (codeLen < 1 || codeSize < codeLen) {\n        throw new Error(\"Flate 流编码错误\")"
+                },
+                {
+                    "source": "log(`md render time:${(/* @__PURE__ */ new Date()).getTime() - startTime}ms`)",
+                    "target": "log(`Markdown 渲染耗时:${(/* @__PURE__ */ new Date()).getTime() - startTime}ms`)"
+                },
+                {
+                    "source": "setText(\"Export to PDF\")",
+                    "target": "setText(\"导出为 PDF\")"
+                },
+                {
+                    "source": "setTooltip(\"Include file name as title\")",
+                    "target": "setTooltip(\"包含文件名作为标题\")"
+                },
+                {
+                    "source": "setDesc(\"The unit is millimeters.\")",
+                    "target": "setDesc(\"单位为毫米。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"margin top\")",
+                    "target": "setPlaceholder(\"上边距\")"
+                },
+                {
+                    "source": "setPlaceholder(\"margin bottom\")",
+                    "target": "setPlaceholder(\"下边距\")"
+                },
+                {
+                    "source": "setPlaceholder(\"margin left\")",
+                    "target": "setPlaceholder(\"左边距\")"
+                },
+                {
+                    "source": "setPlaceholder(\"margin right\")",
+                    "target": "setPlaceholder(\"右边距\")"
+                },
+                {
+                    "source": "setTooltip(\"Display header\")",
+                    "target": "setTooltip(\"显示页眉\")"
+                },
+                {
+                    "source": "setTooltip(\"Display footer\")",
+                    "target": "setTooltip(\"显示页脚\")"
+                },
+                {
+                    "source": "setTooltip(\"Open the exported file after exporting.\")",
+                    "target": "setTooltip(\"导出后立即打开 PDF 文件。\")"
+                },
+                {
+                    "source": "setDesc(\"Whether to print background graphics\")",
+                    "target": "setDesc(\"是否打印背景图形\")"
+                },
+                {
+                    "source": "setName(\"Generate tagged PDF\")",
+                    "target": "setName(\"生成带标签的 PDF\")"
+                },
+                {
+                    "source": "setDesc(\n      \"Whether or not to generate a tagged (accessible) PDF. Defaults to false. As this property is experimental, the generated PDF may not adhere fully to PDF/UA and WCAG standards.\"\n    )",
+                    "target": "setDesc(\n      \"是否生成带标签的（无障碍）PDF。默认为 false。由于此属性处于实验阶段，生成的 PDF 可能无法完全符合 PDF/UA 和 WCAG 标准。\"\n    )"
+                },
+                {
+                    "source": "setDesc(\"Add frontMatter(title, author, keywords, subject creator, etc) to pdf metadata\")",
+                    "target": "setDesc(\"将 FrontMatter 信息（标题、作者、关键词、主题、创建者等）添加到 PDF 元数据中\")"
+                },
+                {
+                    "source": "setDesc(\"Add timestamp to output file name\")",
+                    "target": "setDesc(\"在输出文件名中添加时间戳\")"
+                },
+                {
+                    "source": "setDesc(\"Select the css snippet that are not enabled\")",
+                    "target": "setDesc(\"选择尚未启用的 CSS 代码片段\")"
+                },
+                {
+                    "source": "setDesc(\"Limit the number of concurrent renders\")",
+                    "target": "setDesc(\"限制并发渲染的数量\")"
+                },
+                {
+                    "source": "setDesc(\"This is useful for troubleshooting.\")",
+                    "target": "setDesc(\"此选项对排查故障非常有用。\")"
+                },
+                {
+                    "source": "setTitle(\"Export each file to PDF\")",
+                    "target": "setTitle(\"将每个文件分别导出为 PDF\")"
+                },
+                {
+                    "source": "setTitle(\"Generate TOC.md file\")",
+                    "target": "setTitle(\"生成目录文件 (TOC.md)\")"
+                },
+                {
+                    "source": "name = \"\"",
+                    "target": "name = \"\""
+                },
+                {
+                    "source": "name: \"' + name + '\"",
+                    "target": "name: \"' + 名称 + '\""
+                },
+                {
+                    "source": "name=\" + name + \"",
+                    "target": "name=\" + 名称 + \""
+                },
+                {
+                    "source": "name: \"All Files\"",
+                    "target": "name: \"所有文件\""
+                },
+                {
+                    "source": "name: \"PDF\"",
+                    "target": "name: \"PDF\""
+                },
+                {
+                    "source": "name = \"Svelte error\"",
+                    "target": "name = \"Svelte 错误\""
+                },
+                {
+                    "source": "textContent = \"\"",
+                    "target": "textContent = \"\""
+                },
+                {
+                    "source": "name: \"loader\"",
+                    "target": "name: \"加载器\""
+                },
+                {
+                    "source": "name: \"square-check-big\"",
+                    "target": "name: \"确认方框\""
+                },
+                {
+                    "source": "text: `${i + 1}-${doc.title}`",
+                    "target": "text: `${i + 1}-${doc.title}`"
+                },
+                {
+                    "source": "text: \"Support the continued development of this plugin.\"",
+                    "target": "text: \"支持此插件的后续开发。\""
+                },
+                {
+                    "source": "text: \"xxxxx\"",
+                    "target": "text: \"xxxxx\""
+                }
+            ]
+        }
+    }
+}

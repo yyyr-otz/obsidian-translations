@@ -1,0 +1,316 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "calendar",
+        "version": "2.0.0",
+        "title": "Calendar",
+        "description": "Calendar 本地化与微调",
+        "language": "zh-cn",
+        "supportedVersions": "1.5.10",
+        "author": "Machine丶YU"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No custom daily note settings found!",
+                    "target": "未找到自定义日记设置！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No custom weekly note settings found!",
+                    "target": "未找到自定义周记设置！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "info",
+                    "source": "No custom monthly note settings found!",
+                    "target": "未找到自定义月记设置！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[Calendar] Failed to find daily notes folder",
+                    "target": "[Calendar] 未能找到日记文件夹"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[Calendar] Failed to find weekly notes folder",
+                    "target": "[Calendar] 未能找到周记文件夹"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "How many words should be represented by a single dot?",
+                    "target": "一个点代表多少个单词？"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Show a confirmation modal before creating a new note",
+                    "target": "创建新笔记前显示确认对话框"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Enable this to add a column with the week number",
+                    "target": "启用此项以添加周数统计列"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "For more syntax help, refer to format reference",
+                    "target": "更多语法帮助，请参考格式说明"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "New weekly notes will be placed here",
+                    "target": "新周记将保存至此目录"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Set this if you want to use a locale different from the default",
+                    "target": "若需使用非默认的地区语言，请在此设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Words per dot",
+                    "target": "每点代表单词数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Start week on:",
+                    "target": "每周起始日："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Confirm before creating new note",
+                    "target": "创建新笔记前确认"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Show week number",
+                    "target": "显示周数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Weekly note format",
+                    "target": "周记格式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Weekly note folder",
+                    "target": "周记文件夹"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Override locale:",
+                    "target": "覆盖语言地区："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Delete",
+                    "target": "删除"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Unable to create new file.",
+                    "target": "无法创建新文件。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open view",
+                    "target": "打开视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open Weekly Note",
+                    "target": "打开周记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Reveal active note",
+                    "target": "在日历中定位当前笔记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "⚠️ Daily Notes plugin not enabled",
+                    "target": "⚠️ 日记插件未启用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "The calendar is best used in conjunction with either the Daily Notes plugin or the Periodic Notes plugin (available in the Community Plugins catalog).",
+                    "target": "日历插件配合日记插件或 Periodic Notes 插件（可在社区插件市场下载）使用效果最佳。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "General Settings",
+                    "target": "常规设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Weekly Note Settings",
+                    "target": "周记设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Note: Weekly Note settings are moving. You are encouraged to install the 'Periodic Notes' plugin to keep the functionality in the future.",
+                    "target": "注意：周记设置功能正在迁移。建议安装 Periodic Notes 插件以确保未来功能可用。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Advanced Settings",
+                    "target": "高级设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Never mind",
+                    "target": "算了"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "New Daily Note",
+                    "target": "新建日记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "New Weekly Note",
+                    "target": "新建周记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "Previous Month",
+                    "target": "上个月"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "Next Month",
+                    "target": "下个月"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setName(\"Confirm before creating new note\")",
+                    "target": "setName(\"创建新笔记前确认\")"
+                },
+                {
+                    "source": "setDesc(\"Show a confirmation modal before creating a new note\")",
+                    "target": "setDesc(\"创建新笔记前显示确认对话框\")"
+                },
+                {
+                    "source": "setName(\"Show week number\")",
+                    "target": "setName(\"显示周数\")"
+                },
+                {
+                    "source": "setDesc(\"Enable this to add a column with the week number\")",
+                    "target": "setDesc(\"启用此项以添加周数统计列\")"
+                },
+                {
+                    "source": "setName(\"Weekly note format\")",
+                    "target": "setName(\"周记格式\")"
+                },
+                {
+                    "source": "setDesc(\"For more syntax help, refer to format reference\")",
+                    "target": "setDesc(\"更多语法帮助，请参考格式说明\")"
+                },
+                {
+                    "source": "setName(\"Weekly note folder\")",
+                    "target": "setName(\"周记文件夹\")"
+                },
+                {
+                    "source": "setDesc(\"New weekly notes will be placed here\")",
+                    "target": "setDesc(\"新周记将保存至此目录\")"
+                },
+                {
+                    "source": "setName(\"Override locale:\")",
+                    "target": "setName(\"覆盖语言地区：\")"
+                },
+                {
+                    "source": "setDesc(\"Set this if you want to use a locale different from the default\")",
+                    "target": "setDesc(\"若需使用非默认的地区语言，请在此设置\")"
+                },
+                {
+                    "source": "text: \"⚠️ Daily Notes plugin not enabled\"",
+                    "target": "text: \"⚠️ 日记插件未启用\""
+                },
+                {
+                    "source": "text: \"The calendar is best used in conjunction with either the Daily Notes plugin or the Periodic Notes plugin (available in the Community Plugins catalog).\"",
+                    "target": "text: \"日历插件配合日记插件或 Periodic Notes 插件（可在社区插件市场下载）使用效果最佳。\""
+                },
+                {
+                    "source": "text: \"General Settings\"",
+                    "target": "text: \"常规设置\""
+                },
+                {
+                    "source": "text: \"Weekly Note Settings\"",
+                    "target": "text: \"周记设置\""
+                },
+                {
+                    "source": "text: \"Note: Weekly Note settings are moving. You are encouraged to install the 'Periodic Notes' plugin to keep the functionality in the future.\"",
+                    "target": "text: \"注意：周记设置功能正在迁移。建议安装 Periodic Notes 插件以确保未来功能可用。\""
+                },
+                {
+                    "source": "text: \"Advanced Settings\"",
+                    "target": "text: \"高级设置\""
+                },
+                {
+                    "source": "text: \"Never mind\"",
+                    "target": "text: \"算了\""
+                },
+                {
+                    "source": "text: `File ${filename} does not exist. Would you like to create it?`",
+                    "target": "text: `文件 ${filename} 不存在。是否创建？`"
+                },
+                {
+                    "source": "textContent = `${/*todayDisplayStr*/ ctx[4]}`",
+                    "target": "textContent = `${/*todayDisplayStr*/ ctx[4]}`"
+                },
+                {
+                    "source": "textContent = \"W\"",
+                    "target": "textContent = \"周\""
+                },
+                {
+                    "source": "name: \"Open view\"",
+                    "target": "name: \"打开视图\""
+                },
+                {
+                    "source": "name: \"Open Weekly Note\"",
+                    "target": "name: \"打开周记\""
+                },
+                {
+                    "source": "name: \"Reveal active note\"",
+                    "target": "name: \"在日历中定位当前笔记\""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "note-toolbar",
+        "version": "1.0.0",
+        "title": "Note Toolbar",
+        "description": "Note Toolbar Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.30.09",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [],
+            "regex": [
+                {
+                    "source": "\"option-default\":\"Default toolbar\"",
+                    "target": "\"option-default\":\"默认工具栏\""
+                },
+                {
+                    "source": "\"option-default-description\":\"Show this toolbar on all notes, unless one of the rules below is satisfied.\"",
+                    "target": "\"option-default-description\":\"在所有笔记显示此工具栏，除非满足以下规则。\""
+                },
+                {
+                    "source": "\"option-webviewer\":\"Web viewer\"",
+                    "target": "\"option-webviewer\":\"网页查看器\""
+                },
+                {
+                    "source": "\"option-webviewer-placeholder\":\"Select toolbar...\"",
+                    "target": "\"option-webviewer-placeholder\":\"选择工具栏...\""
+                },
+                {
+                    "source": "\"option-webviewer-description\":\"Display a toolbar in the web viewer.\"",
+                    "target": "\"option-webviewer-description\":\"在网页查看器中显示工具栏。\""
+                },
+                {
+                    "source": "\"name-open-help\":\"Open Help\"",
+                    "target": "\"name-open-help\":\"打开帮助\""
+                },
+                {
+                    "source": "\"option-hotkey-description\":\"Open Obsidian's hotkey settings.\"",
+                    "target": "\"option-hotkey-description\":\"打开 Obsidian 的快捷键设置。\""
+                },
+                {
+                    "source": "\"option-position\":\"Where to open toolbar\"",
+                    "target": "\"option-position\":\"在哪里打开工具栏\""
+                },
+                {
+                    "source": "\"option-position-description\":\"By default the toolbar opens as a floating toolbar at the cursor position.\"",
+                    "target": "\"option-position-description\":\"默认情况下，工具栏会在光标位置以浮动工具栏的形式打开。\""
+                },
+                {
+                    "source": "\"Set hotkey\"",
+                    "target": "\"设置热键\""
+                },
+                {
+                    "source": "\"option-floating\":\"Floating toolbar\"",
+                    "target": "\"option-floating\":\"浮动工具栏\""
+                },
+                {
+                    "source": "\"option-menu\":\"Menu\"",
+                    "target": "\"option-menu\":\"菜单\""
+                },
+                {
+                    "source": "\"option-quicktools\":\"Quick Tools window\"",
+                    "target": "\"option-quicktools\":\"快速工具窗口\""
+                }
+            ]
+        }
+    }
+}

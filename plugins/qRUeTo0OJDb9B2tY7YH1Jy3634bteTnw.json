@@ -1,0 +1,2162 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-excalidraw-plugin",
+        "version": "2.0.0",
+        "title": "Excalidraw",
+        "description": "Excalidraw 汉化与微调",
+        "language": "zh-cn",
+        "supportedVersions": "2.22.0",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "Read the Perfect Freehand documentation following <a href=\"https://github.com/steveruizok/perfect-freehand#documentation\" target=\"_blank\">this link</a>.",
+                    "target": "请通过 <a href=\"https://github.com/steveruizok/perfect-freehand#documentation\" target=\"_blank\">此链接</a> 阅读 Perfect Freehand 文档。"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerText",
+                    "source": "No out of date files found.",
+                    "target": "未发现过期文件。"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerText",
+                    "source": "Select files to open.",
+                    "target": "选择要打开的文件。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Mindmap Thin-Thick-Thin",
+                    "target": "思维导图 细-粗-细"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Mindmap Thick-Thin",
+                    "target": "思维导图 粗-细"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Marker with Outline",
+                    "target": "带轮廓的马克笔"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Fountain pen",
+                    "target": "钢笔"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Fine tip pen",
+                    "target": "细尖笔"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Excalidraw Default",
+                    "target": "Excalidraw 默认"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Dots (⚠ VERY SLOW performance on large objects!)",
+                    "target": "点状 (⚠ 处理大型对象时性能非常慢！)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Yes for mouse, No for pen",
+                    "target": "鼠标开启，手写笔关闭"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Practically never (every 15 minutes)",
+                    "target": "几乎从不 (每 15 分钟)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Rare (every 5 minutes)",
+                    "target": "罕见 (每 5 分钟)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Moderate (every 60 seconds)",
+                    "target": "适中 (每 60 秒)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Frequent (every 30 seconds)",
+                    "target": "频繁 (每 30 秒)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Very frequent (every 15 seconds)",
+                    "target": "非常频繁 (每 15 秒)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Practically never (every 5 minutes)",
+                    "target": "几乎从不 (每 5 分钟)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Rare (every 1 minute)",
+                    "target": "罕见 (每 1 分钟)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Moderate (every 30 seconds)",
+                    "target": "适中 (每 30 秒)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Frequent (every 20 seconds)",
+                    "target": "频繁 (每 20 秒)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Very frequent (every 10 seconds)",
+                    "target": "非常频繁 (每 10 秒)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Gray, match tone",
+                    "target": "灰色，匹配色调"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Match color",
+                    "target": "匹配颜色"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Dynamic Styling OFF",
+                    "target": "动态样式关闭"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Usually normal, but view-mode on Phone",
+                    "target": "通常正常，但在手机上使用查看模式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Always in view-mode",
+                    "target": "始终处于查看模式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Always in zen-mode",
+                    "target": "始终处于禅模式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Always in normal-mode",
+                    "target": "始终处于正常模式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "On Obsidian Mobile",
+                    "target": "在 Obsidian 移动端"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "SVG Image",
+                    "target": "SVG 图像"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Native SVG",
+                    "target": "原生 SVG"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "PNG Image",
+                    "target": "PNG 图像"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "excalidraw-search document-search-container",
+                    "target": "excalidraw-search document-search-container"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "search-input-container document-search-input",
+                    "target": "search-input-container document-search-input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to export to PDF: ",
+                    "target": "导出为 PDF 失败： "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to copy SVG to clipboard: ",
+                    "target": "复制 SVG 到剪贴板失败： "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error starting edit:",
+                    "target": "开始编辑时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error stopping edit:",
+                    "target": "停止编辑时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "There were errors while parsing the given SVG: ",
+                    "target": "解析指定的 SVG 时出错： "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error loading font:",
+                    "target": "加载字体出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error adding ObserverManager",
+                    "target": "添加 ObserverManager 出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error loading the Excalidraw package",
+                    "target": "加载 Excalidraw 包出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error registering commands",
+                    "target": "注册命令出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error registering event listeners",
+                    "target": "注册事件监听器出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error loading plugin settings",
+                    "target": "加载插件设置出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error initializing Excalidraw Automate",
+                    "target": "初始化 Excalidraw Automate 出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error adding markdown post processor",
+                    "target": "添加 Markdown 后置处理器出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error initializing compression worker",
+                    "target": "初始化压缩工作线程出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error initializing Excalidraw config",
+                    "target": "初始化 Excalidraw 配置出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error registering monkey patches",
+                    "target": "注册猴子补丁 (monkey patches) 出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error initializing styles manager",
+                    "target": "初始化样式管理器出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error initializing script engine",
+                    "target": "初始化脚本引擎出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error initializing fonts",
+                    "target": "初始化字体出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error initializing image cache",
+                    "target": "初始化图像缓存出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error switching views to Excalidraw",
+                    "target": "切换视图到 Excalidraw 出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error opening release notes",
+                    "target": "打开版本更新日志出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error running startup script",
+                    "target": "运行启动脚本出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error setting up editor handler",
+                    "target": "设置编辑器处理程序出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error registering script install-codeblock processor",
+                    "target": "注册脚本安装代码块处理器出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error registering editor suggester",
+                    "target": "注册编辑器建议器 (suggester) 出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error setting up property types",
+                    "target": "设置属性类型出错"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "patching mobile view",
+                    "target": "正在修补移动端视图"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Initialized Excalidraw Image Cache",
+                    "target": "Excalidraw 图像缓存已初始化"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "No view loaded",
+                    "target": "未加载视图"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Adding CMAP format 12 (needed!)",
+                    "target": "正在添加 CMAP 格式 12 (必需！)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "ISECT[], ",
+                    "target": "ISECT[], "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "returning from",
+                    "target": "返回自"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "(d =",
+                    "target": "(d ="
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "---EXEC FPGM---",
+                    "target": "---执行 FPGM---"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "---EXEC PREP---",
+                    "target": "---执行 PREP---"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Note: further hinting errors are silenced",
+                    "target": "注意：后续的提示错误将被隐藏"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "---EXEC COMPOSITE---",
+                    "target": "---执行复合 (COMPOSITE)---"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "---EXEC GLYPH---",
+                    "target": "---执行字形 (GLYPH)---"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "PROCESSING GLYPH",
+                    "target": "正在处理字形"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "FINISHED GLYPH",
+                    "target": "字形处理完成"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Use Canvas Current",
+                    "target": "使用画布当前设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Import PDF",
+                    "target": "导入 PDF"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Select type of pen",
+                    "target": "选择画笔类型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Background has color or is transparent",
+                    "target": "背景拥有颜色或为透明"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Line sloppiness of the shape fill pattern",
+                    "target": "形状填充图案的线条粗糙度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "If the stroke has an outline, this will mean the stroke color is the outline color, and the background color is the pen stroke's fill color. If the pen does not have an outline then the pen color is the stroke color. The Fill Style setting applies to the fill style of the enclosed shape, not of the line itself. The line can only have solid fill.",
+                    "target": "如果笔触有轮廓，则意味着笔触颜色即为轮廓颜色，而背景颜色即为笔触的填充颜色。如果画笔没有轮廓，则画笔颜色即为笔触颜色。“填充样式”设置适用于封闭形状的填充样式，而非线条本身。线条只能使用实心填充。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether to simulate pressure based on velocity.",
+                    "target": "是否根据速度模拟压力。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Whether to draw a cap",
+                    "target": "是否绘制端点"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The distance to taper. If set to true, the taper will be the total length of the stroke.",
+                    "target": "渐变距离。如果设为 true，渐变将贯穿整个笔触长度。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "e.g.: 1,3-5,7,9-10",
+                    "target": "例如：1,3-5,7,9-10"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Select a document first",
+                    "target": "请先选择一个文档"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Pen type",
+                    "target": "画笔类型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Select stroke color",
+                    "target": "选择笔触颜色"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Background color",
+                    "target": "背景颜色"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Fill Style",
+                    "target": "填充样式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Highlighter pen?",
+                    "target": "荧光笔模式？"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Pressure sensitive pen?",
+                    "target": "压感笔模式？"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Easing function",
+                    "target": "缓动函数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Simulate Pressure",
+                    "target": "模拟压力"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Cap Start",
+                    "target": "起始端点"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Cap End",
+                    "target": "末尾端点"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Lock pages on canvas after import",
+                    "target": "导入后锁定画布上的页面"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Import direction",
+                    "target": "导入方向"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Number of columns",
+                    "target": "列数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Number of rows",
+                    "target": "行数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Size of gap between pages",
+                    "target": "页间距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Imported page size",
+                    "target": "导入的页面尺寸"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: Excalidraw",
+                    "target": "例如：Excalidraw"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: Excalidraw/Cropped",
+                    "target": "例如：Excalidraw/Cropped"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: Excalidraw/Annotations",
+                    "target": "例如：Excalidraw/Annotations"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: Excalidraw/Scripts",
+                    "target": "例如：Excalidraw/Scripts"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: Drawing ",
+                    "target": "例如：绘图 "
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "YYYY-MM-DD HH.mm.ss",
+                    "target": "YYYY-MM-DD HH.mm.ss"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: cropped_",
+                    "target": "例如：cropped_"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: _cropped",
+                    "target": "例如：_cropped"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: annotated_",
+                    "target": "例如：annotated_"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: _annotated",
+                    "target": "例如：_annotated"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: 4096",
+                    "target": "例如：4096"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: https://api.openai.com/v1/chat/completions",
+                    "target": "例如：https://api.openai.com/v1/chat/completions"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Enter a number",
+                    "target": "输入数字"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: 400",
+                    "target": "例如：400"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Enter a number e.g. 500",
+                    "target": "输入数字，例如 500"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Enter a number e.g. 800",
+                    "target": "输入数字，例如 800"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "CSS Color-name|RGB-HEX",
+                    "target": "CSS 颜色名|RGB-HEX"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "filename of css file in vault",
+                    "target": "库中 CSS 文件的文件名"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: Excalidraw/FontAssets",
+                    "target": "例如：Excalidraw/FontAssets"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "e.g.: preamble.sty",
+                    "target": "例如：preamble.sty"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Pen Settings",
+                    "target": "画笔设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Import PDF",
+                    "target": "导入 PDF"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "No match",
+                    "target": "无匹配"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Congratulations, glorious knight!",
+                    "target": "恭喜你，荣耀的骑士！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Out of Date SVG Files",
+                    "target": "过期的 SVG 文件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "TTD loadChats failed",
+                    "target": "TTD 加载聊天失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "TTD saveChats failed",
+                    "target": "TTD 保存聊天失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "PolyBool: Warning: Zero-length segment detected; your epsilon is probably too small or too large",
+                    "target": "PolyBool：警告：检测到长度为零的分段；您的 epsilon 可能过小或过大"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Font.toBuffer is deprecated. Use Font.toArrayBuffer instead.",
+                    "target": "Font.toBuffer 已弃用。请改用 Font.toArrayBuffer。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Font file could not be downloaded. Try using a different browser.",
+                    "target": "字体文件无法下载。请尝试使用其他浏览器。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Only the first kern subtable is supported.",
+                    "target": "仅支持第一个字距调整 (kern) 子表。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Excalidraw Image Cache is Initialized - You may now retry opening your damaged drawing.",
+                    "target": "Excalidraw 图像缓存已初始化 - 现在您可以重试打开受损的绘图。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Mermaid images are only supported in Obsidian 1.4.14 and above. Please update Obsidian to see the mermaid images in this drawing. Obsidian mobile 1.4.14 currently only avaiable to Obsidian insiders",
+                    "target": "Mermaid 图像仅在 Obsidian 1.4.14 及以上版本中受支持。请更新 Obsidian 以在此绘图中查看 Mermaid 图像。Obsidian 移动端 1.4.14 目前仅对内测成员 (Insiders) 开放。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error opening the Excalidraw Script Store page. Please double check that you can access the website. I've logged the link in developer console (press CTRL+SHIFT+i)",
+                    "target": "打开 Excalidraw 脚本商店页面时出错。请仔细检查您是否可以访问该网站。我已经将链接记录在开发者控制台中 (按 CTRL+SHIFT+i 查看)。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Could not open ScriptEngine repository",
+                    "target": "无法打开脚本引擎仓库"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Cannot pin this action",
+                    "target": "无法固定此操作"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Taskbone OCR is not enabled. Please go to plugins settings to enable it.",
+                    "target": "Taskbone OCR 未启用。请前往插件设置开启它。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Sorry, cannot edit rotated markdown documents",
+                    "target": "抱歉，无法编辑旋转过的 Markdown 文档"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "OpenAI API Token is not set. Please set it in plugin settings.",
+                    "target": "未设置 OpenAI API 令牌。请在插件设置中设置它。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "on drop hook error. See console log for details",
+                    "target": "放置 (on drop) 钩子出错。详情请见控制台日志"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Save successful",
+                    "target": "保存成功"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Unknown error, save is taking too long",
+                    "target": "未知错误，保存耗时过长"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Unexpected error",
+                    "target": "意外错误"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Image not found",
+                    "target": "未找到图像"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Failed. Could not download image!",
+                    "target": "失败。无法下载图像！"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Image successfully converted to local file",
+                    "target": "图像已成功转换为本地文件"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Multiple frames are not supported for image cropping. Discarding frames from mask.",
+                    "target": "图像裁剪不支持多帧。将从遮罩中丢弃这些帧。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No image found. Cannot crop.",
+                    "target": "未找到图像。无法裁剪。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "File not found. NewExcalidraw Drawing is taking too long to create. Please try again.",
+                    "target": "文件未找到。新建 Excalidraw 绘图耗时过长。请重试。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error adding ObserverManager",
+                    "target": "添加 ObserverManager 出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error loading the Excalidraw package. Some features may not work correctly.",
+                    "target": "加载 Excalidraw 包出错。某些功能可能无法正常运作。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "The drawing has already been processed, you will find the result in the frontmatter in markdown view mode. If you ran the command from the Obsidian Panel in Excalidraw then you can CTRL(CMD)+click the command to force the rescaning.",
+                    "target": "该绘图已处理，您可以在 Markdown 视图模式的 Frontmatter 中找到结果。如果您是从 Excalidraw 的 Obsidian 面板运行的命令，可以按住 CTRL(CMD) 并点击命令来强制重新扫描。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Something went wrong while processing your request. Please check developer console for more information",
+                    "target": "处理您的请求时出现问题。请查看开发者控制台以获取更多信息"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error registering commands",
+                    "target": "注册命令出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "The compressed string is corrupted. Unable to decompress data.",
+                    "target": "压缩字符串已损坏。无法解压数据。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Please try again.",
+                    "target": "请重试。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Select a single back-of-the-note card and try again",
+                    "target": "请选择单张卡片背面重试"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error loading plugin settings",
+                    "target": "加载插件设置出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error initializing Excalidraw Automate",
+                    "target": "初始化 Excalidraw Automate 出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error adding markdown post processor",
+                    "target": "添加 Markdown 后置处理器出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error initializing compression worker",
+                    "target": "初始化压缩工作线程出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error initializing Excalidraw config",
+                    "target": "初始化 Excalidraw 配置出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error registering monkey patches",
+                    "target": "注册猴子补丁 (monkey patches) 出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error initializing styles manager",
+                    "target": "初始化样式管理器出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error initializing script engine",
+                    "target": "初始化脚本引擎出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error initializing fonts",
+                    "target": "初始化字体出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error initializing image cache",
+                    "target": "初始化图像缓存出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error switching views to Excalidraw",
+                    "target": "切换视图到 Excalidraw 出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error opening release notes",
+                    "target": "打开版本更新日志出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error running startup script",
+                    "target": "运行启动脚本出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error setting up editor handler",
+                    "target": "设置编辑器处理程序出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error registering script install-codeblock processor",
+                    "target": "注册脚本安装代码块处理器出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error registering editor suggester",
+                    "target": "注册编辑器建议器 (suggester) 出错"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error setting up property types",
+                    "target": "设置属性类型出错"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "aria-label",
+                    "source": "Close sidepanel tab",
+                    "target": "关闭侧边面板标签页"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "caption",
+                    "source": "Clipped Frame",
+                    "target": "裁剪框"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "content",
+                    "source": "The user will provide you with a text prompt. Your task is to generate a mermaid diagram based on the prompt. Use the graph, sequenceDiagram, flowchart or classDiagram types based on what best fits the request. Return a single message containing only the mermaid diagram in a codeblock. Avoid the use of `()` parenthesis in the mermaid script.",
+                    "target": "用户将提供一段文本提示。您的任务是根据该提示生成 Mermaid 图表。根据最适合请求的类型，使用 graph、sequenceDiagram、flowchart 或 classDiagram。返回的消息中应仅包含代码块中的 Mermaid 图表。避免在 Mermaid 脚本中使用 `()` 圆括号。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "content",
+                    "source": "Return a single message containing only the mermaid diagram in a codeblock.",
+                    "target": "返回的消息中应仅包含代码块中的 Mermaid 图表。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Utility function that provides help about ExcalidrawAutomate functions and properties. I recommend calling this function from Developer Console to print out help to the console.",
+                    "target": "提供有关 ExcalidrawAutomate 函数和属性帮助的工具函数。建议从开发者控制台调用此函数以打印帮助信息。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Returns true if the file is an Excalidraw Mask file. If file is not provided, the function will use ea.targetView.file",
+                    "target": "如果文件是 Excalidraw 遮罩 (Mask) 文件则返回 true。如果未提供文件，该函数将使用 ea.targetView.file"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The ExcalidrawPlugin object",
+                    "target": "ExcalidrawPlugin 对象"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "A modified version of the Obsidian.Modal class that allows the modal to be dragged around the screen and that does not dim the background.",
+                    "target": "Obsidian.Modal 类的修改版本，允许在屏幕上拖动模态框，且不会使背景变暗。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "the images files including DataURL, indexed by fileId",
+                    "target": "包含 DataURL 的图像文件，由 fileId 索引"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Rotation of the object in radian",
+                    "target": "以弧度表示的对象旋转角度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "'hachure' | 'cross-hatch' | 'solid'",
+                    "target": "'hachure' (阴影线) | 'cross-hatch' (交叉阴影线) | 'solid' (实心)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "'solid' | 'dashed' | 'dotted'",
+                    "target": "'solid' (实线) | 'dashed' (虚线) | 'dotted' (点线)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "0:Architect\n1:Artist\n2:Cartoonist",
+                    "target": "0:建筑师\n1:艺术家\n2:漫画家"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "100: Fully opaque\n0: Fully transparent",
+                    "target": "100: 完全不透明\n0: 完全透明"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "set to null for 'sharp', else the stroke will be 'round'<br>type: 1==LEGACY,<br>2==PROPORTIONAL RADIUS,<br>3==ADAPTIVE RADIUS, value: adaptive factor defaults to 32",
+                    "target": "设为 null 表示“尖角”，否则笔触将为“圆角”<br>类型：1==旧版 (LEGACY),<br>2==比例半径,<br>3==自适应半径，值：自适应系数默认为 32"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "1: Virgil, 2:Helvetica, 3:Cascadia, 4:Local Font, 5: Excalifont, 6: Nunito, 7: Lilita One, 8: Comic Shanns, 9: Liberation Sans",
+                    "target": "1: Virgil, 2:Helvetica, 3:Cascadia, 4:本地字体, 5: Excalifont, 6: Nunito, 7: Lilita One, 8: Comic Shanns, 9: Liberation Sans"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "'left' | 'right' | 'center'",
+                    "target": "'left' (左对齐) | 'right' (右对齐) | 'center' (居中)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "For future use, has no effect currently; 'top' | 'bottom' | 'middle'",
+                    "target": "未来用途，当前无效果；'top' (顶部) | 'bottom' (底部) | 'middle' (中间)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "'triangle' | 'dot' | 'arrow' | 'bar' | null",
+                    "target": "'triangle' (三角形) | 'dot' (点) | 'arrow' (箭头) | 'bar' (短横) | null (无)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "'dark' | 'light'",
+                    "target": "'dark' (深色) | 'light' (浅色)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Set ea.style.roundness. 0: is the legacy value, 3: is the current default value, null is sharp",
+                    "target": "设置 ea.style.roundness。0：旧版值，3：当前默认值，null 为尖角"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Returns the dimensions of a standard page size in pixels.\n\n@param {PageSize} pageSize - The standard page size. Possible values are \"A0\", \"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"Letter\", \"Legal\", \"Tabloid\".\n@param {PageOrientation} orientation - The orientation of the page. Possible values are \"portrait\" and \"landscape\".\n@returns {PageDimensions} - An object containing the width and height of the page in pixels.\n\n@typedef {Object} PageDimensions\n@property {number} width - The width of the page in pixels.\n@property {number} height - The height of the page in pixels.\n\n@typedef {\"A0\" | \"A1\" | \"A2\" | \"A3\" | \"A4\" | \"A5\" | \"Letter\" | \"Legal\" | \"Tabloid\"} PageSize\n\n@typedef {\"portrait\" | \"landscape\"} PageOrientation",
+                    "target": "以像素为单位返回标准页面尺寸的维度。\n\n@param {PageSize} pageSize - 标准页面尺寸。可选值为 \"A0\", \"A1\", \"A2\", \"A3\", \"A4\", \"A5\", \"Letter\", \"Legal\", \"Tabloid\"。\n@param {PageOrientation} orientation - 页面方向。可选值为 \"portrait\" (纵向) 和 \"landscape\" (横向)。\n@returns {PageDimensions} - 包含以像素为单位的页面宽度和高度的对象。\n\n@typedef {Object} PageDimensions\n@property {number} width - 像素宽度。\n@property {number} height - 像素高度。\n\n@typedef {\"A0\" | \"A1\" | \"A2\" | \"A3\" | \"A4\" | \"A5\" | \"Letter\" | \"Legal\" | \"Tabloid\"} PageSize\n\n@typedef {\"portrait\" | \"landscape\"} PageOrientation"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The same as createPNG but returns a base64 encoded string instead of a file.",
+                    "target": "与 createPNG 相同，但返回 base64 编码的字符串而非文件。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "returns the base64 dataURL of the LaTeX equation rendered as an SVG. tex is the LaTeX equation string",
+                    "target": "返回渲染为 SVG 的 LaTeX 方程的 base64 dataURL。tex 是 LaTeX 方程字符串"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "type ConnectionPoint = \"top\" | \"bottom\" | \"left\" | \"right\" | null\nWhen null is passed as ConnectionPoint then Excalidraw will automatically decide\nnumberOfPoints is the number of points on the line. Default is 0 i.e. line will only have a start and end point.\nArrowHead: \"arrow\"|\"bar\"|\"circle\"|\"circle_outline\"|\"triangle\"|\"triangle_outline\"|\"diamond\"|\"diamond_outline\"|null",
+                    "target": "type ConnectionPoint = \"top\" | \"bottom\" | \"left\" | \"right\" | null\n当 ConnectionPoint 传入 null 时，Excalidraw 将自动决定\nnumberOfPoints 是线条上的点数。默认值为 0，即线条仅有起点和终点。\nArrowHead: \"arrow\"|\"bar\"|\"circle\"|\"circle_outline\"|\"triangle\"|\"triangle_outline\"|\"diamond\"|\"diamond_outline\"|null"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Adds a text label to a line or arrow. Currently only works with a simple straight 2-point (start & end) line",
+                    "target": "向线条或箭头添加文本标签。目前仅适用于简单的两点式（起点和终点）直线"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "clear() + reset all style values to default",
+                    "target": "清除 (clear) + 重置所有样式值为默认值"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Returns true if MD file is an Excalidraw file",
+                    "target": "如果 MD 文件是 Excalidraw 文件则返回 true"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The Obsidian view currently edited",
+                    "target": "当前正在编辑的 Obsidian 视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Markdown renderer will drop a copy of the most recent SVG here for debugging purposes",
+                    "target": "Markdown 渲染器将在此处放置最新 SVG 的副本以供调试使用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Open a file in a new workspaceleaf or reuse an existing adjacent leaf depending on Excalidraw Plugin Settings",
+                    "target": "根据 Excalidraw 插件设置，在新工作区叶片 (leaf) 中打开文件或重用现有的相邻叶片"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Measures text size based on current style settings",
+                    "target": "根据当前的样式设置测量文本尺寸"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Returns true if plugin version is >= than required\nrecommended use:\n<code>if(!ea.verifyMinimumPluginVersion || !ea.verifyMinimumPluginVersion(\"1.5.20\")) {new Notice(\"message\");return;}<code>",
+                    "target": "如果插件版本高于或等于所需版本，则返回 true\n推荐用法：\n<code>if(!ea.verifyMinimumPluginVersion || !ea.verifyMinimumPluginVersion(\"1.5.20\")) {new Notice(\"消息内容\");return;}<code>"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Returns an 8 character long random id",
+                    "target": "返回一个 8 字符长的随机 ID"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Converts a HEX color to an RGB number array. #FF0000 to [255,0,0]",
+                    "target": "将 HEX 颜色转换为 RGB 数字数组。例如 #FF0000 转换为 [255,0,0]"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Converts an RGB number array to a HEX string. [255,0,0] to #FF0000",
+                    "target": "将 RGB 数字数组转换为 HEX 字符串。例如 [255,0,0] 转换为 #FF0000"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Converts an HSL number array to an RGB number array. [0,100,50] to [255,0,0]",
+                    "target": "将 HSL 数字数组转换为 RGB 数字数组。例如 [0,100,50] 转换为 [255,0,0]"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Converts an RGB number array to an HSL number array. [255,0,0] to [0,100,50]",
+                    "target": "将 RGB 数字数组转换为 HSL 数字数组。例如 [255,0,0] 转换为 [0,100,50]"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Converts a CSS color name to its HEX color equivalent. 'White' to #FFFFFF",
+                    "target": "将 CSS 颜色名称转换为对应的 HEX 颜色值。例如 'White' 转换为 #FFFFFF"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Returns a new instance of ExcalidrawAutomate.",
+                    "target": "返回 ExcalidrawAutomate 的新实例。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "This asynchronous function should be awaited. It retrieves the filepath to a new file, taking into account the attachments preference settings in Obsidian. If the attachment folder doesn't exist, it creates it. The function returns the complete file path to the file. If the provided filename already exists, the function will append '_[number]' before the extension to generate a unique filename.Prompts the user with a dialog to select new file action.<br> - create markdown file<br> - create excalidraw file<br> - cancel action<br>The new file will be relative to this.targetView.file.path, unless parentFile is provided. If shouldOpenNewFile is true, the new file will be opened in a workspace leaf. targetPane controls which leaf will be used for the new file.<br>Returns the TFile for the new file or null if the user cancelled the action.<br><code>type PaneTarget = \"active-pane\"|\"new-pane\"|\"popout-window\"|\"new-tab\"|\"md-properties\";</code>",
+                    "target": "此异步函数应被 await。它会根据 Obsidian 的附件偏好设置获取新文件的路径。如果附件文件夹不存在，它将创建该文件夹。函数返回文件的完整路径。如果提供的文件名已存在，函数将在扩展名前附加“_[数字]”以生成唯一文件名。弹出对话框提示用户选择新文件操作：<br> - 创建 Markdown 文件<br> - 创建 Excalidraw 文件<br> - 取消操作<br>除非提供了 parentFile，否则新文件路径将相对于 this.targetView.file.path。如果 shouldOpenNewFile 为 true，新文件将在工作区叶片中打开。targetPane 控制用于新文件的叶片。<br>返回新文件的 TFile，如果用户取消操作则返回 null。<br><code>type PaneTarget = \"active-pane\"|\"new-pane\"|\"popout-window\"|\"new-tab\"|\"md-properties\";</code>"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "@returns the last recorded pointer position on the Excalidraw canvas",
+                    "target": "@returns Excalidraw 画布上最后记录的指针位置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "@returns the center position of the current view in Excalidraw coordinates",
+                    "target": "@returns Excalidraw 坐标系下当前视图的中心位置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Returns the active sidepanel tab for the given script, or null if none exists. If scriptName is omitted the function checks ea.activeScript. At most one sidepanel tab may be open per script. The returned ExcalidrawSidepanelTab may be hosted by a different ExcalidrawAutomate instance — compare sidepanelTab.getHostEA() === ea to determine ownership. Useful to detect or reuse an existing tab instead of creating a new one.",
+                    "target": "返回给定脚本的活动侧边面板标签页，如果不存在则返回 null。如果省略 scriptName，函数将检查 ea.activeScript。每个脚本最多只能打开一个侧边面板标签页。返回的 ExcalidrawSidepanelTab 可能由不同的 ExcalidrawAutomate 实例托管 —— 可通过比较 sidepanelTab.getHostEA() === ea 来确定归属。这对于检测或重用现有标签页而非创建新标签页非常有用。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Creates this EA instance's sidepanel tab; use the returned ExcalidrawSidepanelTab (setContent/setTitle, onOpen/onClose/onFocus, contentEl) to build the UI and lifecycle hooks.\nIn case the script wants to replace the sidepanel tab it created earlier, call closeSidepanelTab() first, then createSidepanelTab() again.",
+                    "target": "创建此 EA 实例的侧边面板标签页；使用返回的 ExcalidrawSidepanelTab (setContent/setTitle, onOpen/onClose/onFocus, contentEl) 来构建 UI 和生命周期钩子。\n如果脚本想要替换之前创建的侧边面板标签页，请先调用 closeSidepanelTab()，然后再调用 createSidepanelTab()。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Returns the WorkspaceLeaf hosting the Excalidraw sidepanel view, or null if the sidepanel is not present.",
+                    "target": "返回托管 Excalidraw 侧边面板视图的 WorkspaceLeaf，如果侧边面板不存在则返回 null。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Queues a one-time skip marker so sidepanel persisted restoration will not re-run the script. Intended for startup race conditions where a script is started from Command Palette/hotkey before the sidepanel has opened. If scriptName is omitted the function uses ea.activeScript. The marker is queued only when getSidepanelLeaf() is null; returns true when queued, otherwise false.",
+                    "target": "排队一个一次性的“跳过标记”，使侧边面板持久化恢复时不会重新运行该脚本。主要用于解决启动时的竞争条件（例如脚本在侧边面板打开前已由命令面板或热键启动）。如果省略 scriptName，函数将使用 ea.activeScript。仅在 getSidepanelLeaf() 为 null 时标记才会入队；成功入队返回 true，否则返回 false。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Toggles the Excalidraw sidepanel visibility when the sidepanel is hosted in the left or right workspace split. If the sidepanel is not attached to a left/right sidebar, no action is taken.",
+                    "target": "当侧边面板托管在左侧或右侧工作区分割区时，切换 Excalidraw 侧边面板的可见性。如果侧边面板未附着在左/右侧栏，则不执行任何操作。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Pins the active script's sidepanel tab so it persists across Obsidian restarts and returns it.",
+                    "target": "固定活动脚本的侧边面板标签页，使其在 Obsidian 重启后依然存在，并将其返回。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Parses raw text through targetView.excalidrawData using the same parsing pipeline as ExcalidrawData (including transclusion resolution, link brackets, and link/url prefixes from frontmatter). Works only when ea.targetView is set and loaded.",
+                    "target": "通过 targetView.excalidrawData 解析原始文本，使用与 ExcalidrawData 相同的解析管线（包括嵌入解析、链接括号以及来自 frontmatter 的链接/URL 前缀）。仅在设置并加载了 ea.targetView 时生效。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Generates a new Obsidian Leaf following Excalidraw plugin settings such as open in Main Workspace or not, open in adjacent pane if available, etc.<br>@param origo: the currently active leaf, the origin of the new leaf<br>@param targetPane: <code>type PaneTarget = \"active-pane\"|\"new-pane\"|\"popout-window\"|\"new-tab\"|\"md-properties\";",
+                    "target": "根据 Excalidraw 插件设置（例如是否在主工作区打开、是否在相邻面板打开等）生成一个新的 Obsidian 叶片 (Leaf)。<br>@param origo: 当前活动叶片，新叶片的来源<br>@param targetPane: <code>type PaneTarget = \"active-pane\"|\"new-pane\"|\"popout-window\"|\"new-tab\"|\"md-properties\";"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Returns the current device type. Possible values are: <br><code>type DeviceType = {<br>  isDesktop: boolean,<br>  isPhone: boolean,<br>  isTablet: boolean,<br>  isMobile: boolean,<br>  isLinux: boolean,<br>  isMacOS: boolean,<br>  isWindows: boolean,<br>  isIOS: boolean,<br>  isAndroid: boolean<br>};",
+                    "target": "返回当前设备类型。可能的值为：<br><code>type DeviceType = {<br>  isDesktop (桌面端): boolean,<br>  isPhone (手机): boolean,<br>  isTablet (平板): boolean,<br>  isMobile (移动端): boolean,<br>  isLinux: boolean,<br>  isMacOS: boolean,<br>  isWindows: boolean,<br>  isIOS: boolean,<br>  isAndroid: boolean<br>};"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Checks if the folder exists, if not, creates it.",
+                    "target": "检查文件夹是否存在，如果不存在则创建它。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Checks if the filepath already exists, if so, returns a new filepath with a number appended to the filename else returns the filepath as provided.",
+                    "target": "检查文件路径是否已存在。如果已存在，则返回文件名后附数字的新路径；否则按原样返回文件路径。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Grabs the codeblock content from the supplied markdown string. Returns an array of dictionaries with the codeblock content and type",
+                    "target": "从提供的 Markdown 字符串中抓取代码块内容。返回一个包含代码块内容和类型的字典数组。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Converts a string to a DataURL.",
+                    "target": "将字符串转换为 DataURL。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Sets Excalidraw in the targetView to view-mode",
+                    "target": "将 targetView 中的 Excalidraw 设置为查看模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Splits a file path into its components.",
+                    "target": "将文件路径拆分为各个组成部分。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Compresses String to a Base64 string using LZString",
+                    "target": "使用 LZString 将字符串压缩为 Base64 字符串"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Decompresses a base 64 compressed string using LZString",
+                    "target": "使用 LZString 解压 Base64 格式的压缩字符串"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The TFile of the currently running script",
+                    "target": "当前正在运行脚本的 TFile 对象"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Denotes an excalidraw file. If key is not present, the file will not be recognized as an Excalidraw file. Valid values are 'parsed' and 'raw'",
+                    "target": "标识 Excalidraw 文件。如果不存在此键，该文件将不被识别为 Excalidraw 文件。有效值为 'parsed' (已解析) 和 'raw' (原始)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Specifies how Excalidraw should open by default. Valid values are: view|zen",
+                    "target": "指定 Excalidraw 的默认打开方式。有效值为：view (查看模式)|zen (禅模式)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "The value of this field will be executed as javascript code using the Script Engine environment. Use this to initiate custom actions or logic when loading your drawing.",
+                    "target": "此字段的值将作为 JavaScript 代码在脚本引擎环境中执行。使用此功能可在加载绘图时启动自定义操作或逻辑。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Default value (if not set) is true, if set to false internal links will not be exported to SVG images and PDFs.",
+                    "target": "默认值（如果未设置）为 true；如果设为 false，内部链接将不会导出到 SVG 图像和 PDF 中。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "If this key is present the file will be opened as a markdown file in the editor",
+                    "target": "如果存在此键，文件将在编辑器中作为 Markdown 文件打开"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "Override autoexport settings for this file. Valid values are\nnone\nboth\npng\nsvg",
+                    "target": "覆盖此文件的自动导出设置。有效值为：\nnone (无)\nboth (两者)\npng\nsvg"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "desc",
+                    "source": "If this key is present the drawing will be handled as a mask to crop an image.",
+                    "target": "如果存在此键，绘图将被视为用于裁剪图像的遮罩 (mask)。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "GPOS Lookup 3 not supported",
+                    "target": "不支持 GPOS 查找类型 3"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "GPOS Lookup 4 not supported",
+                    "target": "不支持 GPOS 查找类型 4"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "GPOS Lookup 5 not supported",
+                    "target": "不支持 GPOS 查找类型 5"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "GPOS Lookup 6 not supported",
+                    "target": "不支持 GPOS 查找类型 6"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "GPOS Lookup 7 not supported",
+                    "target": "不支持 GPOS 查找类型 7"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "GPOS Lookup 8 not supported",
+                    "target": "不支持 GPOS 查找类型 8"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "GPOS Lookup 9 not supported",
+                    "target": "不支持 GPOS 查找类型 9"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "new drawing not recognized as an excalidraw file",
+                    "target": "新绘图未被识别为 Excalidraw 文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Excalidraw not available",
+                    "target": "Excalidraw 不可用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "ea.onCanvasColorChangeHook exception",
+                    "target": "ea.onCanvasColorChangeHook 发生异常"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "targetView not set, or no longer active. Use setView before calling this function",
+                    "target": "targetView 未设置或不再处于活动状态。调用此函数前请先使用 setView"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "this function is not available on Obsidian Mobile",
+                    "target": "此函数在 Obsidian 移动端不可用"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "PDF Files",
+                    "target": "PDF 文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "All Files",
+                    "target": "所有文件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Pen settings",
+                    "target": "画笔设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Perfect Freehand settings",
+                    "target": "Perfect Freehand 设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Tapering options for the start of the line.",
+                    "target": "线条起始处的渐变选项。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Tapering options for the end of the line.",
+                    "target": "线条末尾处的渐变选项。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Video about Obsidian Publish support",
+                    "target": "关于 Obsidian Publish 支持的视频"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Collecting data...",
+                    "target": "正在收集数据..."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Status: ",
+                    "target": "状态： "
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Check Recursive",
+                    "target": "递归检查"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Open Selected",
+                    "target": "打开选中项"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Apprentice of Sketchnoting",
+                    "target": "涂鸦学徒"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Champion of Spatial Thinking",
+                    "target": "空间思维冠军"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Hero of Visual Notetaking",
+                    "target": "视觉笔记英雄"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "title",
+                    "source": "Legend of Visual Thinking",
+                    "target": "视觉思维传奇"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "error(\"forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported\")",
+                    "target": "error(\"forceFrameRate 接收 0 到 125 之间的正整数，不支持强制超过 125 fps 的帧率\")"
+                },
+                {
+                    "source": "Notice(`The folder cannot be created because it already exists as a file: ${e}.`)",
+                    "target": "Notice(`无法创建文件夹，因为已存在同名文件：${e}。`)"
+                },
+                {
+                    "source": "log(\"patching mobile view\")",
+                    "target": "log(\"正在修补移动端视图\")"
+                },
+                {
+                    "source": "Notice(\"Excalidraw Image Cache is Initialized - You may now retry opening your damaged drawing.\")",
+                    "target": "Notice(\"Excalidraw 图像缓存已初始化 - 现在您可以重试打开受损的绘图。\")"
+                },
+                {
+                    "source": "log(\"Initialized Excalidraw Image Cache\")",
+                    "target": "log(\"Excalidraw 图像缓存已初始化\")"
+                },
+                {
+                    "source": "Notice(\"Could not open ScriptEngine repository\")",
+                    "target": "Notice(\"无法打开脚本引擎仓库\")"
+                },
+                {
+                    "source": "setText(\"Pen Settings\")",
+                    "target": "setText(\"画笔设置\")"
+                },
+                {
+                    "source": "setName(\"Pen type\")",
+                    "target": "setName(\"画笔类型\")"
+                },
+                {
+                    "source": "setDesc(\"Select type of pen\")",
+                    "target": "setDesc(\"选择画笔类型\")"
+                },
+                {
+                    "source": "setName(\"Select stroke color\")",
+                    "target": "setName(\"选择笔触颜色\")"
+                },
+                {
+                    "source": "setButtonText(\"Use Canvas Current\")",
+                    "target": "setButtonText(\"使用画布当前设置\")"
+                },
+                {
+                    "source": "setDesc(\"Background has color or is transparent\")",
+                    "target": "setDesc(\"背景拥有颜色或为透明\")"
+                },
+                {
+                    "source": "setName(\"Background color\")",
+                    "target": "setName(\"背景颜色\")"
+                },
+                {
+                    "source": "setName(\"Fill Style\")",
+                    "target": "setName(\"填充样式\")"
+                },
+                {
+                    "source": "setDesc(\"Line sloppiness of the shape fill pattern\")",
+                    "target": "setDesc(\"形状填充图案的线条粗糙度\")"
+                },
+                {
+                    "source": "setName(\"Highlighter pen?\")",
+                    "target": "setName(\"荧光笔模式？\")"
+                },
+                {
+                    "source": "setName(\"Pressure sensitive pen?\")",
+                    "target": "setName(\"压感笔模式？\")"
+                },
+                {
+                    "source": "setName(\"Easing function\")",
+                    "target": "setName(\"缓动函数\")"
+                },
+                {
+                    "source": "setName(\"Simulate Pressure\")",
+                    "target": "setName(\"模拟压力\")"
+                },
+                {
+                    "source": "setDesc(\"Whether to simulate pressure based on velocity.\")",
+                    "target": "setDesc(\"是否根据速度模拟压力。\")"
+                },
+                {
+                    "source": "setName(\"Cap Start\")",
+                    "target": "setName(\"起始端点\")"
+                },
+                {
+                    "source": "setDesc(\"Whether to draw a cap\")",
+                    "target": "setDesc(\"是否绘制端点\")"
+                },
+                {
+                    "source": "setDesc(\"The distance to taper. If set to true, the taper will be the total length of the stroke.\")",
+                    "target": "setDesc(\"渐变距离。如果设为 true，渐变将贯穿整个笔触长度。\")"
+                },
+                {
+                    "source": "setName(\"Cap End\")",
+                    "target": "setName(\"末尾端点\")"
+                },
+                {
+                    "source": "setText(\"Import PDF\")",
+                    "target": "setText(\"导入 PDF\")"
+                },
+                {
+                    "source": "setDesc(\"e.g.: 1,3-5,7,9-10\")",
+                    "target": "setDesc(\"例如：1,3-5,7,9-10\")"
+                },
+                {
+                    "source": "setName(\"Lock pages on canvas after import\")",
+                    "target": "setName(\"导入后锁定画布上的页面\")"
+                },
+                {
+                    "source": "setName(\"Import direction\")",
+                    "target": "setName(\"导入方向\")"
+                },
+                {
+                    "source": "setName(\"Number of columns\")",
+                    "target": "setName(\"列数\")"
+                },
+                {
+                    "source": "setName(\"Number of rows\")",
+                    "target": "setName(\"行数\")"
+                },
+                {
+                    "source": "setName(\"Size of gap between pages\")",
+                    "target": "setName(\"页间距\")"
+                },
+                {
+                    "source": "setName(\"Imported page size\")",
+                    "target": "setName(\"导入的页面尺寸\")"
+                },
+                {
+                    "source": "setDesc(`${Math.round(v.width*this.importScale)} x ${Math.round(v.height*this.importScale)}`)",
+                    "target": "setDesc(`${Math.round(v.width*this.importScale)} x ${Math.round(v.height*this.importScale)}`)"
+                },
+                {
+                    "source": "setDesc(\"Select a document first\")",
+                    "target": "setDesc(\"请先选择一个文档\")"
+                },
+                {
+                    "source": "setButtonText(\"Import PDF\")",
+                    "target": "setButtonText(\"导入 PDF\")"
+                },
+                {
+                    "source": "setText(`${t$d(\"RN_WELCOME\")} ${this.version??\"\"}`)",
+                    "target": "setText(`${t$d(\"RN_WELCOME\")} ${this.version??\"\"}`)"
+                },
+                {
+                    "source": "error(\"Failed to export to PDF: \",e),new obsidian_module.Notice(t$d(\"EXPORTDIALOG_PDF_PROGRESS_ERROR\")",
+                    "target": "error(\"导出为 PDF 失败： \",e),new obsidian_module.Notice(t$d(\"EXPORTDIALOG_PDF_PROGRESS_ERROR\")"
+                },
+                {
+                    "source": "Notice(\"Sorry, cannot edit rotated markdown documents\")",
+                    "target": "Notice(\"抱歉，无法编辑旋转过的 Markdown 文档\")"
+                },
+                {
+                    "source": "Notice(\"OpenAI API Token is not set. Please set it in plugin settings.\")",
+                    "target": "Notice(\"未设置 OpenAI API 令牌。请在插件设置中设置它。\")"
+                },
+                {
+                    "source": "Notice(\"on drop hook error. See console log for details\")",
+                    "target": "Notice(\"放置 (on drop) 钩子出错。详情请见控制台日志\")"
+                },
+                {
+                    "source": "Notice(\"Not imported to Vault. Embedded with local URI\")",
+                    "target": "Notice(\"未导入到库。已使用本地 URI 嵌入\")"
+                },
+                {
+                    "source": "Notice(`Exported to ${a?.name}`,6e3)});download(\"data:text/plain;charset=utf-8\",encodeURIComponent(JSON.stringify(this.getScene(e),null,\"\\t\")),`${this.file.basename}.excalidraw`)",
+                    "target": "Notice(`已导出到 ${a?.name}`,6e3)});download(\"data:text/plain;charset=utf-8\",encodeURIComponent(JSON.stringify(this.getScene(e),null,\"\\t\")),`${this.file.basename}.excalidraw`)"
+                },
+                {
+                    "source": "Notice(\"Unknown error, save is taking too long\")",
+                    "target": "Notice(\"未知错误，保存耗时过长\")"
+                },
+                {
+                    "source": "Notice(\"Unexpected error\")",
+                    "target": "Notice(\"意外错误\")"
+                },
+                {
+                    "source": "Notice(`Unexpected error: ${e.message}`)",
+                    "target": "Notice(`意外错误：${e.message}`)"
+                },
+                {
+                    "source": "Notice(\"Image not found\")",
+                    "target": "Notice(\"未找到图像\")"
+                },
+                {
+                    "source": "Notice(\"Failed. Could not download image!\")",
+                    "target": "Notice(\"失败。无法下载图像！\")"
+                },
+                {
+                    "source": "Notice(\"Image successfully converted to local file\")",
+                    "target": "Notice(\"图像已成功转换为本地文件\")"
+                },
+                {
+                    "source": "setText(\"No match\")",
+                    "target": "setText(\"无匹配\")"
+                },
+                {
+                    "source": "log(\"User selected color: \" + selected);} else {console.log(\"User cancelled color selection\")",
+                    "target": "log(\"用户选择了颜色：\" + selected);} else {console.log(\"用户取消了颜色选择\")"
+                },
+                {
+                    "source": "Notice(`Hello World!\\\\n\\\\nFile: ${ea.targetView.file.basename}`)",
+                    "target": "Notice(`Hello World!\\\\n\\\\n文件：${ea.targetView.file.basename}`)"
+                },
+                {
+                    "source": "log(\"No view loaded\")",
+                    "target": "log(\"未加载视图\")"
+                },
+                {
+                    "source": "Notice(`There were errors while parsing the given SVG:\\n${t.errors}`)",
+                    "target": "Notice(`解析指定的 SVG 时出错：\\n${t.errors}`)"
+                },
+                {
+                    "source": "Notice(\"Multiple frames are not supported for image cropping. Discarding frames from mask.\")",
+                    "target": "Notice(\"图像裁剪不支持多帧。将从遮罩中丢弃这些帧。\")"
+                },
+                {
+                    "source": "Notice(\"No image found. Cannot crop.\")",
+                    "target": "Notice(\"未找到图像。无法裁剪。\")"
+                },
+                {
+                    "source": "log(\"Adding CMAP format 12 (needed!)\")",
+                    "target": "log(\"正在添加 CMAP 格式 12 (必需！)\")"
+                },
+                {
+                    "source": "log(\"---EXEC FPGM---\")",
+                    "target": "log(\"---执行 FPGM---\")"
+                },
+                {
+                    "source": "log(\"Hinting error in PREP:\"+e),this._errorState=2}}if(!(this._errorState>1))try{return execGlyph(e,a)}catch(e){return this._errorState<1&&(console.log(\"Hinting error:\"+e),console.log(\"Note: further hinting errors are silenced\")",
+                    "target": "log(\"PREP 中的提示 (Hinting) 错误：\"+e),this._errorState=2}}if(!(this._errorState>1))try{return execGlyph(e,a)}catch(e){return this._errorState<1&&(console.log(\"提示错误：\"+e),console.log(\"注意：后续的提示错误将被隐藏\")"
+                },
+                {
+                    "source": "log(\"---EXEC COMP \"+c+\"---\")",
+                    "target": "log(\"---执行 COMP \"+c+\"---\")"
+                },
+                {
+                    "source": "log(\"---EXEC COMPOSITE---\")",
+                    "target": "log(\"---执行复合 (COMPOSITE)---\")"
+                },
+                {
+                    "source": "log(\"---EXEC GLYPH---\")",
+                    "target": "log(\"---执行字形 (GLYPH)---\")"
+                },
+                {
+                    "source": "Notice(\"File not found. NewExcalidraw Drawing is taking too long to create. Please try again.\")",
+                    "target": "Notice(\"文件未找到。新建 Excalidraw 绘图耗时过长。请重试。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: Excalidraw\")",
+                    "target": "setPlaceholder(\"例如：Excalidraw\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: Excalidraw/Cropped\")",
+                    "target": "setPlaceholder(\"例如：Excalidraw/Cropped\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: Excalidraw/Annotations\")",
+                    "target": "setPlaceholder(\"例如：Excalidraw/Annotations\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: Excalidraw/Scripts\")",
+                    "target": "setPlaceholder(\"例如：Excalidraw/Scripts\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: Drawing \")",
+                    "target": "setPlaceholder(\"例如：绘图 \")"
+                },
+                {
+                    "source": "setPlaceholder(\"YYYY-MM-DD HH.mm.ss\")",
+                    "target": "setPlaceholder(\"YYYY-MM-DD HH.mm.ss\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: cropped_\")",
+                    "target": "setPlaceholder(\"例如：cropped_\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: _cropped\")",
+                    "target": "setPlaceholder(\"例如：_cropped\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: annotated_\")",
+                    "target": "setPlaceholder(\"例如：annotated_\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: _annotated\")",
+                    "target": "setPlaceholder(\"例如：_annotated\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: 4096\")",
+                    "target": "setPlaceholder(\"例如：4096\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: https://api.openai.com/v1/chat/completions\")",
+                    "target": "setPlaceholder(\"例如：https://api.openai.com/v1/chat/completions\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Enter a number\")",
+                    "target": "setPlaceholder(\"输入数字\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: 400\")",
+                    "target": "setPlaceholder(\"例如：400\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Enter a number e.g. 500\")",
+                    "target": "setPlaceholder(\"输入数字，例如 500\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Enter a number e.g. 800\")",
+                    "target": "setPlaceholder(\"输入数字，例如 800\")"
+                },
+                {
+                    "source": "setPlaceholder(\"CSS Color-name|RGB-HEX\")",
+                    "target": "setPlaceholder(\"CSS 颜色名|RGB-HEX\")"
+                },
+                {
+                    "source": "setPlaceholder(\"filename of css file in vault\")",
+                    "target": "setPlaceholder(\"库中 CSS 文件的文件名\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: Excalidraw/FontAssets\")",
+                    "target": "setPlaceholder(\"例如：Excalidraw/FontAssets\")"
+                },
+                {
+                    "source": "setPlaceholder(\"e.g.: preamble.sty\")",
+                    "target": "setPlaceholder(\"例如：preamble.sty\")"
+                },
+                {
+                    "source": "setText(\"Congratulations, glorious knight!\")",
+                    "target": "setText(\"恭喜你，荣耀的骑士！\")"
+                },
+                {
+                    "source": "Notice(\"Error adding ObserverManager\",6e3),console.error(\"Error adding ObserverManager\",e)}this.plugin.logStartupEvent(\"ObserverManager added\")",
+                    "target": "Notice(\"添加 ObserverManager 出错\",6e3),console.error(\"添加 ObserverManager 出错\",e)}this.plugin.logStartupEvent(\"ObserverManager 已添加\")"
+                },
+                {
+                    "source": "Notice(\"Error loading the Excalidraw package. Some features may not work correctly.\",1e4),console.error(\"Error loading the Excalidraw package\",e)}e.logStartupEvent(\"Excalidraw package unpacked\")",
+                    "target": "Notice(\"加载 Excalidraw 包出错。某些功能可能无法正常运作。\",1e4),console.error(\"加载 Excalidraw 包出错\",e)}e.logStartupEvent(\"Excalidraw 包已解压\")"
+                },
+                {
+                    "source": "setText(\"Out of Date SVG Files\")",
+                    "target": "setText(\"过期的 SVG 文件\")"
+                },
+                {
+                    "source": "Notice(\"Error registering commands\",6e3),console.error(\"Error registering commands\",e)}this.plugin.logStartupEvent(\"Commands registered\")",
+                    "target": "Notice(\"注册命令出错\",6e3),console.error(\"注册命令出错\",e)}this.plugin.logStartupEvent(\"命令已注册\")"
+                },
+                {
+                    "source": "Notice(\"The compressed string is corrupted. Unable to decompress data.\")",
+                    "target": "Notice(\"压缩字符串已损坏。无法解压数据。\")"
+                },
+                {
+                    "source": "Notice(\"Taskbone OCR is not enabled. Please go to plugins settings to enable it.\",4e3),!0))}}),this.addCommand({id:\"rerun-ocr\",name:t$d(\"RERUN_OCR\")",
+                    "target": "Notice(\"Taskbone OCR 未启用。请前往插件设置开启它。\",4e3),!0))}}),this.addCommand({id:\"rerun-ocr\",name:t$d(\"RERUN_OCR\")"
+                },
+                {
+                    "source": "Notice(\"Taskbone OCR is not enabled. Please go to plugins settings to enable it.\",4e3),!0))}}),this.addCommand({id:\"search-text\",name:t$d(\"SEARCH\")",
+                    "target": "Notice(\"Taskbone OCR 未启用。请前往插件设置开启它。\",4e3),!0))}}),this.addCommand({id:\"search-text\",name:t$d(\"SEARCH\")"
+                },
+                {
+                    "source": "Notice(\"Please try again.\")",
+                    "target": "Notice(\"请重试。\")"
+                },
+                {
+                    "source": "Notice(\"Select a single back-of-the-note card and try again\")",
+                    "target": "Notice(\"请选择单张卡片背面重试\")"
+                },
+                {
+                    "source": "Notice(`Can't load image\\n\\n${a}`)",
+                    "target": "Notice(`无法加载图像\\n\\n${a}`)"
+                },
+                {
+                    "source": "error(\"Error registering event listeners\",e)}this.plugin.logStartupEvent(\"Event listeners registered\")",
+                    "target": "error(\"注册事件监听器出错\",e)}this.plugin.logStartupEvent(\"事件监听器已注册\")"
+                },
+                {
+                    "source": "Notice(`Installed: ${l.basename}`)",
+                    "target": "Notice(`已安装：${l.basename}`)"
+                },
+                {
+                    "source": "Notice(`Error installing script: ${r}`)",
+                    "target": "Notice(`安装脚本出错：${r}`)"
+                },
+                {
+                    "source": "Notice(`Converted ${i.length} files.`)",
+                    "target": "Notice(`已转换 ${i.length} 个文件。`)"
+                },
+                {
+                    "source": "Notice(`Startup script not found: ${e}`)",
+                    "target": "Notice(`未找到启动脚本：${e}`)"
+                },
+                {
+                    "source": "Notice(`Error running startup script: ${e}`)",
+                    "target": "Notice(`运行启动脚本出错：${e}`)"
+                },
+                {
+                    "source": "name:`(Script) ${t}`",
+                    "target": "name:`(脚本) ${t}`"
+                },
+                {
+                    "source": "textContent=`${a+1} / ${t.length}`",
+                    "target": "textContent=`${a+1} / ${t.length}`"
+                },
+                {
+                    "source": "text:\"Pen settings\"",
+                    "target": "text:\"画笔设置\""
+                },
+                {
+                    "source": "text:\"Perfect Freehand settings\"",
+                    "target": "text:\"Perfect Freehand 设置\""
+                },
+                {
+                    "source": "text:\"Tapering options for the start of the line.\"",
+                    "target": "text:\"线条起始处的渐变选项。\""
+                },
+                {
+                    "source": "text:\"Tapering options for the end of the line.\"",
+                    "target": "text:\"线条末尾处的渐变选项。\""
+                },
+                {
+                    "source": "innerText=`${Math.round(e.width*this.importScale)} x ${Math.round(e.height*this.importScale)}`",
+                    "target": "innerText=`${Math.round(e.width*this.importScale)} x ${Math.round(e.height*this.importScale)}`"
+                },
+                {
+                    "source": "innerText=`The selected document has ${this.pdfDoc.numPages} pages. Please select pages between 1 and ${this.pdfDoc.numPages}`",
+                    "target": "innerText=`所选文档共有 ${this.pdfDoc.numPages} 页。请选择 1 到 ${this.pdfDoc.numPages} 之间的页码`"
+                },
+                {
+                    "source": "innerText=` ${e.toString()}`",
+                    "target": "innerText=` ${e.toString()}`"
+                },
+                {
+                    "source": "innerText=` ${this.numColumns.toString()}`",
+                    "target": "innerText=` ${this.numColumns.toString()}`"
+                },
+                {
+                    "source": "innerText=` ${this.numRows.toString()}`",
+                    "target": "innerText=` ${this.numRows.toString()}`"
+                },
+                {
+                    "source": "innerText=` ${this.gapSize.toString()}`",
+                    "target": "innerText=` ${this.gapSize.toString()}`"
+                },
+                {
+                    "source": "innerText=`Importing page ${l} (${o+1} of ${this.pagesToImport.length})`",
+                    "target": "innerText=`正在导入第 ${l} 页 (共 ${this.pagesToImport.length} 页中的第 ${o+1} 页)`"
+                },
+                {
+                    "source": "name:\"PDF Files\"",
+                    "target": "name:\"PDF 文件\""
+                },
+                {
+                    "source": "name:\"All Files\"",
+                    "target": "name:\"所有文件\""
+                },
+                {
+                    "source": "link:`📂 ${r}`",
+                    "target": "link:`📂 ${r}`"
+                },
+                {
+                    "source": "name: \"+e)},input.autodetect.push({p:5,test:(e,...t)=>{if(!t.length&&\"",
+                    "target": "name: \"+e)},input.autodetect.push({p:5,test:(e,...t)=>{if(!t.length&&\""
+                },
+                {
+                    "source": "name: \"myPDF.pdf\"",
+                    "target": "name: \"我的PDF.pdf\""
+                },
+                {
+                    "source": "name:\"offset \"",
+                    "target": "name:\"偏移量 \""
+                },
+                {
+                    "source": "name:\"length \"",
+                    "target": "name:\"长度 \""
+                },
+                {
+                    "source": "name:\"tag \"",
+                    "target": "name:\"标签 \""
+                },
+                {
+                    "source": "innerText=` ${t.value.toString()}`",
+                    "target": "innerText=` ${t.value.toString()}`"
+                },
+                {
+                    "source": "innerText=`Status: ${s+1}/${o} ${c?c.name:n.path}`",
+                    "target": "innerText=`状态：${s+1}/${o} ${c?c.name:n.path}`"
+                },
+                {
+                    "source": "text:\"Video about Obsidian Publish support\"",
+                    "target": "text:\"关于 Obsidian Publish 支持的视频\""
+                },
+                {
+                    "source": "text:\"Collecting data...\"",
+                    "target": "text:\"正在收集数据...\""
+                },
+                {
+                    "source": "text:\"Status: \"",
+                    "target": "text:\"状态：\""
+                },
+                {
+                    "source": "innerText=\"No out of date files found.\"",
+                    "target": "innerText=\"未发现过期文件。\""
+                },
+                {
+                    "source": "text:\"Check Recursive\"",
+                    "target": "text:\"递归检查\""
+                },
+                {
+                    "source": "innerText=\"Select files to open.\"",
+                    "target": "innerText=\"选择要打开的文件。\""
+                },
+                {
+                    "source": "text:\"Open Selected\"",
+                    "target": "text:\"打开选中项\""
+                }
+            ]
+        }
+    }
+}
